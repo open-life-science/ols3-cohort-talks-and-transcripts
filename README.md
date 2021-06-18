@@ -1,4 +1,4 @@
-# OLS Cohort Transcripts
+# OLS3 Cohort Transcripts
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
