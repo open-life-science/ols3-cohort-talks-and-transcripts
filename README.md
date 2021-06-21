@@ -2,7 +2,22 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This repository aims to make the Open Life Science videos and captions accessible, re-useable and to encourage further translation in other languages beyond English and Arabic. This project was initiated by Talarify and Open Science Community in Saudi Arabia to facilitate learning of Open science practices to novive learner in their communities.
+This repository aims to make the Open Life Science videos and captions accessible, re-useable and to encourage further translation in other languages beyond English and Arabic. This project was initiated by Talarify and Open Science Community in Saudi Arabia to facilitate learning of Open science practices to novice learner.
+
+## Contributing
+
+We welcome all contributions to improve this project or expand/improve the translation! Maintainers will do their best to help you if you have any
+questions, concerns, or experience any difficulties along the way. We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md).
+
+## Maintainer(s)
+
+Current maintainer of this project is
+
+* [Batool Almarzouq](https://github.com/BatoolMM)
+
+## Citation
+
+To cite any of these videos, please consult with [CITATION](CITATION)
 
 ## License
 
