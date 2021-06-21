@@ -2,7 +2,7 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This project aims to make the Open Life Science videos and captions accessible, re-useable and to encourage further translation in other languages beyond English and Arabic. This project was initiated by Talarify and Open Science Community in Saudi Arabia to facilitate learning of Open science practices to novive learner in their communities.
+This repository aims to make the Open Life Science videos and captions accessible, re-useable and to encourage further translation in other languages beyond English and Arabic. This project was initiated by Talarify and Open Science Community in Saudi Arabia to facilitate learning of Open science practices to novive learner in their communities.
 
 ## License
 
