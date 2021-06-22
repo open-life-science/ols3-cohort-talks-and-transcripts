@@ -34,7 +34,7 @@ This repository aims to make the Open Life Science (OLS-3) videos and captions a
 
 ## Contributing :gift_heart:
 
-We welcome all contributions to improve this project and to expand the translation! Maintainers will do their best to help you if you have any
+We welcome all contributions to improve this project especially first timers to expand the translation! Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way. We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md).
 
 ## Maintainer(s)
