@@ -1,0 +1,624 @@
+1
+00:00:00,630 --> 00:00:03,690
+Unknown: Okay, so roadmaps, I
+think all of us have some
+
+2
+00:00:03,690 --> 00:00:08,340
+understanding of what it is so.
+But let's forget about that for
+
+3
+00:00:08,340 --> 00:00:12,990
+a second. And let's, let's
+rethink what we know, in the
+
+4
+00:00:12,990 --> 00:00:17,070
+next sort of 10 minutes or so.
+So what we'll be doing, at the
+
+5
+00:00:17,070 --> 00:00:21,240
+end of this call, I believe,
+we'll be asking you to create or
+
+6
+00:00:21,240 --> 00:00:25,380
+revise a roadmap for your
+project. That's only for project
+
+7
+00:00:25,380 --> 00:00:30,570
+needs. That's not fundamentals
+or other friends. But yeah, so
+
+8
+00:00:30,570 --> 00:00:34,170
+in the next 10 minutes, let's
+discover how to use a roadmap to
+
+9
+00:00:34,170 --> 00:00:39,450
+plan our work and contribution
+on open projects. And we'll also
+
+10
+00:00:39,510 --> 00:00:49,470
+look at some examples. So you're
+mentioned that open leaders
+
+11
+00:00:49,470 --> 00:00:53,010
+design and build projects that
+empower others to collaborate
+
+12
+00:00:53,310 --> 00:00:57,150
+within inclusive communities.
+roadmapping is not only about
+
+13
+00:00:57,150 --> 00:01:01,170
+designing, but more importantly,
+we'd like to focus on empowering
+
+14
+00:01:01,230 --> 00:01:06,210
+others to collaborate. So again,
+going back to that open
+
+15
+00:01:06,210 --> 00:01:08,520
+leadership framework, which I
+really suggest you have a look
+
+16
+00:01:08,520 --> 00:01:12,690
+at after this call on in your
+own time as well. This
+
+17
+00:01:13,020 --> 00:01:18,300
+roadmapping is really a tool
+that we should use in our design
+
+18
+00:01:18,300 --> 00:01:23,730
+processes to to build a project
+that really facilitates
+
+19
+00:01:23,730 --> 00:01:30,090
+participation, and inclusion. So
+this is really, you'll see that
+
+20
+00:01:30,090 --> 00:01:34,560
+coming through later, as well as
+I break down the roadmap. This
+
+21
+00:01:34,560 --> 00:01:38,490
+is really about governance,
+about how we make decisions
+
+22
+00:01:38,490 --> 00:01:42,810
+about how we want to welcome
+people into our communities and
+
+23
+00:01:42,810 --> 00:01:45,420
+about project identity. So what
+the project is.
+
+24
+00:01:47,280 --> 00:01:48,000
+So
+
+25
+00:01:50,250 --> 00:01:55,530
+we want, the first step to allow
+people to empower people to
+
+26
+00:01:55,530 --> 00:01:59,550
+collaborate with us in building
+our projects is really to create
+
+27
+00:01:59,550 --> 00:02:02,700
+welcoming spaces. So I think
+that we all want our projects to
+
+28
+00:02:02,700 --> 00:02:06,750
+be welcoming spaces. And to do
+that, there's a couple of like
+
+29
+00:02:06,750 --> 00:02:11,490
+tips here you can see, so make a
+good first impression. So that
+
+30
+00:02:11,490 --> 00:02:13,860
+your contributors and yourself,
+you know that you're in the
+
+31
+00:02:13,860 --> 00:02:18,870
+right place, explain how
+contributors can get involved in
+
+32
+00:02:18,870 --> 00:02:23,160
+your project. And then also, if
+you think about it, it's really
+
+33
+00:02:23,160 --> 00:02:26,460
+helpful for people to know
+what's happening at this point,
+
+34
+00:02:26,490 --> 00:02:32,370
+and what's coming next. So,
+these are, these are kind of the
+
+35
+00:02:32,370 --> 00:02:35,850
+motivations to include these
+three different components
+
+36
+00:02:35,880 --> 00:02:38,940
+within the roadmap. So we're
+going to go through them one by
+
+37
+00:02:38,940 --> 00:02:42,120
+one in the next slides. But
+first, this project summary and
+
+38
+00:02:42,120 --> 00:02:45,630
+welcome then how to get
+involved. And then the timeline.
+
+39
+00:02:47,760 --> 00:02:51,360
+project summary, and welcome.
+It's really important because a
+
+40
+00:02:51,360 --> 00:02:54,750
+lot of people get directed to
+your roadmap, without you know,
+
+41
+00:02:54,750 --> 00:02:57,900
+any contracts or any prior
+understandings, you really have
+
+42
+00:02:57,900 --> 00:03:00,390
+to assume that they maybe know
+nothing about your project
+
+43
+00:03:00,390 --> 00:03:04,620
+beforehand. So I think it's
+important that we welcome and
+
+44
+00:03:04,620 --> 00:03:08,730
+help orient our visitors so that
+they understand where they are,
+
+45
+00:03:09,990 --> 00:03:13,650
+is often nice to have a project
+summary, for example, to say,
+
+46
+00:03:13,680 --> 00:03:16,350
+you know, two, three sentences
+of what your project is about.
+
+47
+00:03:16,800 --> 00:03:21,060
+And this also helps give a very
+clear focus for ourselves when
+
+48
+00:03:21,060 --> 00:03:26,490
+you're writing the rest of the
+roadmap. Oh, just one thing
+
+49
+00:03:26,490 --> 00:03:29,550
+before I moved on, yeah, you
+might want to make that quite
+
+50
+00:03:29,550 --> 00:03:32,520
+welcoming in your own style, as
+well. So so you know, you can
+
+51
+00:03:32,520 --> 00:03:38,940
+put emojis, for example, that I
+like, but you have. The next
+
+52
+00:03:38,940 --> 00:03:44,970
+part is how to get involved. So
+new contributors may be very
+
+53
+00:03:44,970 --> 00:03:47,670
+enthusiastic, and they may want
+to jump right in. But it doesn't
+
+54
+00:03:47,670 --> 00:03:51,540
+mean that they know how to. So
+it's really important that we
+
+55
+00:03:51,540 --> 00:03:54,090
+point to parts of the project
+that they can immediately work
+
+56
+00:03:54,090 --> 00:04:00,750
+on. And then also point to
+documentation and pages that can
+
+57
+00:04:00,750 --> 00:04:04,950
+help them check out you know,
+what's, what's happening and how
+
+58
+00:04:04,950 --> 00:04:11,580
+they can contribute. And then
+finally, we get to the timeline.
+
+59
+00:04:11,640 --> 00:04:17,670
+So that's really, yeah, the star
+of a roadmap. So the timeline is
+
+60
+00:04:17,670 --> 00:04:21,930
+there to help us organize as
+project leaders to organize our
+
+61
+00:04:21,930 --> 00:04:26,550
+tasks to complete our projects
+around the milestones that we
+
+62
+00:04:26,550 --> 00:04:30,420
+will learn to set. And then also
+to map what we're working on now
+
+63
+00:04:30,420 --> 00:04:34,140
+and what's going to happen next.
+And you can imagine that if that
+
+64
+00:04:34,140 --> 00:04:36,570
+helps you organize things, and
+it also helps you contribute or
+
+65
+00:04:36,570 --> 00:04:43,320
+understands how your projects
+work timewise. So, milestones,
+
+66
+00:04:43,710 --> 00:04:47,820
+they are significant turning
+points or events that will help
+
+67
+00:04:47,820 --> 00:04:52,740
+move the project forwards. So
+typically, these are there could
+
+68
+00:04:52,740 --> 00:04:56,370
+be many types of milestones, but
+typically they are like status
+
+69
+00:04:56,370 --> 00:05:01,260
+goals. So for example, an MVP so
+a minimal viable That's like a
+
+70
+00:05:01,290 --> 00:05:07,500
+first release of your projects
+or software or open book,
+
+71
+00:05:07,530 --> 00:05:10,980
+whatever you're working on.
+These could be dates and events.
+
+72
+00:05:10,980 --> 00:05:14,880
+So it may be you are taking your
+project to an open hackathon,
+
+73
+00:05:15,060 --> 00:05:17,130
+you may want to put that down,
+because a lot of work will be
+
+74
+00:05:17,130 --> 00:05:21,030
+done during around that date in
+that event. They could also be
+
+75
+00:05:21,030 --> 00:05:23,850
+timeframes. So that could be,
+you know, short term goals
+
+76
+00:05:23,850 --> 00:05:27,690
+medium term. So maybe depends on
+what you're trying to achieve,
+
+77
+00:05:27,690 --> 00:05:30,660
+but maybe what's going to happen
+two or three months down the
+
+78
+00:05:30,660 --> 00:05:33,690
+line, and then what's going to
+what you hope to see in the
+
+79
+00:05:33,690 --> 00:05:38,100
+year, let's say, so, you can
+think about this for your own
+
+80
+00:05:38,100 --> 00:05:43,830
+projects, discuss this with your
+mentor, and pick 123 milestones
+
+81
+00:05:43,830 --> 00:05:50,220
+for your timeline. And then once
+you have those milestones, it
+
+82
+00:05:50,220 --> 00:05:55,260
+then makes it easier to break
+things down even more. So to
+
+83
+00:05:55,260 --> 00:05:57,960
+achieve each of those
+milestones, it's good to think
+
+84
+00:05:57,960 --> 00:06:02,130
+about what tasks needs to be
+completed. So you can line these
+
+85
+00:06:02,130 --> 00:06:05,250
+up chronologically, or just
+think about the stuff that needs
+
+86
+00:06:05,250 --> 00:06:09,810
+to happen, when those master
+facilitate those milestones
+
+87
+00:06:09,810 --> 00:06:14,160
+happening. include information
+with each of the tasks, so to
+
+88
+00:06:14,160 --> 00:06:18,690
+make it easier for contributors.
+So for example, what needs to be
+
+89
+00:06:18,690 --> 00:06:24,240
+done pointers as to how you can
+get started, or the reason why
+
+90
+00:06:24,240 --> 00:06:27,990
+those tasks exists. And those
+should reinforce your vision.
+
+91
+00:06:31,320 --> 00:06:36,600
+So that was a very fast overview
+of the components of a roadmap,
+
+92
+00:06:37,020 --> 00:06:41,640
+how do we make this open, and
+that's very much determined by
+
+93
+00:06:41,640 --> 00:06:46,020
+also how you start the roadmap.
+So you can store it in a
+
+94
+00:06:46,020 --> 00:06:49,590
+separate file. So if your folks
+are familiar already with like
+
+95
+00:06:49,590 --> 00:06:54,810
+GitHub and or gitlab, or one of
+these open project platforms,
+
+96
+00:06:55,200 --> 00:06:58,590
+then you may be familiar with
+like markdown format. So you can
+
+97
+00:06:58,590 --> 00:07:03,210
+have a file called roadmap doc
+and MD, and you will, you can
+
+98
+00:07:03,210 --> 00:07:07,410
+put your roadmap there, you can
+put it in a readme file, again,
+
+99
+00:07:07,410 --> 00:07:10,050
+that's the introduction page
+that you get in these open
+
+100
+00:07:10,050 --> 00:07:14,790
+repositories. You can put it in
+an issue. Again, that's that's
+
+101
+00:07:14,790 --> 00:07:18,480
+referring to GitHub
+infrastructure. I'll show you an
+
+102
+00:07:18,480 --> 00:07:24,000
+example in a bit and, or in the
+Projects tab in GitHub, so many,
+
+103
+00:07:24,000 --> 00:07:28,890
+many ways that the idea is that
+you drop this and you try to
+
+104
+00:07:28,890 --> 00:07:31,440
+make this openly available to
+everyone who wants to look at
+
+105
+00:07:31,440 --> 00:07:37,290
+it. And also allow them to maybe
+give you feedback or, or
+
+106
+00:07:37,290 --> 00:07:41,370
+comments on your work as well.
+So let's look at one example.
+
+107
+00:07:41,760 --> 00:07:46,110
+This was very nicely done,
+Barbara nice, I think when all
+
+108
+00:07:46,110 --> 00:07:49,830
+this one happened. That's a
+roadmap for collecting
+
+109
+00:07:49,860 --> 00:07:54,240
+applications for less. So you
+can see at the top is what is
+
+110
+00:07:54,240 --> 00:07:58,410
+all asked, Why are you like, if
+you have no idea what all of
+
+111
+00:07:58,410 --> 00:08:01,200
+this is, at least the first
+sentence will let you know that
+
+112
+00:08:01,260 --> 00:08:05,010
+open lifesciences and mentoring
+and training program, and then
+
+113
+00:08:05,010 --> 00:08:09,540
+how to get involved. And then a
+very detailed timeline with a
+
+114
+00:08:09,540 --> 00:08:13,620
+major milestone. So before open
+applications, when applications
+
+115
+00:08:13,620 --> 00:08:16,320
+open when applications are
+closed, and then the task in
+
+116
+00:08:16,320 --> 00:08:22,050
+between. So this is done in a
+GitHub issue, as we can see
+
+117
+00:08:22,050 --> 00:08:30,090
+here. And yeah, that's what can
+look like in real life. So there
+
+118
+00:08:30,090 --> 00:08:32,580
+are other examples on the slides
+as well if you access the slides
+
+119
+00:08:32,580 --> 00:08:35,220
+later, and you can click into
+them and check them out in more
+
+120
+00:08:35,220 --> 00:08:43,500
+detail. That's that. So yeah, we
+hope that you know, this is an
+
+121
+00:08:43,500 --> 00:08:46,590
+introduction to empowering you
+as a project leader, you already
+
+122
+00:08:46,590 --> 00:08:50,790
+have a lot of skills to be a
+leader, but maybe we can help
+
+123
+00:08:50,790 --> 00:08:54,360
+each other do is to become more
+open and open leaders and open
+
+124
+00:08:54,360 --> 00:08:57,360
+science ambassadors. So think
+about what you'd like to achieve
+
+125
+00:08:57,420 --> 00:09:00,030
+and break that down and turn
+that into a roadmap.
+

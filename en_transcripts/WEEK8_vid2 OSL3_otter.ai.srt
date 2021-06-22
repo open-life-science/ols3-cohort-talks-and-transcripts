@@ -1,0 +1,927 @@
+1
+00:00:00,000 --> 00:00:02,640
+Unknown: I often start with one
+of my favorite tweets from a
+
+2
+00:00:02,640 --> 00:00:08,700
+postdoc at UC Riverside Who says
+I'm looking, reading a paper,
+
+3
+00:00:08,940 --> 00:00:13,860
+looking for a protocol in 1997.
+Paper, as described the 96 finds
+
+4
+00:00:13,860 --> 00:00:19,380
+96 paper as described an 87,
+find 87 paper, it paywalled. And
+
+5
+00:00:19,380 --> 00:00:24,270
+that's a very common and
+frustrating experience. This is
+
+6
+00:00:24,270 --> 00:00:29,010
+from a biologist, here's one
+from a physicist, where he says
+
+7
+00:00:29,040 --> 00:00:32,400
+devices were fabricated, as
+previously described, previously
+
+8
+00:00:32,400 --> 00:00:36,090
+described, previously described
+and the original reference as
+
+9
+00:00:36,090 --> 00:00:39,840
+devices were fabricated with
+conventional methods, right? So
+
+10
+00:00:39,840 --> 00:00:43,620
+good luck, while reading the
+paper and figuring out exactly
+
+11
+00:00:43,620 --> 00:00:47,520
+what was done and how to
+replicate it and building it.
+
+12
+00:00:48,030 --> 00:00:53,340
+And this is really the mission
+of protocols that I owe is to
+
+13
+00:00:53,490 --> 00:00:57,240
+improve what we publish to make
+it easier to share our methods
+
+14
+00:00:57,300 --> 00:01:01,470
+long before publishing and
+preprint or semi privately. And
+
+15
+00:01:01,470 --> 00:01:04,830
+then after you publish that, as
+I said, with my own personal
+
+16
+00:01:04,830 --> 00:01:08,730
+experience, to have a place
+where we can come back to, to
+
+17
+00:01:08,730 --> 00:01:12,330
+share corrections and
+optimizations. I've shared the
+
+18
+00:01:12,330 --> 00:01:16,770
+slides. So I don't want to do
+much with the slides, I just
+
+19
+00:01:16,770 --> 00:01:21,390
+want because this is really
+quick to show a little bit of
+
+20
+00:01:21,390 --> 00:01:25,290
+the platform and what I think
+makes it unique. So our mission,
+
+21
+00:01:25,290 --> 00:01:30,120
+as I said, is to make this
+sharing easier and more rigorous
+
+22
+00:01:30,510 --> 00:01:35,760
+protocols that IO is open access
+CC by license for everything
+
+23
+00:01:35,760 --> 00:01:39,330
+that's public, if you're sharing
+our business model is we charge
+
+24
+00:01:39,330 --> 00:01:42,810
+for keeping things private,
+private collaborations, if
+
+25
+00:01:42,810 --> 00:01:46,320
+you're an industry and you're
+never publishing, that's paid,
+
+26
+00:01:46,410 --> 00:01:50,100
+if you're sharing publicly, just
+as bio archive is free to read,
+
+27
+00:01:50,160 --> 00:01:54,210
+free to share open access CC by.
+And,
+
+28
+00:01:56,580 --> 00:01:59,850
+you know, as I said, we started
+in 2014. We're now at a point
+
+29
+00:01:59,850 --> 00:02:06,480
+where we have over 9000 public
+protocols. And here's one of my
+
+30
+00:02:06,480 --> 00:02:09,840
+favorite examples. These are not
+just PDFs, they're dynamic, and
+
+31
+00:02:09,840 --> 00:02:14,010
+interactive. People add videos
+inside to show you what exactly
+
+32
+00:02:14,010 --> 00:02:18,720
+they mean grind the tissue, you
+can show the 10 second video, we
+
+33
+00:02:18,720 --> 00:02:22,830
+have catalogs from reagent
+vendors, so you can detail
+
+34
+00:02:22,830 --> 00:02:27,000
+exactly what do you use? What
+are the materials that are
+
+35
+00:02:27,000 --> 00:02:31,620
+needed, where you've ordered
+that. And one of my favorite
+
+36
+00:02:31,620 --> 00:02:39,630
+examples, is this protocol from
+a researcher in Australia
+
+37
+00:02:39,630 --> 00:02:45,420
+National University. And if you
+look at this step in the
+
+38
+00:02:45,420 --> 00:02:48,210
+protocol, doesn't matter what
+the details are. But this step,
+
+39
+00:02:48,210 --> 00:02:51,870
+think of it as a recipe for
+cooking. This step says, do
+
+40
+00:02:51,870 --> 00:02:55,110
+something for two to two minutes
+timer, and it says seven
+
+41
+00:02:55,110 --> 00:02:59,610
+minutes. And this is confusing.
+And instead of an email
+
+42
+00:02:59,610 --> 00:03:04,410
+exchange, or this being a final
+paper, because protocols are
+
+43
+00:03:04,410 --> 00:03:07,710
+dynamic and interactive, you can
+mouse over on the step, you can
+
+44
+00:03:07,710 --> 00:03:10,170
+click on it, you can ask a
+question. And you can see on the
+
+45
+00:03:10,170 --> 00:03:14,310
+right hand side, one of the
+researchers reading it said wait
+
+46
+00:03:14,340 --> 00:03:18,120
+to be two to seven minutes. What
+does that mean? The question
+
+47
+00:03:18,120 --> 00:03:21,330
+goes to the author and everyone
+who's using the protocol. And
+
+48
+00:03:21,330 --> 00:03:24,510
+you can see the reply right
+there. So instead of private
+
+49
+00:03:24,510 --> 00:03:27,990
+email conversations and
+answering a question the same
+
+50
+00:03:27,990 --> 00:03:31,170
+question 10 times to different
+people, you sort of have a
+
+51
+00:03:31,170 --> 00:03:36,720
+public FAQ, that being built up.
+And with a click of a button,
+
+52
+00:03:37,440 --> 00:03:40,380
+you can create a new version.
+Again, going back to the first
+
+53
+00:03:40,410 --> 00:03:44,730
+talk we heard today, you can
+create a new version, that
+
+54
+00:03:44,730 --> 00:03:48,870
+conversation is still there. But
+this gets its own dry, you can
+
+55
+00:03:48,870 --> 00:03:54,270
+cite specific versions. And now
+you can see it says that step is
+
+56
+00:03:54,270 --> 00:03:57,630
+fixed. There was a typo. The
+author made version four and it
+
+57
+00:03:57,630 --> 00:04:01,050
+says whoops, right, that should
+be two to three minutes timer is
+
+58
+00:04:01,050 --> 00:04:06,300
+not seven anymore. So it's
+corrected. And if you go next to
+
+59
+00:04:06,300 --> 00:04:10,800
+the title, there is a compare
+button that allows you to see
+
+60
+00:04:11,250 --> 00:04:14,580
+what is the same, what's
+different between the steps,
+
+61
+00:04:14,610 --> 00:04:17,790
+what was modified between the
+versions, right? So you have a
+
+62
+00:04:17,790 --> 00:04:21,870
+snapshot and a bird's eye view
+of what are those differences?
+
+63
+00:04:21,870 --> 00:04:27,120
+What are the tweaks and
+optimizations? Now, obviously, I
+
+64
+00:04:27,120 --> 00:04:30,300
+cannot change your protocol. I
+cannot create a new version of
+
+65
+00:04:30,300 --> 00:04:35,190
+it only the author, the owner of
+the protocol can. But we do have
+
+66
+00:04:35,190 --> 00:04:38,640
+just as on GitHub, we do have
+copying and forking, so I can
+
+67
+00:04:38,640 --> 00:04:41,730
+make a branch of your protocol.
+You work with grasshoppers, I
+
+68
+00:04:41,730 --> 00:04:45,690
+work with crickets, you're doing
+this step at room temperature, I
+
+69
+00:04:45,690 --> 00:04:50,220
+do it at 30 degrees. And so I
+can make a clone of your
+
+70
+00:04:50,220 --> 00:04:54,540
+protocol it becomes mine. I can
+edit it as I use it with my
+
+71
+00:04:54,540 --> 00:04:58,380
+equipment with my strainer
+species. And then when I'm
+
+72
+00:04:58,380 --> 00:05:01,920
+ready, I can share it and we try
+it Give really clear credit to
+
+73
+00:05:01,920 --> 00:05:05,610
+both the original authors and to
+show what's the evolution of the
+
+74
+00:05:05,610 --> 00:05:11,520
+protocol. So you can see on this
+protocol itself, you can see
+
+75
+00:05:11,910 --> 00:05:15,570
+that it is a fork from another
+protocol. And you can look at
+
+76
+00:05:15,570 --> 00:05:19,260
+that history, you can click on
+the forks tab to see what's the
+
+77
+00:05:19,260 --> 00:05:22,680
+evolution of the versions and
+forks and the same compare and
+
+78
+00:05:22,680 --> 00:05:28,080
+contrast functionality that
+applies. There are a lot of it's
+
+79
+00:05:28,080 --> 00:05:31,620
+a we have a really powerful
+editor that is kind of like
+
+80
+00:05:31,620 --> 00:05:34,650
+Microsoft Word or Google Docs,
+concurrent editing, but really
+
+81
+00:05:34,650 --> 00:05:38,790
+meant for methods with regions,
+which which data set did you
+
+82
+00:05:38,790 --> 00:05:42,030
+use, right catalog numbers,
+
+83
+00:05:42,030 --> 00:05:47,010
+videos, all of the things that I
+mentioning. So check it out. It
+
+84
+00:05:47,010 --> 00:05:49,620
+doesn't cost anything to create
+an account start sharing
+
+85
+00:05:49,620 --> 00:05:52,890
+protocols, as I said, is free.
+You can always get in touch
+
+86
+00:05:52,890 --> 00:05:56,370
+requests in one on one demo. For
+more in depth, I don't have time
+
+87
+00:05:56,370 --> 00:06:00,810
+to talk about everything we've
+built since 2014. But for open
+
+88
+00:06:00,810 --> 00:06:03,930
+science, specifically, I did
+want to highlight some things.
+
+89
+00:06:03,930 --> 00:06:06,900
+So we have communities. It's not
+just a giant repository. We have
+
+90
+00:06:06,900 --> 00:06:10,110
+9000 public protocols at this
+point that's growing quickly.
+
+91
+00:06:10,650 --> 00:06:13,650
+But we also let people create
+communities where you can
+
+92
+00:06:13,680 --> 00:06:17,970
+organize the methods together.
+So this is this is a one year
+
+93
+00:06:17,970 --> 00:06:21,510
+old, obviously, community of
+people who are working on
+
+94
+00:06:21,510 --> 00:06:25,170
+Coronavirus related methods.
+There's half 1000. Researchers
+
+95
+00:06:25,170 --> 00:06:31,980
+in this group 230 plus protocols
+for sequencing testing for
+
+96
+00:06:32,430 --> 00:06:37,740
+wastewater monitoring, tracking
+variants. And because these are
+
+97
+00:06:37,740 --> 00:06:41,670
+communities when new protocols
+come in, or when updates happen,
+
+98
+00:06:42,330 --> 00:06:44,730
+everyone is notified. Everyone
+knows when there's a new
+
+99
+00:06:44,730 --> 00:06:47,280
+version, a new fork a new
+protocol added or when
+
+100
+00:06:47,280 --> 00:06:51,930
+discussions happen that I showed
+you. So it becomes a
+
+101
+00:06:51,960 --> 00:06:56,100
+collaborative method development
+workspace that's out in the
+
+102
+00:06:56,100 --> 00:06:59,100
+open. You can also have private
+side but I really wanted to
+
+103
+00:06:59,100 --> 00:07:02,970
+focus on the mission and the
+public side of this. And from
+
+104
+00:07:02,970 --> 00:07:06,210
+these Coronavirus protocols I
+really want to highlight because
+
+105
+00:07:06,210 --> 00:07:09,870
+it's just an amazing example I
+want to highlight this protocol
+
+106
+00:07:09,870 --> 00:07:13,710
+from it's actually funded by
+Wellcome Trust, the group that
+
+107
+00:07:13,710 --> 00:07:16,470
+shared it from University of
+Birmingham. This was the first
+
+108
+00:07:16,470 --> 00:07:21,120
+protocol on Coronavirus that we
+got on protocols that I owe
+
+109
+00:07:21,120 --> 00:07:28,230
+January 25th of 2020. And what I
+find amazing about it is that
+
+110
+00:07:28,230 --> 00:07:32,640
+the group that shared it, you
+can see it's actually a fork
+
+111
+00:07:32,640 --> 00:07:38,760
+from there. This is a sequencing
+of the Coronavirus RNA. This
+
+112
+00:07:38,760 --> 00:07:41,490
+protocol is a fork from what
+they shared in September of
+
+113
+00:07:41,490 --> 00:07:45,870
+2019. Before we even had
+Coronavirus. It's a fork from
+
+114
+00:07:45,870 --> 00:07:50,100
+their Ebola protocol. And they
+share the same 100 plus methods.
+
+115
+00:07:50,130 --> 00:07:54,390
+This is funded by Wellcome Trust
+and UK, ri. Their work they
+
+116
+00:07:54,390 --> 00:07:59,370
+shared this Ebola protocol in
+September. And as soon as they
+
+117
+00:07:59,370 --> 00:08:04,020
+got the SARS, cov to sequencing
+going in January, with a click
+
+118
+00:08:04,020 --> 00:08:08,520
+of a button they made a fork,
+they changed those few things.
+
+119
+00:08:09,570 --> 00:08:13,260
+And again, you can do the
+Compare and contrast. And you
+
+120
+00:08:13,260 --> 00:08:17,010
+can see what was in the Ebola
+protocol. And it's tiny things
+
+121
+00:08:17,010 --> 00:08:25,140
+right. As you can see, when you
+click compare, the differences
+
+122
+00:08:25,260 --> 00:08:29,760
+are really small. Let me
+actually go back to the first
+
+123
+00:08:29,760 --> 00:08:32,520
+version, it's easier to
+demonstrate. So what they share
+
+124
+00:08:32,520 --> 00:08:38,520
+on January 22. I said 25th it
+was January 22. If you click the
+
+125
+00:08:38,520 --> 00:08:42,420
+Compare to check it against the
+bolo protocol, the differences
+
+126
+00:08:42,420 --> 00:08:47,610
+are really tiny. They use the
+same amount of dntps random
+
+127
+00:08:47,610 --> 00:08:52,410
+hexamers. And you know step two
+is the same step one, instead of
+
+128
+00:08:52,410 --> 00:08:58,650
+10 microliters of Ebola RNA, you
+need 11 microliters of SARS cov.
+
+129
+00:08:58,650 --> 00:09:01,260
+To write it's a small
+difference, but it's important.
+
+130
+00:09:01,830 --> 00:09:07,320
+And this is really critical for
+methods that microliter can make
+
+131
+00:09:07,320 --> 00:09:11,280
+big difference for efficiency.
+It's the same as my story with
+
+132
+00:09:11,280 --> 00:09:15,360
+that one microliter to five
+microliters making or breaking
+
+133
+00:09:15,360 --> 00:09:20,700
+the protocol. And this is a
+beautiful example because they
+
+134
+00:09:20,700 --> 00:09:22,920
+were able to share it quickly.
+They were already on the
+
+135
+00:09:22,920 --> 00:09:25,740
+platform. They had the bullet
+protocol out they shared it
+
+136
+00:09:25,740 --> 00:09:32,010
+rapidly in a year. If you look
+at this protocol, right? No,
+
+137
+00:09:32,010 --> 00:09:38,670
+it's not a paper. But there are
+120,000 views of it. There are
+
+138
+00:09:38,880 --> 00:09:46,020
+2000 export into PDF printing it
+out right 57 people made copies
+
+139
+00:09:46,020 --> 00:09:49,740
+of it and modified it as they
+use it in their research group
+
+140
+00:09:50,010 --> 00:09:54,270
+to get the whole genome
+sequencing source code 260
+
+141
+00:09:54,270 --> 00:09:55,590
+comments of it.
+
+142
+00:09:56,730 --> 00:10:00,420
+And no it's not a paper. We're
+not a journal. It makes end up
+
+143
+00:10:00,420 --> 00:10:05,190
+in a paper at some point. But
+this is that rapid sharing
+
+144
+00:10:05,220 --> 00:10:11,580
+preprint like sharing that is
+critical to open science. And
+
+145
+00:10:11,580 --> 00:10:17,520
+before I take questions, the
+last thing that is really
+
+146
+00:10:17,520 --> 00:10:22,680
+special for me in highlighting
+is when you're not just sharing
+
+147
+00:10:22,680 --> 00:10:25,890
+a supplementary, but you're
+putting things in the right
+
+148
+00:10:25,890 --> 00:10:30,780
+repository, same way that we put
+protein sequences and PDB. And
+
+149
+00:10:30,780 --> 00:10:35,010
+DNA sequences in GenBank. When
+you put things in the right
+
+150
+00:10:35,010 --> 00:10:39,690
+repository, they become
+discoverable. And I showed the
+
+151
+00:10:39,690 --> 00:10:43,680
+live demo so I Gibbs skip those
+slides. And I love this example
+
+152
+00:10:43,680 --> 00:10:46,920
+where a researcher in Chile is
+asking does anybody have a
+
+153
+00:10:46,920 --> 00:10:50,850
+protocol for RNA extraction from
+primary cortical neuron
+
+154
+00:10:50,850 --> 00:10:55,440
+cultures, a postdoc at UCSF says
+there's a couple on protocols
+
+155
+00:10:55,440 --> 00:10:58,920
+that I owe, but here's the one
+that I recommend for you. And
+
+156
+00:10:59,280 --> 00:11:04,920
+what is what feels so amazing to
+me about this example is that
+
+157
+00:11:05,280 --> 00:11:10,500
+when you look at the protocol
+itself, that the postdoc pointed
+
+158
+00:11:10,500 --> 00:11:14,340
+to that should work for this
+Chilean scientists. The protocol
+
+159
+00:11:14,340 --> 00:11:16,770
+accompanies a paper in the
+journal Giga science on
+
+160
+00:11:16,770 --> 00:11:22,290
+parasites of stickleback fish,
+right. So it has nothing to do
+
+161
+00:11:22,350 --> 00:11:26,460
+with cortical neuron cultures,
+that paper is parasites or
+
+162
+00:11:26,460 --> 00:11:30,750
+stickleback fish. But because
+they didn't just add a PDF as a
+
+163
+00:11:30,750 --> 00:11:33,720
+supplementary file to their
+paper and chances that
+
+164
+00:11:33,720 --> 00:11:36,480
+somebody's looking for protocol
+for cortical neuron cultures
+
+165
+00:11:36,480 --> 00:11:40,410
+would be reading this paper,
+close to zero, but because the
+
+166
+00:11:40,410 --> 00:11:43,890
+author's shared it openly in a
+repository, not only did they
+
+167
+00:11:43,890 --> 00:11:47,010
+make their paper more rigorous
+and reproducible and easier for
+
+168
+00:11:47,010 --> 00:11:50,160
+others to repeat, but they're
+adding to the knowledge base
+
+169
+00:11:50,160 --> 00:11:54,480
+where people can find their
+protocol for good use it for
+
+170
+00:11:54,480 --> 00:11:57,420
+their technique, use it for
+their species with their
+
+171
+00:11:57,420 --> 00:12:02,520
+equipment. And so I will end
+there, there are a lot of
+
+172
+00:12:02,520 --> 00:12:05,430
+funders that are now
+recommending protocols that I
+
+173
+00:12:05,430 --> 00:12:09,930
+owe over 500 journals. When you
+submit a paper, I encourage you
+
+174
+00:12:09,930 --> 00:12:14,550
+to put a protocol protocols that
+are yo and link to it. So take a
+
+175
+00:12:14,550 --> 00:12:18,150
+look at the platform. And I'll
+stop there and would be
+
+176
+00:12:18,150 --> 00:12:24,390
+delighted to answer questions.
+Boy, and the most. I'm rushing
+
+177
+00:12:24,390 --> 00:12:28,350
+so much to make sure that
+there's time for questions that
+
+178
+00:12:28,380 --> 00:12:31,890
+the most important slide I
+didn't put up. This is the team.
+
+179
+00:12:32,400 --> 00:12:35,520
+I get the credit for the work I
+didn't do I didn't program the
+
+180
+00:12:35,520 --> 00:12:39,510
+apps. I didn't build the
+platform. That's my These are my
+
+181
+00:12:39,510 --> 00:12:43,650
+brilliant co founders Alexia and
+Irina from day one of protocols
+
+182
+00:12:43,650 --> 00:12:46,500
+that I owe Alexei has been
+leading the engineering team,
+
+183
+00:12:46,890 --> 00:12:51,450
+and we welcome feedback requests
+suggestions, and we're working
+
+184
+00:12:51,450 --> 00:12:55,710
+daily. Even though we launched
+back in 2014. We're working
+
+185
+00:12:55,710 --> 00:13:01,140
+daily on making it better and
+making it work for researchers
+
+186
+00:13:01,140 --> 00:13:01,590
+like you
+

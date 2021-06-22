@@ -1,0 +1,848 @@
+1
+00:00:00,000 --> 00:00:03,000
+Unknown: My name is David
+Selassie opoku. I'm currently a
+
+2
+00:00:03,000 --> 00:00:06,000
+farmer, I saw somebody mentioned
+that that was one of the goals.
+
+3
+00:00:06,060 --> 00:00:10,500
+So glad to see that. And also co
+founder of green goat farms, and
+
+4
+00:00:10,500 --> 00:00:14,460
+also recently, fellow at the
+Stanford digital civil society
+
+5
+00:00:14,460 --> 00:00:18,570
+lab, where exploring issues
+around African food sovereignty.
+
+6
+00:00:21,540 --> 00:00:26,610
+So to start off, I want to start
+with the definition of social
+
+7
+00:00:26,610 --> 00:00:29,940
+intrapreneurship. I pick this up
+from Shopify actually has a
+
+8
+00:00:29,940 --> 00:00:32,670
+definition that I like, and it
+says that it's doing business
+
+9
+00:00:32,670 --> 00:00:36,720
+for social cause. It might also
+be referred to as altruistic
+
+10
+00:00:36,720 --> 00:00:40,530
+intrapreneurship. Interesting.
+And then it combines commerce
+
+11
+00:00:40,590 --> 00:00:43,500
+and social issues in a way that
+improves the lives of people
+
+12
+00:00:43,740 --> 00:00:47,880
+connected to a cause. And their
+success usually is not measured
+
+13
+00:00:47,880 --> 00:00:51,540
+in profit alone. But then he
+asked the question, should an
+
+14
+00:00:51,540 --> 00:00:54,450
+entrepreneurship be social, then
+because everything should
+
+15
+00:00:54,450 --> 00:00:57,420
+benefit people. So I tend to
+generally look at it as
+
+16
+00:00:57,450 --> 00:01:00,810
+intrapreneurship should be
+social. Now, I mentioned this,
+
+17
+00:01:00,810 --> 00:01:04,980
+because I think there's a strong
+connection to open science and
+
+18
+00:01:04,980 --> 00:01:09,030
+the principles that exist within
+open science and openness. I
+
+19
+00:01:09,030 --> 00:01:12,960
+think the cheering way really
+highlights some of these
+
+20
+00:01:12,960 --> 00:01:15,360
+aspects. If you've not checked
+out a resource, you should check
+
+21
+00:01:15,360 --> 00:01:18,630
+it out. We share our weekend
+team have mentioned this several
+
+22
+00:01:18,630 --> 00:01:21,870
+times. When we talk about
+collaboration, we talk about
+
+23
+00:01:21,870 --> 00:01:26,130
+project design, we talk about
+reproducibility, communication,
+
+24
+00:01:26,160 --> 00:01:32,370
+outreach, ethics, all these to
+some extent, I lead into social
+
+25
+00:01:32,400 --> 00:01:35,790
+outcomes that benefit not just a
+group of individuals, but
+
+26
+00:01:35,850 --> 00:01:39,240
+anybody, we're talking about
+accessibility. I think anyone
+
+27
+00:01:39,240 --> 00:01:42,750
+who practices this, and sub
+build enough skills, that ends
+
+28
+00:01:42,750 --> 00:01:48,150
+up being very relevant to social
+enterpreneurship. So now I'm
+
+29
+00:01:48,150 --> 00:01:52,080
+going to talk about my journey.
+And I hope through this, you'll
+
+30
+00:01:52,080 --> 00:01:56,760
+be able to see how what I ended
+up doing to some extent, led me
+
+31
+00:01:56,760 --> 00:01:59,850
+to the path where I could feel a
+little bit more comfortable or
+
+32
+00:01:59,850 --> 00:02:03,900
+adventures to be in a social
+entrepreneur. So I'll start from
+
+33
+00:02:04,290 --> 00:02:07,170
+Ghana, I lived there for about
+17 years of my life, lower
+
+34
+00:02:07,170 --> 00:02:12,540
+middle class, Christian family
+farming family. And then I was
+
+35
+00:02:12,540 --> 00:02:16,260
+privileged to get a scholarship
+to go to last two years of high
+
+36
+00:02:16,260 --> 00:02:19,650
+school in Costa Rica ended up
+being in class with students
+
+37
+00:02:19,650 --> 00:02:22,080
+from over 65 different
+countries, which started
+
+38
+00:02:22,080 --> 00:02:27,990
+exposing me to the world and
+around commonalities that we had
+
+39
+00:02:27,990 --> 00:02:30,750
+and also differences. But I
+think the heart of that became
+
+40
+00:02:30,780 --> 00:02:33,840
+that we are all very similar. We
+all care about generally similar
+
+41
+00:02:33,840 --> 00:02:39,240
+issues. And, and that was a life
+changing moment. I did six years
+
+42
+00:02:39,240 --> 00:02:42,420
+in the US where I did my
+undergrad and my Master's in
+
+43
+00:02:42,420 --> 00:02:45,750
+biology, and then computer
+science, and also did some
+
+44
+00:02:45,750 --> 00:02:50,460
+research with UNICEF, and a lot
+of civic engagement work. And I
+
+45
+00:02:50,460 --> 00:02:54,210
+think in all of that, studying
+to understand how what I was
+
+46
+00:02:54,210 --> 00:02:58,800
+learning was going to be helpful
+to different individuals,
+
+47
+00:02:58,800 --> 00:03:03,030
+different communities, whatever
+I did, should have an impact on
+
+48
+00:03:03,030 --> 00:03:08,730
+communities. I then returned to
+Ghana, and worked at a tech
+
+49
+00:03:08,730 --> 00:03:12,990
+incubator. And one of the things
+that I quickly became a champion
+
+50
+00:03:13,020 --> 00:03:16,740
+of because that really didn't
+exist was the local Open Data
+
+51
+00:03:16,740 --> 00:03:20,070
+advocates. And the reason was
+because at least in Ghana, at
+
+52
+00:03:20,070 --> 00:03:23,010
+that time, a lot of
+intrapreneurs were trying to
+
+53
+00:03:23,010 --> 00:03:26,790
+build products, or trying to
+work with data. But most of the
+
+54
+00:03:26,790 --> 00:03:29,760
+data sets were not
+contextualized, to Ghana and
+
+55
+00:03:29,760 --> 00:03:33,420
+most of Africa. So I became the
+person who was pushing this
+
+56
+00:03:33,420 --> 00:03:38,760
+forward, which then led me into
+the open data space. I joined
+
+57
+00:03:38,790 --> 00:03:42,210
+Open Knowledge Foundation, which
+is an organization that works in
+
+58
+00:03:42,210 --> 00:03:45,810
+promoting Open Data principles,
+and was fortunate enough to
+
+59
+00:03:45,810 --> 00:03:48,870
+become the data what I call a
+data plumber, helping
+
+60
+00:03:48,870 --> 00:03:52,440
+journalists, civil society
+organizations, researchers think
+
+61
+00:03:52,440 --> 00:03:55,920
+about how open data principles
+openness can be embedded into
+
+62
+00:03:55,920 --> 00:04:00,210
+the work that you do. At the
+heart of that was really
+
+63
+00:04:00,240 --> 00:04:04,320
+recognizing that accessibility
+in terms of solving issues was
+
+64
+00:04:04,320 --> 00:04:08,460
+was a big thing to pay attention
+to. And I think in their became
+
+65
+00:04:08,460 --> 00:04:12,780
+the values that now have led me
+to leaving to focus on building
+
+66
+00:04:12,780 --> 00:04:17,190
+a farm. And the reason why I
+left become a farmer built green
+
+67
+00:04:17,190 --> 00:04:21,180
+gold farm was because I saw a
+problem that across the world,
+
+68
+00:04:21,180 --> 00:04:23,640
+we have an issue around how
+we're going to feed the world,
+
+69
+00:04:23,670 --> 00:04:27,150
+farmers are a very important
+group of people who are going to
+
+70
+00:04:27,150 --> 00:04:30,090
+be leading this, but at the same
+time, most of the time, they
+
+71
+00:04:30,090 --> 00:04:32,880
+don't have access to the skills
+and the resources that we need
+
+72
+00:04:32,880 --> 00:04:37,200
+to push this forward. And so
+greencoat is seeming to figure
+
+73
+00:04:37,200 --> 00:04:39,930
+out ways to do that with farmers
+in resource constraints
+
+74
+00:04:39,930 --> 00:04:40,830
+environments.
+
+75
+00:04:43,290 --> 00:04:45,870
+And so I've talked about social
+enterpreneurship. I've talked
+
+76
+00:04:45,870 --> 00:04:49,080
+about open science, and I think
+at the heart of all of those,
+
+77
+00:04:49,110 --> 00:04:54,030
+our community. You hear that
+being repeated in these two
+
+78
+00:04:54,060 --> 00:04:57,630
+spaces, you hear about the
+comments where there's
+
+79
+00:04:58,020 --> 00:05:00,570
+collective ownership of some
+kind of research. was very
+
+80
+00:05:00,570 --> 00:05:04,920
+successful. And then you hear
+about society. And I think for
+
+81
+00:05:04,920 --> 00:05:09,870
+anyone who believes in these
+principles who practices this,
+
+82
+00:05:09,870 --> 00:05:12,810
+who uses this social
+entrepreneurship is also an
+
+83
+00:05:12,810 --> 00:05:15,480
+avenue for you to explore
+because you are definitely
+
+84
+00:05:15,480 --> 00:05:17,730
+unexpressed, and some of the
+challenges that you deal with or
+
+85
+00:05:17,730 --> 00:05:21,840
+you have mastered, will become
+relevant there. Um, so a little
+
+86
+00:05:21,840 --> 00:05:25,170
+bit about going gold farms, we
+have four main phases that we
+
+87
+00:05:25,170 --> 00:05:28,680
+want to go through, one to
+consistently produce healthy and
+
+88
+00:05:28,680 --> 00:05:31,350
+affordable food, using
+sustainable and accessible
+
+89
+00:05:31,350 --> 00:05:34,890
+practices want to build the
+capacity of other smallholder
+
+90
+00:05:34,890 --> 00:05:37,950
+farmers to produce sustainably
+and smallholder farmers because
+
+91
+00:05:37,950 --> 00:05:43,050
+we believe that they actually
+build or have the ethos around
+
+92
+00:05:43,050 --> 00:05:45,900
+sustainability, food sovereignty
+that is needed in this world.
+
+93
+00:05:46,890 --> 00:05:49,170
+And we want to make smallholder
+farms and farmers more
+
+94
+00:05:49,170 --> 00:05:52,680
+resilience to processing of
+their produce, and then finally
+
+95
+00:05:52,680 --> 00:05:55,830
+want to turn farms into spaces
+of education, innovation,
+
+96
+00:05:55,830 --> 00:06:03,780
+urgency, and how that's a day or
+week look like. In a day or in a
+
+97
+00:06:03,780 --> 00:06:06,810
+week I'm reading or my team and
+I were reading about ways of
+
+98
+00:06:06,810 --> 00:06:11,130
+implementing research to this
+problem. So everything from
+
+99
+00:06:11,280 --> 00:06:16,680
+reading about freedom plants in
+and about GMO, and why that
+
+100
+00:06:16,890 --> 00:06:20,310
+leads to outcomes that actually
+doesn't benefit communities, or
+
+101
+00:06:20,310 --> 00:06:22,680
+even looking at science and ways
+to make data much more
+
+102
+00:06:22,680 --> 00:06:26,370
+accessible. or helping my dad
+was a farmer for over 40 years,
+
+103
+00:06:26,370 --> 00:06:29,370
+but doesn't really collect it.
+And the way that makes it much
+
+104
+00:06:29,370 --> 00:06:32,040
+easier for him to appreciate
+that and make that much more
+
+105
+00:06:32,040 --> 00:06:36,330
+accessible to him. So putting
+together and unable to team up
+
+106
+00:06:36,330 --> 00:06:39,210
+on the latest. So that's level
+of collaboration, we can do
+
+107
+00:06:39,210 --> 00:06:42,240
+things alone. So how do we bring
+in teams of different experts to
+
+108
+00:06:42,240 --> 00:06:47,970
+do this, and then believing in
+ourselves each and every day? So
+
+109
+00:06:47,970 --> 00:06:51,060
+I just wanted to say so social
+enterpreneurship Should I do it
+
+110
+00:06:51,090 --> 00:06:53,550
+there, there are four things
+that I put down that may be
+
+111
+00:06:53,550 --> 00:06:57,150
+helpful if you want to consider
+this, um, you see a social age
+
+112
+00:06:57,150 --> 00:07:00,390
+that no one you know, is
+solving. Yeah. So that may be
+
+113
+00:07:00,390 --> 00:07:05,700
+one factor to consider another.
+If there's no fixed salary, no
+
+114
+00:07:05,700 --> 00:07:09,000
+problem. That's, that's
+something we can talk about
+
+115
+00:07:09,000 --> 00:07:12,720
+later. But it's not, the comfort
+of having a salary in other
+
+116
+00:07:12,720 --> 00:07:15,990
+spaces may not always be
+guaranteed. You tend to be a
+
+117
+00:07:15,990 --> 00:07:20,130
+generalist by nature, but
+especially it's by necessity. So
+
+118
+00:07:20,460 --> 00:07:23,700
+you do everything, and then you
+specialize in specific areas
+
+119
+00:07:23,760 --> 00:07:28,650
+that you want, when it's needed.
+And if not, now, when there's
+
+120
+00:07:28,650 --> 00:07:31,200
+something that you've always
+wanted to explore, and maybe
+
+121
+00:07:31,200 --> 00:07:33,810
+now's the time you try it out,
+and you figure out whether this
+
+122
+00:07:33,810 --> 00:07:37,200
+is a path to pursue, or maybe it
+was a waste of your time, at
+
+123
+00:07:37,200 --> 00:07:39,630
+least you know that. So these
+are some things that you will
+
+124
+00:07:39,630 --> 00:07:44,010
+consider if you want to pursue
+this path. And then I want to
+
+125
+00:07:44,010 --> 00:07:48,030
+wrap up with three anecdotes
+that I've picked up that I
+
+126
+00:07:48,090 --> 00:07:52,020
+believe have helped me so far.
+And even other people that
+
+127
+00:07:52,020 --> 00:07:56,820
+advice when proceeded
+intrapreneurship path. So be
+
+128
+00:07:56,820 --> 00:08:02,400
+versatile. And I said generalize
+and then specialize think
+
+129
+00:08:02,400 --> 00:08:05,520
+socially intrapreneurship
+leverages on the ability to
+
+130
+00:08:05,520 --> 00:08:08,010
+generalize, being interested in
+different things, different
+
+131
+00:08:08,010 --> 00:08:10,950
+issues, and how to solve that,
+and then finding a way to
+
+132
+00:08:10,950 --> 00:08:15,780
+specialize in whatever that
+issue is. And again, so for me
+
+133
+00:08:15,810 --> 00:08:18,870
+being able to understand data,
+but being able to understand
+
+134
+00:08:18,870 --> 00:08:21,780
+product development, being able
+to understand different
+
+135
+00:08:21,780 --> 00:08:24,600
+societies and cultures and the
+way that they behave. And then
+
+136
+00:08:24,600 --> 00:08:26,910
+specializing on a specific
+skills, I think social
+
+137
+00:08:27,150 --> 00:08:29,820
+intrapreneurship gives you the
+ability to start off as a
+
+138
+00:08:29,820 --> 00:08:32,490
+generalist and then look at an
+issue and where you want to
+
+139
+00:08:32,490 --> 00:08:39,390
+specialize in that. Um, I think
+to do this, you need to see
+
+140
+00:08:39,390 --> 00:08:42,780
+people are the heart of this is
+people that you're working with,
+
+141
+00:08:42,810 --> 00:08:45,690
+they're either dealing with
+issues, or they're innovating,
+
+142
+00:08:45,900 --> 00:08:48,570
+and being able to start with
+them as people before whatever
+
+143
+00:08:48,570 --> 00:08:52,020
+technology whatever solution is
+important. But also letting
+
+144
+00:08:52,020 --> 00:08:57,090
+yourself be seen. As opposed to
+either be in academia, or even
+
+145
+00:08:57,090 --> 00:09:00,090
+being in a lab. it being a
+social entrepreneur, you need to
+
+146
+00:09:00,090 --> 00:09:02,220
+be out there, you need to be
+talking to customers, you need
+
+147
+00:09:02,220 --> 00:09:04,500
+to be talking to communities
+need to be building that
+
+148
+00:09:04,500 --> 00:09:07,980
+relationship, but you also have
+to let people see you. Let them
+
+149
+00:09:07,980 --> 00:09:09,480
+know you for who you are.
+
+150
+00:09:10,920 --> 00:09:13,710
+And so that's important. And
+that's one of the anecdotes that
+
+151
+00:09:13,710 --> 00:09:18,690
+I've picked over time. And then
+this is kind of a joke, but Greg
+
+152
+00:09:18,690 --> 00:09:21,390
+is the identity in your job,
+actually do not grant the
+
+153
+00:09:21,390 --> 00:09:27,960
+identity in your job, your job
+will go, but who you are as a
+
+154
+00:09:27,960 --> 00:09:32,550
+person wouldn't. And I think
+being able to find ways to
+
+155
+00:09:33,750 --> 00:09:37,770
+thrive outside your job, whether
+it's as a social entrepreneur,
+
+156
+00:09:37,770 --> 00:09:42,210
+whether it's as somebody who is
+in a company who is in a
+
+157
+00:09:42,210 --> 00:09:46,050
+university in a lab, letting
+your identity not be grounded in
+
+158
+00:09:46,050 --> 00:09:48,870
+that because that could always
+change is a valuable thing that
+
+159
+00:09:48,870 --> 00:09:51,750
+I've learned. In the past maybe
+six months, there have been many
+
+160
+00:09:51,750 --> 00:09:55,290
+opportunities that I have feel
+that I have not been accepted in
+
+161
+00:09:55,560 --> 00:09:58,890
+and learning and that that is
+not what my identity is. My
+
+162
+00:09:58,890 --> 00:10:01,170
+identity is beyond that. It's
+been something that keeps me
+
+163
+00:10:01,230 --> 00:10:06,750
+going. So without my last thing
+that I'll say is that brief, the
+
+164
+00:10:06,750 --> 00:10:10,800
+most important thing, especially
+in this time of COVID is your
+
+165
+00:10:10,800 --> 00:10:14,820
+life. Everything else is
+replaceable. And I think if you
+
+166
+00:10:14,820 --> 00:10:17,760
+want to go down the path of a
+social enterpreneur or any other
+
+167
+00:10:17,760 --> 00:10:21,510
+career option, just making sure
+that you live in a life that is
+
+168
+00:10:21,510 --> 00:10:26,490
+balanced, that you can thrive
+and be healthy as well. We'll
+
+169
+00:10:26,490 --> 00:10:30,090
+keep you going into whatever
+path you take. So stay human,
+
+170
+00:10:30,360 --> 00:10:33,900
+and be open. And with that, I
+will end here
+

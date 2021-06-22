@@ -1,0 +1,749 @@
+1
+00:00:00,000 --> 00:00:03,900
+Unknown: Hi, everyone. So first
+of all, let me just open this by
+
+2
+00:00:03,900 --> 00:00:08,280
+saying that I am not an agile
+expert. These are just some
+
+3
+00:00:08,280 --> 00:00:12,750
+techniques that I that I tend to
+use, often on my day to day.
+
+4
+00:00:13,769 --> 00:00:17,249
+And, and we will explain a
+little bit what this is and how
+
+5
+00:00:17,249 --> 00:00:20,729
+you can benefit from using this.
+So first of all, what is
+
+6
+00:00:21,780 --> 00:00:25,950
+ajl? So AJ was a bit of a
+principle or a framework to to
+
+7
+00:00:25,950 --> 00:00:30,300
+organize and structure projects,
+it's, let's let's, let's call it
+
+8
+00:00:30,300 --> 00:00:34,860
+a project manager, or project
+project management technique.
+
+9
+00:00:36,780 --> 00:00:39,930
+If if you're one of these people
+that tend to have a lot of posts
+
+10
+00:00:39,930 --> 00:00:42,990
+around with tasks to do, and so
+on, you're probably already even
+
+11
+00:00:42,990 --> 00:00:45,870
+using some of the techniques
+that the Agile movement
+
+12
+00:00:45,870 --> 00:00:46,530
+inspires.
+
+13
+00:00:47,730 --> 00:00:52,290
+But to perhaps keep it a bit
+more focused on the point. So
+
+14
+00:00:52,500 --> 00:00:55,980
+agile is something that started
+in industry,
+
+15
+00:00:57,090 --> 00:01:01,050
+it was mostly driven by an
+intention to deliver a good
+
+16
+00:01:01,050 --> 00:01:02,070
+product to,
+
+17
+00:01:03,600 --> 00:01:07,110
+to the customers, but at the
+same time to deliver that
+
+18
+00:01:07,110 --> 00:01:11,220
+product as quickly as possible,
+even if in a prototype state.
+
+19
+00:01:12,120 --> 00:01:14,010
+But at the same time, allowing
+to,
+
+20
+00:01:15,450 --> 00:01:20,190
+again, as quick as possible,
+adapt and modify the product to
+
+21
+00:01:20,190 --> 00:01:23,730
+better fit the needs of the
+client. And so as you can kind
+
+22
+00:01:23,730 --> 00:01:27,960
+of, you can kind of see from
+from just the ajl software
+
+23
+00:01:28,170 --> 00:01:30,720
+development manifest. And this
+was, as I said, was something
+
+24
+00:01:30,720 --> 00:01:33,630
+that started in the industry,
+but specifically in the software
+
+25
+00:01:33,630 --> 00:01:39,330
+world. And, and the kind of like
+striking point, and the reason
+
+26
+00:01:39,330 --> 00:01:44,310
+why it's called a jail is is in
+part because of this. Want, I
+
+27
+00:01:44,310 --> 00:01:46,980
+don't know if you can see my
+mouse cursor malvika? Can you
+
+28
+00:01:46,980 --> 00:01:48,630
+maybe give me a thumbs up? No.
+Okay.
+
+29
+00:01:49,710 --> 00:01:51,510
+Then let's see if I can do
+
+30
+00:01:54,720 --> 00:01:55,530
+this.
+
+31
+00:01:57,420 --> 00:01:58,140
+Can you see it now?
+
+32
+00:01:59,610 --> 00:02:00,000
+Yeah.
+
+33
+00:02:01,440 --> 00:02:05,220
+So so what I was pointing to is
+responding to change, this was
+
+34
+00:02:05,220 --> 00:02:06,840
+one of the aspects that
+
+35
+00:02:07,890 --> 00:02:13,020
+kind of motivated to give this
+name to, to the movement or to
+
+36
+00:02:13,020 --> 00:02:18,750
+the framework, and a trial in
+the sense of being very fast and
+
+37
+00:02:18,750 --> 00:02:23,490
+kind of responsive to, to
+requests and changes. And so you
+
+38
+00:02:23,490 --> 00:02:26,250
+might, if you if you look a
+little bit into what these, this
+
+39
+00:02:26,250 --> 00:02:30,420
+framework consists of, or if you
+compare it with other kind of
+
+40
+00:02:30,420 --> 00:02:32,460
+approaches that people use in
+the field,
+
+41
+00:02:33,480 --> 00:02:38,190
+you may encounter these these
+words, waterfall. And you might
+
+42
+00:02:38,190 --> 00:02:39,060
+find also
+
+43
+00:02:41,220 --> 00:02:45,420
+other names for this kind of
+iterative process. There's many,
+
+44
+00:02:45,420 --> 00:02:48,240
+many different ways that you can
+structure this.
+
+45
+00:02:49,860 --> 00:02:53,820
+And I'll explain a few in in a
+second. But if you just look at
+
+46
+00:02:53,820 --> 00:02:57,240
+the waterfall kind of concept,
+you can, you can see that it it
+
+47
+00:02:57,240 --> 00:03:01,500
+falls from one stage to the
+next. The key point here is that
+
+48
+00:03:01,770 --> 00:03:06,060
+all of the project plan is kind
+of defined from the beginning.
+
+49
+00:03:06,270 --> 00:03:09,180
+And you just follow along in a
+screen in a sequential fashion.
+
+50
+00:03:09,390 --> 00:03:12,390
+So you can imagine that, if at
+any point during design, or at
+
+51
+00:03:12,390 --> 00:03:14,460
+any point during the
+implementation, or one of the
+
+52
+00:03:14,460 --> 00:03:17,070
+later stages, there's something
+that you need to change about
+
+53
+00:03:17,070 --> 00:03:20,640
+the plan. This process is rather
+rigid and doesn't really allow
+
+54
+00:03:20,640 --> 00:03:24,960
+this. And so the iterative
+process is a bit more generic or
+
+55
+00:03:24,960 --> 00:03:26,640
+a bit more responsive,
+
+56
+00:03:27,720 --> 00:03:32,310
+it typically starts by breaking
+a larger problem into smaller
+
+57
+00:03:32,340 --> 00:03:36,420
+chunks, so that they become more
+actionable. Exactly what small
+
+58
+00:03:36,420 --> 00:03:40,890
+means. This is what differs a
+lot between different paradigms,
+
+59
+00:03:40,890 --> 00:03:43,680
+but it can be something that
+lasts a day, it can be something
+
+60
+00:03:43,680 --> 00:03:48,240
+that lasts a few hours. And then
+you you do these kinds of
+
+61
+00:03:48,240 --> 00:03:54,750
+sprints, or you aggregate these
+tasks into milestones. And, and
+
+62
+00:03:54,750 --> 00:03:57,840
+once each milestone is
+completed, then you reach a
+
+63
+00:03:57,840 --> 00:04:02,310
+stage where where you have like
+a first release or a prototype
+
+64
+00:04:02,340 --> 00:04:05,730
+of the thing that you're trying
+to accomplish. In the case of
+
+65
+00:04:05,730 --> 00:04:09,540
+your or less project, it can be
+a milestone, for instance, you
+
+66
+00:04:09,540 --> 00:04:13,800
+have a website to build. And you
+can think how to break the that
+
+67
+00:04:13,980 --> 00:04:18,480
+big task into smaller chunks.
+And it could be the first
+
+68
+00:04:18,480 --> 00:04:22,110
+article that you write could be
+the an example of a first
+
+69
+00:04:22,110 --> 00:04:22,680
+deliverable.
+
+70
+00:04:26,730 --> 00:04:31,560
+And so to sum it up, it's a
+technique primarily for software
+
+71
+00:04:31,560 --> 00:04:34,170
+development, but we can use it
+elsewhere. And we can go a
+
+72
+00:04:34,170 --> 00:04:38,190
+little bit more into detail of
+how to actually do that. It's
+
+73
+00:04:38,190 --> 00:04:42,360
+it's great for product project
+management, it helps you
+
+74
+00:04:42,420 --> 00:04:46,110
+visualize the work that you
+still have to do, and also to
+
+75
+00:04:48,240 --> 00:04:51,420
+invite others to join the
+project as well because
+
+76
+00:04:51,420 --> 00:04:54,300
+everything is very visible in
+terms of what needs to be done
+
+77
+00:04:54,300 --> 00:04:58,680
+and what has been done. And then
+there's lots that there's lots
+
+78
+00:04:58,680 --> 00:04:59,970
+of variations in terms of how
+
+79
+00:05:00,000 --> 00:05:04,290
+This is structured, and also in
+terms of advantages over the
+
+80
+00:05:04,290 --> 00:05:08,190
+traditional waterfall method. So
+So I mentioned breaking down
+
+81
+00:05:08,190 --> 00:05:12,660
+things into tasks and smart and
+milestones and so on. And I
+
+82
+00:05:12,660 --> 00:05:17,190
+mentioned as well that you could
+aim for slices of one to two
+
+83
+00:05:17,190 --> 00:05:21,660
+hours, ideally, not more than a
+day or two. The reason for this
+
+84
+00:05:21,660 --> 00:05:25,110
+fragmentation is because you
+want to have a good a good sense
+
+85
+00:05:25,110 --> 00:05:28,920
+of, of progress, it's very often
+the case that you estimate a
+
+86
+00:05:28,920 --> 00:05:31,710
+task to be one or two hours. And
+then it turns out to do spend an
+
+87
+00:05:31,710 --> 00:05:34,860
+entire afternoon or something
+because we get distracted,
+
+88
+00:05:34,860 --> 00:05:37,830
+because there's other things
+that we didn't really think. And
+
+89
+00:05:38,100 --> 00:05:41,760
+the idea here is that the Agile
+movement will help you structure
+
+90
+00:05:42,060 --> 00:05:45,510
+those things that are outside of
+the tasks that you're doing. And
+
+91
+00:05:45,510 --> 00:05:48,420
+they just become tasks again,
+that will get picked up later,
+
+92
+00:05:48,660 --> 00:05:52,650
+and move to a milestone that you
+will complete at a later stage.
+
+93
+00:05:54,420 --> 00:05:56,970
+And so to give you a more
+concrete example, or a real life
+
+94
+00:05:56,970 --> 00:05:57,570
+example,
+
+95
+00:05:58,590 --> 00:06:01,830
+if if you have already explored
+a little bit of GitHub, and if
+
+96
+00:06:01,830 --> 00:06:05,640
+you've perhaps browsed some of
+the existing projects there, you
+
+97
+00:06:05,640 --> 00:06:10,920
+might see project like inter
+mine, where in this in this
+
+98
+00:06:10,920 --> 00:06:14,640
+diagram, each of these gray
+boxes is
+
+99
+00:06:15,750 --> 00:06:19,410
+sorry, for the background noise.
+Each of these back each of these
+
+100
+00:06:19,530 --> 00:06:22,260
+gray boxes is a version release.
+
+101
+00:06:23,670 --> 00:06:29,610
+And the tasks themselves are
+within each of these gray boxes.
+
+102
+00:06:30,390 --> 00:06:35,220
+And in this case, milestones,
+there are several them, you can
+
+103
+00:06:35,220 --> 00:06:38,940
+see already some estimate of
+when these would be achieved.
+
+104
+00:06:39,690 --> 00:06:44,430
+And, and, and also a very
+colorful interface for for how
+
+105
+00:06:44,430 --> 00:06:49,020
+the how to label things and how
+to structure not just in terms
+
+106
+00:06:49,020 --> 00:06:51,900
+of milestones, but also in terms
+of what these tasks are, are all
+
+107
+00:06:51,900 --> 00:06:52,350
+about.
+
+108
+00:06:53,940 --> 00:06:56,400
+In a in a slightly different way
+or a more
+
+109
+00:06:58,230 --> 00:07:01,860
+kind of so one of the cons, one
+of the paradigms in a job or a
+
+110
+00:07:01,860 --> 00:07:03,960
+more popular one, if you've used
+
+111
+00:07:05,820 --> 00:07:09,570
+the Kanban style board where
+instead of having
+
+112
+00:07:10,740 --> 00:07:12,960
+the versions like or the
+milestones, as we mentioned
+
+113
+00:07:12,960 --> 00:07:16,920
+before, you have just the notion
+of what what is to be done, what
+
+114
+00:07:16,920 --> 00:07:20,130
+is in progress and what is
+already completed. So this is
+
+115
+00:07:20,130 --> 00:07:23,940
+like a simplified version is not
+so focused on one software or
+
+116
+00:07:23,940 --> 00:07:30,270
+versions or specific milestones
+or goals. But it's more to
+
+117
+00:07:30,270 --> 00:07:34,350
+capture what is actually being
+active worked on. And and you
+
+118
+00:07:34,350 --> 00:07:37,920
+could do this process within a
+milestone. So all of the tasks
+
+119
+00:07:37,920 --> 00:07:41,010
+that you now see in the screen
+could be within one milestone
+
+120
+00:07:41,340 --> 00:07:46,620
+alone. This alters this, also to
+say that for GitHub, there's
+
+121
+00:07:46,950 --> 00:07:50,970
+some simplifications and some
+automation that you can do. And
+
+122
+00:07:51,480 --> 00:07:55,080
+you we can we can talk about
+that later if you're interested.
+
+123
+00:07:55,710 --> 00:08:01,650
+And so just to wrap up some
+examples, you could have a task
+
+124
+00:08:01,650 --> 00:08:04,830
+that is just to acquire like in
+the website context that I
+
+125
+00:08:04,830 --> 00:08:08,640
+mentioned before, one, one big
+task could be to acquire a
+
+126
+00:08:08,640 --> 00:08:11,490
+domain for that website. And
+then you can see an example of
+
+127
+00:08:11,490 --> 00:08:15,840
+how to break that task down into
+smaller tasks. Or if you have a
+
+128
+00:08:15,840 --> 00:08:19,290
+specific section of the website
+that you want to create. And
+
+129
+00:08:19,290 --> 00:08:22,530
+then you can see that for that
+there's perhaps more tasks that
+
+130
+00:08:22,530 --> 00:08:25,140
+need to be completed. And so
+ideally, you would break it down
+
+131
+00:08:25,140 --> 00:08:28,320
+again, into into subsequently
+smaller steps.
+
+132
+00:08:32,340 --> 00:08:38,160
+I will skip this for for the
+sake of time. And I didn't go so
+
+133
+00:08:38,160 --> 00:08:40,890
+much into the jargon that is
+involved, I mentioned that
+
+134
+00:08:40,890 --> 00:08:44,340
+there's different sub
+frameworks, Scrum, Kanban. And
+
+135
+00:08:44,340 --> 00:08:48,420
+Extreme Programming are some
+examples of these. They all
+
+136
+00:08:48,420 --> 00:08:52,140
+follow the the Agile principles,
+what changes between them is
+
+137
+00:08:52,140 --> 00:08:55,530
+sometimes how big these tasks
+are, how big the milestones are,
+
+138
+00:08:55,830 --> 00:08:59,790
+how often you you kind of do the
+the larger loop or the smaller
+
+139
+00:08:59,790 --> 00:09:03,930
+loop for how long you do these
+things called sprints, which is
+
+140
+00:09:03,960 --> 00:09:06,570
+kind of a way of getting the
+entire group working
+
+141
+00:09:06,570 --> 00:09:11,430
+collectively in a set of tasks.
+And, and then just how you
+
+142
+00:09:11,430 --> 00:09:15,240
+structure but so without going
+too much into detail on that is
+
+143
+00:09:15,240 --> 00:09:18,990
+just different ways of handling
+the workload and in prioritizing
+
+144
+00:09:18,990 --> 00:09:25,200
+the tasks that you have to do.
+And, and then to finalize, even
+
+145
+00:09:25,200 --> 00:09:28,080
+though as I tried to be very
+superficial here as well, to
+
+146
+00:09:28,080 --> 00:09:31,530
+kind of give a high level
+introduction to this to this
+
+147
+00:09:31,530 --> 00:09:35,610
+topic. If you're if you're doing
+software development, you will
+
+148
+00:09:35,610 --> 00:09:39,480
+find that all of this probably
+translates a lot more versions,
+
+149
+00:09:39,480 --> 00:09:45,780
+milestones and so on. This kind
+of makes sense. But I I use this
+
+150
+00:09:45,780 --> 00:09:49,290
+personally for it for my own day
+to day just to manage tasks that
+
+151
+00:09:49,290 --> 00:09:53,400
+I have to do things like
+reporting or planning meetings
+
+152
+00:09:53,400 --> 00:09:57,810
+or anything, anything of this
+sort and and I find that it
+
+153
+00:09:57,810 --> 00:09:58,890
+works rather well.
+

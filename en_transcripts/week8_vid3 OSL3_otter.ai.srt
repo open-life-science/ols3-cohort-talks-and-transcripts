@@ -1,0 +1,1201 @@
+1
+00:00:00,000 --> 00:00:02,670
+Unknown: I'm here to talk about
+participator in citizen science,
+
+2
+00:00:02,670 --> 00:00:07,470
+which are two very closely
+related scientific methods that
+
+3
+00:00:08,250 --> 00:00:13,290
+are very valuable wind, and I
+think also quite productive
+
+4
+00:00:13,290 --> 00:00:18,660
+towards open research and open
+science. And I'm here with some
+
+5
+00:00:18,660 --> 00:00:21,180
+citizen scientists who are
+working with me on the project,
+
+6
+00:00:22,200 --> 00:00:25,830
+Suzanne, who I owe to Smith and
+Sarah Markham, they're all
+
+7
+00:00:25,830 --> 00:00:28,260
+fantastic contributors, they're
+autistic. And they're going to
+
+8
+00:00:28,260 --> 00:00:32,340
+talk to you in more detail about
+their experiences and areas of
+
+9
+00:00:32,340 --> 00:00:37,800
+expertise. So just to go through
+some very brief explanations.
+
+10
+00:00:37,830 --> 00:00:41,550
+Citizen Science basically
+involves any science and which
+
+11
+00:00:41,910 --> 00:00:44,880
+people who are non professional
+scientists take part. Many of
+
+12
+00:00:44,880 --> 00:00:47,970
+you may be familiar with
+zooniverse, or open source
+
+13
+00:00:47,970 --> 00:00:51,630
+funding. These are ones that
+target very particular parts of
+
+14
+00:00:51,630 --> 00:00:55,380
+the research cycle.
+participatory science is in many
+
+15
+00:00:55,380 --> 00:00:58,020
+respects a more stringent
+requirement. It means that the
+
+16
+00:00:58,020 --> 00:01:02,580
+people for whom there is most at
+stake in the research are
+
+17
+00:01:02,580 --> 00:01:05,850
+involved in empowered positions
+and directing directions,
+
+18
+00:01:05,850 --> 00:01:09,780
+setting positions. So not just
+consultants, and not just doing
+
+19
+00:01:09,780 --> 00:01:13,440
+some part of the process without
+knowing why they have to be
+
+20
+00:01:13,440 --> 00:01:18,360
+informed and they have to be
+able to direct it. I think this
+
+21
+00:01:18,360 --> 00:01:20,520
+is really important for breaking
+down the boundary between the
+
+22
+00:01:20,520 --> 00:01:23,400
+knower and the known. And as
+Sarah will talk about later,
+
+23
+00:01:23,400 --> 00:01:25,830
+there are some really good
+reasons why we need to be very
+
+24
+00:01:25,830 --> 00:01:30,480
+careful as researchers and
+scientists about thinking we
+
+25
+00:01:30,480 --> 00:01:33,780
+know more than we do, and not
+listening to the subjects very
+
+26
+00:01:33,780 --> 00:01:38,160
+search. And as I said before,
+all of these methods go
+
+27
+00:01:38,160 --> 00:01:41,010
+together. So I'm working on
+building a citizen science
+
+28
+00:01:41,010 --> 00:01:44,310
+project currently, which has
+been co created with members of
+
+29
+00:01:44,310 --> 00:01:47,340
+the autistic community to
+investigate sensory processing
+
+30
+00:01:47,340 --> 00:01:51,510
+and autism. The participatory
+research aspect brings autistic
+
+31
+00:01:51,510 --> 00:01:55,110
+people in at every stage of the
+research process from so it
+
+32
+00:01:55,110 --> 00:01:58,350
+started with the James Lind
+Alliance setting, priority
+
+33
+00:01:58,350 --> 00:02:01,470
+setting exercise which consulted
+more than 1000 autistic people
+
+34
+00:02:01,470 --> 00:02:05,850
+about what questions needed to
+be answered by autism research,
+
+35
+00:02:05,880 --> 00:02:10,830
+citizen science allows it to be
+scaled and reach more people. So
+
+36
+00:02:10,830 --> 00:02:14,160
+a citizen science platform means
+that it's not as intensive in
+
+37
+00:02:14,160 --> 00:02:17,400
+terms of one to one researcher
+time. And open source
+
+38
+00:02:17,400 --> 00:02:21,810
+development is a wonderful way
+of creating the transparency
+
+39
+00:02:21,810 --> 00:02:24,750
+that you need for participatory
+science to be meaningful, as
+
+40
+00:02:24,750 --> 00:02:28,890
+well, as has we've been
+discussing before in this
+
+41
+00:02:28,890 --> 00:02:32,100
+session. It allows you to
+collaborate with all of these
+
+42
+00:02:32,100 --> 00:02:34,890
+incredible experts around the
+world who can give you their
+
+43
+00:02:34,890 --> 00:02:40,620
+experience too. So now, Dr.
+Sarah Markham, who is a
+
+44
+00:02:40,620 --> 00:02:44,460
+researcher herself, as well as
+having lived experience with
+
+45
+00:02:44,460 --> 00:02:48,510
+autism, he is going to talk
+about why participatory science
+
+46
+00:02:49,140 --> 00:02:52,620
+is important in relation to
+heuristics in autism research.
+
+47
+00:02:52,950 --> 00:03:24,870
+So if he is there, do we have
+Sarah here? Sarah, Marco. You do
+
+48
+00:03:24,870 --> 00:03:28,860
+now I was mute. I was muted.
+Okay, that sounds a mystery.
+
+49
+00:03:29,310 --> 00:03:29,670
+Alright.
+
+50
+00:03:30,960 --> 00:03:35,130
+It's quite ironic that the worst
+heuristic is in the title when
+
+51
+00:03:35,130 --> 00:03:38,970
+research has shown that autistic
+people themselves are less
+
+52
+00:03:38,970 --> 00:03:44,340
+susceptible to many of the
+biases that more neurotypical
+
+53
+00:03:44,340 --> 00:03:50,220
+people are capable of. But but
+that's the presentation in hand.
+
+54
+00:03:51,090 --> 00:03:56,250
+Yes, changing approaches to
+autism research. It's gone from,
+
+55
+00:03:56,280 --> 00:04:00,750
+you know, viewing, you know,
+the, the the autistic person.
+
+56
+00:04:01,140 --> 00:04:05,670
+While a little Professor model
+of Hans Asperger, we've
+
+57
+00:04:05,670 --> 00:04:09,240
+progressed onto the autistic
+spectrum, looking at a multi
+
+58
+00:04:09,240 --> 00:04:13,920
+dimensional approach to autism.
+And now we're now we have the
+
+59
+00:04:13,920 --> 00:04:17,760
+autism constellation model,
+which kind of looks like a
+
+60
+00:04:17,760 --> 00:04:21,360
+crossover between a woodwork
+project and string theory. We
+
+61
+00:04:21,360 --> 00:04:24,480
+can look at those dimensions
+being curled up and perhaps
+
+62
+00:04:24,480 --> 00:04:30,360
+sometimes unfurling and, and
+then curling up again. But the
+
+63
+00:04:30,360 --> 00:04:34,320
+exciting thing about
+participatory science is that
+
+64
+00:04:34,320 --> 00:04:38,700
+it's a form of action research,
+where the people the subjects
+
+65
+00:04:38,700 --> 00:04:42,240
+themselves are, in a way,
+actually doing the science and
+
+66
+00:04:42,270 --> 00:04:45,750
+setting the protocols and
+changing the protocols. They're
+
+67
+00:04:45,750 --> 00:04:49,710
+doing the versioning themselves
+as they progress through the
+
+68
+00:04:49,710 --> 00:04:54,390
+scientific journey. So we're
+kind of experiencing a paradigm
+
+69
+00:04:54,390 --> 00:05:00,300
+shift by this participatory
+science approach. Thanks A way
+
+70
+00:05:00,300 --> 00:05:04,650
+of challenging conventional
+static means of conducting
+
+71
+00:05:04,650 --> 00:05:10,830
+science, it's making it a more
+agile, adaptive, evolutionary
+
+72
+00:05:11,040 --> 00:05:15,690
+approach. And it kind of will
+hopefully help, in that sense
+
+73
+00:05:15,690 --> 00:05:19,740
+disperse some of the rigid
+stereotypes around autistic
+
+74
+00:05:19,740 --> 00:05:21,000
+people. That's me.
+
+75
+00:05:29,070 --> 00:05:35,280
+Fabulous. Thank you, Sara. Um,
+so I'm going to talk in a little
+
+76
+00:05:35,280 --> 00:05:38,970
+bit more detail about this
+specific program, then myself,
+
+77
+00:05:39,000 --> 00:05:41,790
+see Sarah notice have all been
+working on with a number of
+
+78
+00:05:41,790 --> 00:05:46,710
+other people. So this is on
+spaces, and it's currently being
+
+79
+00:05:46,710 --> 00:05:51,450
+prototyped. And basically, it's
+a website where autistic people
+
+80
+00:05:51,450 --> 00:05:55,710
+can share experiences of their
+daily lives. And knows
+
+81
+00:05:55,710 --> 00:05:58,740
+experiences will then be used to
+understand more about sensory
+
+82
+00:05:58,740 --> 00:06:02,100
+processing differences. So
+around 90%, depending on the
+
+83
+00:06:02,100 --> 00:06:05,730
+study of autistic people have
+sensory processing differences.
+
+84
+00:06:05,730 --> 00:06:09,870
+And it's sometimes been used as
+a criteria of diagnosing autism,
+
+85
+00:06:10,230 --> 00:06:14,100
+although that fluctuates.
+There's lots of lab based
+
+86
+00:06:14,100 --> 00:06:17,580
+studies into this. But there's
+very little around how this
+
+87
+00:06:17,580 --> 00:06:21,630
+actually affects autistic people
+and impact on their lives. And
+
+88
+00:06:21,660 --> 00:06:26,670
+so the idea is to use this data
+set to pull out some common
+
+89
+00:06:26,670 --> 00:06:30,090
+themes, but also get a sense of
+the diversity, and the
+
+90
+00:06:30,090 --> 00:06:34,260
+individual, like the granularity
+of those range of experiences,
+
+91
+00:06:34,290 --> 00:06:36,870
+and use those to make
+environments more accessible to
+
+92
+00:06:36,870 --> 00:06:41,670
+autistic people. For example, by
+changing public policy modifying
+
+93
+00:06:41,670 --> 00:06:45,900
+environments, one thing I did
+want to call your attention to,
+
+94
+00:06:45,900 --> 00:06:49,620
+in particular about this
+platform is that the uses of
+
+95
+00:06:49,620 --> 00:06:54,840
+fine grained consent model. So
+every single user can choose who
+
+96
+00:06:54,840 --> 00:06:58,050
+they share their experience
+with, and for what purpose,
+
+97
+00:06:58,050 --> 00:07:01,020
+whether it's for research, or
+published on the platform, or
+
+98
+00:07:01,020 --> 00:07:06,450
+both. And it's a dynamic consent
+model as well. So they will be
+
+99
+00:07:06,450 --> 00:07:10,710
+able to withdraw their data
+when, whenever they want, and
+
+100
+00:07:10,740 --> 00:07:13,320
+put it back as many times as
+they like. And also, there's a
+
+101
+00:07:13,320 --> 00:07:15,780
+moderation process that is being
+developed along with this
+
+102
+00:07:15,780 --> 00:07:21,150
+platform with artistic citizen
+science scientists. So instead
+
+103
+00:07:21,150 --> 00:07:24,690
+of these things being imposed on
+autistic people, by researchers,
+
+104
+00:07:24,990 --> 00:07:28,530
+this is really coming from the
+autistic population, because
+
+105
+00:07:28,560 --> 00:07:33,600
+they know the most about their
+own experiences. Um, this looks
+
+106
+00:07:33,600 --> 00:07:38,100
+a very busy slide. But it's I
+think, for me, this is a lot of
+
+107
+00:07:38,100 --> 00:07:41,010
+the whole range of possibilities
+that participatory citizen
+
+108
+00:07:41,010 --> 00:07:45,750
+science can. So one of the
+things that I did in the last
+
+109
+00:07:45,780 --> 00:07:48,840
+lls cohort, because I did
+cohort, too. And I can see
+
+110
+00:07:48,840 --> 00:07:51,630
+Katharina is here, actually, as
+well, he's also been working
+
+111
+00:07:51,630 --> 00:07:54,990
+with me on the project. So hope
+you're enjoying your life, I
+
+112
+00:07:54,990 --> 00:07:58,830
+learned a lot from it. This is
+the kind of mapping exercise
+
+113
+00:07:58,830 --> 00:08:02,100
+that I did, and trying to work
+out what all of the skills and
+
+114
+00:08:02,100 --> 00:08:05,640
+resources that were needed for
+the platform were. And it was
+
+115
+00:08:05,640 --> 00:08:08,010
+important that autistic people
+were involved in every single
+
+116
+00:08:08,010 --> 00:08:12,330
+aspect, as well as every part of
+the research stage. So you can
+
+117
+00:08:12,330 --> 00:08:17,520
+see that this kind of circle
+here, the yellow, it's artistic
+
+118
+00:08:17,520 --> 00:08:20,280
+people have been involved in
+literally every part of this,
+
+119
+00:08:20,430 --> 00:08:23,340
+from hypothesizing, designing
+the experiment, processing,
+
+120
+00:08:23,340 --> 00:08:27,750
+data, drawing, conclusions, and
+so on. And also, as well as
+
+121
+00:08:27,750 --> 00:08:30,420
+lived experience, of course,
+artistic people are people,
+
+122
+00:08:30,420 --> 00:08:33,900
+they're individuals with their
+own unique skill sets. So a huge
+
+123
+00:08:33,900 --> 00:08:38,010
+amount of how the project has
+been designed, is around those
+
+124
+00:08:38,010 --> 00:08:42,510
+unique skill sets, you can see
+here, there's a whole range of
+
+125
+00:08:42,510 --> 00:08:45,420
+people being matched to skills,
+including platform development.
+
+126
+00:08:46,950 --> 00:08:51,360
+We're entirely open source, the
+protocols actually are all
+
+127
+00:08:51,600 --> 00:08:57,300
+published in a repository. And
+it's available for reuse. were
+
+128
+00:08:57,330 --> 00:09:02,340
+linked into the train way and
+amongst other things. So you're
+
+129
+00:09:02,340 --> 00:09:05,430
+welcome to join. If you're
+interested, anyone can come
+
+130
+00:09:05,430 --> 00:09:09,930
+along. You can see here that
+actually, open source knows my
+
+131
+00:09:09,930 --> 00:09:12,870
+research can work with people
+who are not familiar with
+
+132
+00:09:12,870 --> 00:09:16,380
+GitHub, but are interested in
+the project. So these are two
+
+133
+00:09:16,380 --> 00:09:18,870
+examples of working with
+community members who are
+
+134
+00:09:18,870 --> 00:09:22,290
+citizen scientists to design
+aspects of the project. The
+
+135
+00:09:22,290 --> 00:09:27,450
+first one is guidance on looking
+through data and understanding
+
+136
+00:09:27,480 --> 00:09:31,770
+what you might want to remove,
+or what you might think about
+
+137
+00:09:31,800 --> 00:09:33,720
+when you're deciding whether you
+want something to be published
+
+138
+00:09:33,720 --> 00:09:37,740
+or not. When I wrote it was
+these really academic jargony
+
+139
+00:09:37,740 --> 00:09:40,860
+paragraphs. And this is a
+collaborator called James Scott,
+
+140
+00:09:40,860 --> 00:09:43,230
+who just broke it down into
+these really beautiful,
+
+141
+00:09:43,380 --> 00:09:47,640
+extremely simple point by point
+steps. And on the other side,
+
+142
+00:09:47,640 --> 00:09:49,860
+you see something that I was
+working on with Sue, who I'm
+
+143
+00:09:49,860 --> 00:09:53,850
+going to pass over to in a
+moment. This is a color coded
+
+144
+00:09:53,850 --> 00:09:58,290
+version of tasks that people can
+do on GitHub from easy to
+
+145
+00:09:58,290 --> 00:10:01,080
+difficult so the green is You
+may not have that much
+
+146
+00:10:01,080 --> 00:10:04,470
+experience, the read is you have
+to be pretty advanced. And those
+
+147
+00:10:04,470 --> 00:10:07,290
+are now the labeling system for
+all the issues on GitHub right
+
+148
+00:10:07,290 --> 00:10:11,460
+now based on C's design, to make
+it more accessible for autistic
+
+149
+00:10:11,460 --> 00:10:15,780
+people. And so now I'm going to
+pass over to sue. And she will
+
+150
+00:10:15,780 --> 00:10:18,420
+talk about her experience for a
+little bit. And then after that,
+
+151
+00:10:18,420 --> 00:10:21,120
+I'll pass it over to Otis. So
+over tc,
+
+152
+00:10:21,540 --> 00:10:28,230
+Hi, I'm Sue UI. And I turned 67
+on Monday, and I was an HR
+
+153
+00:10:28,230 --> 00:10:30,960
+admin, but non digital
+engagement of any kind, and
+
+154
+00:10:30,960 --> 00:10:33,600
+scientists were scientists and
+people were people, and never
+
+155
+00:10:33,600 --> 00:10:37,950
+the twain should meet. So I been
+involved in the focus groups and
+
+156
+00:10:37,950 --> 00:10:40,140
+stuff, I can actually totally
+relate to what Sarah was talking
+
+157
+00:10:40,140 --> 00:10:43,800
+about the constellations because
+my birth chart comes across as a
+
+158
+00:10:43,800 --> 00:10:46,140
+splash chart. So I have a
+smattering of all sorts of
+
+159
+00:10:46,140 --> 00:10:49,500
+different things, including
+creativity as opposed to
+
+160
+00:10:49,500 --> 00:10:52,650
+wordsmith. I'm great at
+community engagement,
+
+161
+00:10:52,650 --> 00:10:55,710
+proofreading, newsletters, that
+sort of stuff. So I was involved
+
+162
+00:10:55,710 --> 00:10:59,010
+with the focus groups, and they
+moved on to the point where we
+
+163
+00:10:59,010 --> 00:11:02,610
+were developing the digital
+platform without spaces, and
+
+164
+00:11:02,610 --> 00:11:05,910
+found myself learning this
+different language and possibly,
+
+165
+00:11:06,060 --> 00:11:08,940
+Georgian, everyone learning
+about my accessibility language.
+
+166
+00:11:08,970 --> 00:11:12,570
+Well, I'm reiterating things
+from my birth my autistic
+
+167
+00:11:12,570 --> 00:11:15,420
+community, and my work was my
+local Borough Council, London
+
+168
+00:11:15,420 --> 00:11:18,180
+Borough of Hammersmith and
+Fulham. So, you know, doing this
+
+169
+00:11:18,180 --> 00:11:21,300
+stuff the labels was was great,
+but also having the meetups
+
+170
+00:11:21,300 --> 00:11:25,320
+every fortnight where we invite
+anyone who's worked on it with
+
+171
+00:11:25,320 --> 00:11:28,590
+us so far, and then new people
+to collaborate with us. We've
+
+172
+00:11:28,590 --> 00:11:32,640
+purpose is it once a fortnight
+so I've expanded my Twitter
+
+173
+00:11:32,790 --> 00:11:37,680
+account exponentially, I'm using
+my protein everything to try and
+
+174
+00:11:37,680 --> 00:11:41,280
+hook people in. So some of the
+people that I'm working with in
+
+175
+00:11:41,280 --> 00:11:45,870
+the OT space meetups are either
+the scientists working both at
+
+176
+00:11:45,870 --> 00:11:52,530
+university level and new people.
+So we supportive of everybody's
+
+177
+00:11:52,770 --> 00:11:55,260
+ability to be inclusive, and
+accessibility is really
+
+178
+00:11:55,260 --> 00:11:59,310
+important. Because we don't make
+it accessible the data input,
+
+179
+00:11:59,550 --> 00:12:03,390
+then we've nothing to extract.
+And I'm actually in a new music
+
+180
+00:12:03,390 --> 00:12:07,230
+position, I work in the end game
+with my borough, doing a new
+
+181
+00:12:07,230 --> 00:12:11,820
+Civic campus and public realm.
+So I'm putting into practice my
+
+182
+00:12:12,030 --> 00:12:14,250
+influence on ambient
+environment. And when those
+
+183
+00:12:14,250 --> 00:12:18,540
+buildings and public realm, I'll
+be able to feed in data from my
+
+184
+00:12:18,540 --> 00:12:21,540
+experience navigating these
+environments to add to the
+
+185
+00:12:21,540 --> 00:12:24,780
+platform. And it's that
+reiterative kind of approach of
+
+186
+00:12:24,780 --> 00:12:28,260
+adding and building layers that
+will make our stuff I think,
+
+187
+00:12:28,260 --> 00:12:33,150
+profoundly groundbreaking. And
+I'm really grateful to be a part
+
+188
+00:12:33,150 --> 00:12:36,870
+of it. And today, I actually in
+a different event, I take part
+
+189
+00:12:36,870 --> 00:12:41,880
+in a human library, which I can
+send resource to someone, I was
+
+190
+00:12:41,880 --> 00:12:45,630
+being read as a as an autistic
+book by someone from purposes in
+
+191
+00:12:45,630 --> 00:12:48,450
+their PR wing in London, and
+they do a lot of clinical trials
+
+192
+00:12:48,450 --> 00:12:54,150
+with autism. So when I mentioned
+our work on ot spaces, all the
+
+193
+00:12:54,150 --> 00:12:57,360
+pens came out, everyone started
+writing stuff down. So I'm
+
+194
+00:12:57,360 --> 00:13:01,620
+looking forward to maybe seeing
+some of the purposes, language,
+
+195
+00:13:01,650 --> 00:13:04,410
+perhaps joining in in the
+future. So thank you for the
+
+196
+00:13:04,410 --> 00:13:06,120
+opportunity to speak with you
+this evening.
+
+197
+00:13:08,940 --> 00:13:11,370
+Wonderful, thank you so much. So
+you see the thing absolutely
+
+198
+00:13:11,370 --> 00:13:15,360
+amazing. And so as artists who
+has been part of the project
+
+199
+00:13:15,360 --> 00:13:17,670
+from the very start, so I'm
+going to hand over to him now.
+
+200
+00:13:18,120 --> 00:13:21,540
+And just to let you all know,
+everybody is welcome to join the
+
+201
+00:13:21,540 --> 00:13:26,430
+meetup sessions that he was
+talking about fourth Thursday,
+
+202
+00:13:27,360 --> 00:13:34,620
+of every month from 1230 to 230.
+GMT. So, yeah, it's an open
+
+203
+00:13:34,620 --> 00:13:35,730
+invite over to you.
+
+204
+00:13:43,740 --> 00:13:47,580
+Hello, good evening for the
+year. Hello, my name is Otis
+
+205
+00:13:47,580 --> 00:13:51,840
+Smith. I'm part of the citizen
+science project and one of the
+
+206
+00:13:51,840 --> 00:13:56,310
+many countries about this budget
+I myself have been autistic
+
+207
+00:13:56,310 --> 00:14:00,300
+since the age of 15. One of the
+main parts of the project was
+
+208
+00:14:00,300 --> 00:14:04,350
+the opportunity and potential to
+try and create a space for
+
+209
+00:14:04,350 --> 00:14:08,310
+autistic people that works,
+appeals and benefits to all as
+
+210
+00:14:08,310 --> 00:14:11,670
+well as coordinating, expanding
+the project further implanting
+
+211
+00:14:11,940 --> 00:14:15,660
+new skills, tools and resources,
+thinking of different ways and
+
+212
+00:14:15,660 --> 00:14:20,400
+strategies to make the platform
+authentic, accessible, engaging,
+
+213
+00:14:20,490 --> 00:14:23,940
+and interactive as possible.
+Being a part of the citizen
+
+214
+00:14:23,940 --> 00:14:27,090
+science project has given me a
+complete whole new meaning
+
+215
+00:14:27,150 --> 00:14:31,770
+outlook and purpose to improve
+and be better. What I enjoy
+
+216
+00:14:31,770 --> 00:14:34,050
+about being included in the
+citizen science project is that
+
+217
+00:14:34,050 --> 00:14:36,900
+everyone has their own take, and
+contribution no matter how big
+
+218
+00:14:36,900 --> 00:14:40,650
+or small. Each take comes with
+its own challenges as well as
+
+219
+00:14:40,650 --> 00:14:44,430
+discoveries implement a new
+slicer questions and advice was
+
+220
+00:14:44,430 --> 00:14:48,600
+used in several effective
+techniques and expertise and
+
+221
+00:14:48,600 --> 00:14:51,660
+having the opportunity to meet
+and work alongside others
+
+222
+00:14:51,690 --> 00:14:56,130
+discussing agendas to sharing
+new and effective ideas. It's
+
+223
+00:14:56,130 --> 00:14:59,400
+been such a privilege to be part
+of this project. It's changed at
+
+224
+00:14:59,400 --> 00:15:04,230
+time. challenge my thoughts and
+perceptions, reassessing and re
+
+225
+00:15:04,530 --> 00:15:08,070
+evaluating different topics and
+strategies has been eye opening
+
+226
+00:15:08,100 --> 00:15:11,820
+and fulfilling at the same time.
+This isn't science, but it
+
+227
+00:15:11,820 --> 00:15:14,460
+displays such depth into
+character and representation of
+
+228
+00:15:14,460 --> 00:15:16,710
+the aims and does not look at
+things in an unrealistic
+
+229
+00:15:16,710 --> 00:15:19,830
+approach to great players find
+we want to ensure that the work
+
+230
+00:15:19,860 --> 00:15:22,710
+we put in can have such a
+positive impact and make a
+
+231
+00:15:22,710 --> 00:15:25,620
+different reward for me. It's
+not that the work we have
+
+232
+00:15:25,620 --> 00:15:29,700
+countries can hopefully expand.
+Now it's not just a few, but the
+
+233
+00:15:29,700 --> 00:15:31,320
+money. Thank you.
+
+234
+00:15:34,560 --> 00:15:38,940
+Fabulous, thank you. Thank you
+also to all of these wonderful
+
+235
+00:15:38,940 --> 00:15:42,150
+people, especially Christy
+Whittaker, who is the PI of the
+
+236
+00:15:42,150 --> 00:15:45,780
+project is basically our vision,
+and nelda, who was my mentor and
+
+237
+00:15:45,780 --> 00:15:50,010
+The Last of Us All of the
+artistic community collaborators
+
+238
+00:15:50,010 --> 00:15:52,710
+and open source contributors and
+lots of people here as well have
+
+239
+00:15:52,710 --> 00:15:56,310
+actually helped. So Katharina
+malvika. Yo was health,
+
+240
+00:15:57,000 --> 00:16:00,480
+basically Thank you, everyone.
+And here are some different ways
+
+241
+00:16:00,480 --> 00:16:02,640
+of joining in the project. If
+you're curious
+

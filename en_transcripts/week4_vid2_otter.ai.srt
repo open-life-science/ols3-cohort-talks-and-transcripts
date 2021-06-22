@@ -1,0 +1,647 @@
+1
+00:00:00,240 --> 00:00:06,390
+Unknown: Okay, so, Amy, I think
+you're quite close to answered
+
+2
+00:00:06,390 --> 00:00:12,390
+on Science Park, right? Yes.
+Yeah. I think that if you go to,
+
+3
+00:00:12,690 --> 00:00:15,870
+so there's a cycle path that
+goes from Amsterdam Science
+
+4
+00:00:15,870 --> 00:00:16,440
+Park,
+
+5
+00:00:17,069 --> 00:00:22,379
+and and then you can cycle along
+the canal for a bit, and then
+
+6
+00:00:22,379 --> 00:00:25,799
+you go through waste, which is
+quite nice. And then you can
+
+7
+00:00:25,829 --> 00:00:30,059
+cycle all the way to Buddhism.
+So we did this one last summer.
+
+8
+00:00:30,149 --> 00:00:33,539
+And it is actually quite nice
+because person is like,
+
+9
+00:00:33,989 --> 00:00:37,919
+completely surrounded, it has
+like a moat around the whole
+
+10
+00:00:37,919 --> 00:00:43,589
+city. So very nice cycle
+patterns quite short. I think
+
+11
+00:00:43,589 --> 00:00:48,569
+for you it will be maybe under
+an hour, you should be there.
+
+12
+00:00:50,519 --> 00:00:53,999
+Okay, now I'm hoping that
+everybody else is who is
+
+13
+00:00:54,029 --> 00:00:58,349
+thinking, who is this guy? What
+is he talking about? Why is he
+
+14
+00:00:58,349 --> 00:01:02,459
+ignoring the rest of us? And
+what is he what what's the point
+
+15
+00:01:02,459 --> 00:01:08,069
+of this talk? That was exactly
+my point is I'm doing this in a
+
+16
+00:01:08,069 --> 00:01:12,899
+presentation. Usually you start
+by saying, Hi, my name is Carlos
+
+17
+00:01:12,899 --> 00:01:15,389
+Martinez, I work for the ISA and
+center. And I'm going to be
+
+18
+00:01:15,389 --> 00:01:19,439
+talking to you about README
+files, does the part of the
+
+19
+00:01:19,439 --> 00:01:22,619
+presentation where you usually
+introduce yourself and tell
+
+20
+00:01:22,619 --> 00:01:26,129
+people, this is what I'm going
+to be telling you in the next
+
+21
+00:01:26,249 --> 00:01:31,829
+five to 10 minutes. So I
+deliberately asked me to help me
+
+22
+00:01:31,829 --> 00:01:35,849
+to do completely the opposite to
+show a bad example of how you
+
+23
+00:01:35,849 --> 00:01:42,299
+should not make a presentation.
+Because it's the same thing that
+
+24
+00:01:42,299 --> 00:01:46,679
+you have with a readme file. So
+I'm going to be telling you
+
+25
+00:01:46,679 --> 00:01:51,569
+about README files, how README
+files are useful to communicate
+
+26
+00:01:51,629 --> 00:01:58,079
+about your project. So README
+files are really like a welcome
+
+27
+00:01:59,129 --> 00:02:02,879
+the welcoming part of your
+project, they're the
+
+28
+00:02:02,879 --> 00:02:06,869
+presentation card for your
+project, where you would say,
+
+29
+00:02:06,869 --> 00:02:11,819
+Okay, this is my introduction
+card, this is my project. This
+
+30
+00:02:11,819 --> 00:02:14,879
+is what my project is about.
+This is what my project does.
+
+31
+00:02:14,909 --> 00:02:19,679
+And it should provide you all of
+the initial information for your
+
+32
+00:02:19,679 --> 00:02:23,129
+project for whether you're going
+to what this project is about,
+
+33
+00:02:23,429 --> 00:02:27,329
+what I don't know if it's a
+software project, what type of
+
+34
+00:02:29,039 --> 00:02:31,679
+software it is, which
+dependencies it uses on which
+
+35
+00:02:31,679 --> 00:02:36,089
+language is written, what's the
+what problem it solves. So these
+
+36
+00:02:36,089 --> 00:02:40,889
+are all the things that you want
+to have in your README file for
+
+37
+00:02:40,889 --> 00:02:46,289
+introducing your project. When
+somebody finds your project on
+
+38
+00:02:46,289 --> 00:02:50,729
+GitHub, and they read your
+README file, that's the first
+
+39
+00:02:50,729 --> 00:02:53,129
+thing that they see does the
+first impression that they have
+
+40
+00:02:53,129 --> 00:02:57,359
+about your project. And that's
+the basically, that's the moment
+
+41
+00:02:57,359 --> 00:03:03,719
+where people meet your project.
+And that's either de ledger
+
+42
+00:03:03,719 --> 00:03:06,239
+project or they don't like your
+project, either they will use
+
+43
+00:03:06,239 --> 00:03:09,449
+your software or they will not
+use your software. But a readme
+
+44
+00:03:09,449 --> 00:03:12,119
+is very important, because it's
+that first moment that is that
+
+45
+00:03:12,149 --> 00:03:15,809
+introduction to your project
+these days, your projects
+
+46
+00:03:15,809 --> 00:03:20,609
+landing page is your projects
+presentation card. So that's why
+
+47
+00:03:20,639 --> 00:03:26,819
+the readmes are very important.
+Usually readmes in GitHub, you
+
+48
+00:03:27,059 --> 00:03:30,869
+on software projects, you just
+have a file, which is a plain
+
+49
+00:03:30,869 --> 00:03:36,419
+text file called README with all
+capitals, or README. Mark, you
+
+50
+00:03:36,419 --> 00:03:41,699
+can use markdown on readmes, as
+well. And that's the first page
+
+51
+00:03:41,699 --> 00:03:47,639
+that you will have on your
+GitHub repository. So in your
+
+52
+00:03:47,639 --> 00:03:50,549
+README, what are the important
+things that you should have in
+
+53
+00:03:50,549 --> 00:03:55,109
+your README? If you should say,
+what was your project is doing?
+
+54
+00:03:55,889 --> 00:04:00,869
+For whom? And why? So this is
+really giving the context to
+
+55
+00:04:00,869 --> 00:04:06,059
+your project? You should tell a
+what makes your project special?
+
+56
+00:04:06,089 --> 00:04:10,469
+Why did you build this new
+software library that does the
+
+57
+00:04:10,469 --> 00:04:15,479
+same that other libraries, what
+sets your your specific software
+
+58
+00:04:15,479 --> 00:04:19,259
+or your specific tool, or your
+specific project apart from
+
+59
+00:04:19,409 --> 00:04:25,139
+other projects that are already
+out there? And how do how to get
+
+60
+00:04:25,139 --> 00:04:27,929
+started? So if this is a
+software project, how would you
+
+61
+00:04:27,959 --> 00:04:33,659
+install this tool? Or how would
+you use it? Or if it's a, I
+
+62
+00:04:33,659 --> 00:04:37,679
+don't know if it's a book, like
+the Turing way, how how you
+
+63
+00:04:37,679 --> 00:04:40,469
+would get started contributing
+to this project? Or how would
+
+64
+00:04:40,469 --> 00:04:45,089
+you get started using this
+project? And usually, it's also
+
+65
+00:04:45,119 --> 00:04:49,679
+also always a good idea to point
+to useful resources about your
+
+66
+00:04:49,679 --> 00:04:54,179
+project. So again, if it's a
+software project, and it's
+
+67
+00:04:54,179 --> 00:04:58,349
+already distributed through
+package manager, where can you
+
+68
+00:04:58,349 --> 00:05:02,369
+find the link to To the package
+manager that manages your
+
+69
+00:05:02,369 --> 00:05:05,399
+software, or if this is the
+
+70
+00:05:07,200 --> 00:05:11,640
+the readme for a project, and
+you have a website, maybe you
+
+71
+00:05:11,640 --> 00:05:16,260
+also want to point to your
+website. So where are all the
+
+72
+00:05:16,260 --> 00:05:20,490
+other resources that are useful
+and relevant for your project?
+
+73
+00:05:21,270 --> 00:05:28,740
+Okay. So again, in terms of bad
+examples, good examples. If this
+
+74
+00:05:28,740 --> 00:05:32,910
+was my software project, and
+this is my README file, this is
+
+75
+00:05:32,910 --> 00:05:37,410
+a terrible README file. So it
+has the name of my project, and
+
+76
+00:05:37,410 --> 00:05:42,390
+it tells you how, how do I run
+my code and how to cite my
+
+77
+00:05:42,390 --> 00:05:46,830
+paper? But it doesn't tell you
+what my software does. Why would
+
+78
+00:05:46,830 --> 00:05:50,820
+you use it? In which context?
+would you use it? What problem
+
+79
+00:05:50,820 --> 00:05:54,810
+does it solve? How is it
+written? Where is the
+
+80
+00:05:54,810 --> 00:05:58,500
+documentation, so there is
+absolutely no information about
+
+81
+00:05:58,500 --> 00:06:04,230
+it? Maybe it's useful for me to
+remember how to run my code. But
+
+82
+00:06:04,230 --> 00:06:07,950
+even for myself, in three weeks
+time, I will forget what my
+
+83
+00:06:07,950 --> 00:06:10,410
+project was about. And I would
+remember was the tool that I was
+
+84
+00:06:10,410 --> 00:06:14,730
+using for this No, I don't know,
+I don't remember anymore. So I
+
+85
+00:06:14,730 --> 00:06:19,560
+think this is the best example I
+could think of of a terrible
+
+86
+00:06:19,830 --> 00:06:24,210
+README file. Maybe the The only
+thing that could be worse is to
+
+87
+00:06:24,210 --> 00:06:32,610
+not have a readme file at all.
+Now, a good example, this is the
+
+88
+00:06:32,640 --> 00:06:37,890
+readme file from the Turing way.
+These tells you what this during
+
+89
+00:06:37,890 --> 00:06:42,960
+way, it tells you that these
+lightly opinionated guide, and
+
+90
+00:06:42,960 --> 00:06:48,210
+it tells you that it's aimed for
+researchers, and I think, yes,
+
+91
+00:06:48,210 --> 00:06:54,060
+it also tells you where can you
+find the the guide and in a
+
+92
+00:06:54,060 --> 00:06:58,920
+readable format, or not in the
+readme file format. So you can
+
+93
+00:06:58,920 --> 00:07:03,690
+go to during wave netlify.com.
+So it's telling you what it
+
+94
+00:07:03,690 --> 00:07:11,670
+does, who is it aim 4.22 to
+useful resources. And one thing
+
+95
+00:07:11,670 --> 00:07:14,520
+that I love is that you even
+points you to README file in
+
+96
+00:07:14,520 --> 00:07:18,210
+different languages. So that's a
+really nice example of a readme
+
+97
+00:07:18,210 --> 00:07:26,130
+file. So yeah, so that those are
+the main things that I think you
+
+98
+00:07:26,130 --> 00:07:30,810
+should be thinking, thinking
+about when you write your README
+
+99
+00:07:30,810 --> 00:07:37,620
+file. So reiterating what they
+already said is the welcome
+
+100
+00:07:37,620 --> 00:07:42,360
+message to your website, you
+should share all the important
+
+101
+00:07:42,360 --> 00:07:46,470
+information about your project,
+what's your project, mission
+
+102
+00:07:46,470 --> 00:07:49,590
+vision, what you want to do with
+this project. And it's also a
+
+103
+00:07:49,590 --> 00:07:53,190
+good place where you can link to
+relevant information, for
+
+104
+00:07:53,190 --> 00:07:58,380
+example, licenses, code of
+conduct, which as we just heard,
+
+105
+00:07:58,710 --> 00:08:04,680
+from how it's important to state
+your license for software
+
+106
+00:08:04,680 --> 00:08:10,800
+projects, and other types of
+projects. Another thing that I
+
+107
+00:08:10,800 --> 00:08:16,050
+think it's important to consider
+is where your software is going
+
+108
+00:08:16,050 --> 00:08:19,410
+to where your README is going to
+be used. So if you write your
+
+109
+00:08:19,410 --> 00:08:24,060
+README on GitHub, and maybe this
+is a little bit, I'm switching
+
+110
+00:08:24,060 --> 00:08:29,160
+to a very software specific
+example. But if you're so if you
+
+111
+00:08:29,160 --> 00:08:33,900
+write a software tool, and your
+software is on GitHub, your
+
+112
+00:08:33,930 --> 00:08:39,510
+users will look at your README
+on GitHub, but they will also be
+
+113
+00:08:39,510 --> 00:08:43,170
+able to see your README in other
+places, because once you connect
+
+114
+00:08:43,170 --> 00:08:46,800
+your GitHub account with other
+places your README gets like
+
+115
+00:08:47,250 --> 00:08:55,380
+harvested by Docker hub or by pi
+by and your README ends up in
+
+116
+00:08:55,440 --> 00:08:59,910
+other places as well. And maybe
+also your if you generate the
+
+117
+00:09:00,030 --> 00:09:04,140
+website automatically from your
+GitHub repo, your README ends up
+
+118
+00:09:04,470 --> 00:09:11,610
+there as well. So it's always
+useful to think, how is your How
+
+119
+00:09:11,610 --> 00:09:16,260
+are your readers going to read
+the readme? So try to always
+
+120
+00:09:17,130 --> 00:09:21,180
+consider who's going to read
+your README file and in which
+
+121
+00:09:21,180 --> 00:09:23,430
+context, they're going to read
+it.
+
+122
+00:09:23,970 --> 00:09:33,630
+And so README files context.
+Now, what are my top tips for
+
+123
+00:09:33,630 --> 00:09:36,480
+reading? I think this is an
+exercise I believe that we want
+
+124
+00:09:36,480 --> 00:09:38,910
+to do later. But
+
+125
+00:09:40,710 --> 00:09:46,920
+basically, I think that my take
+home message on README files is
+
+126
+00:09:46,920 --> 00:09:52,020
+that you should always try to be
+clear, and try to always think
+
+127
+00:09:52,050 --> 00:09:56,730
+of your reader always think
+who's going to read it. What
+
+128
+00:09:56,730 --> 00:10:02,010
+information do they need? What
+will they learn? From the readme
+
+129
+00:10:02,010 --> 00:10:07,830
+file and a What do I want them
+to learn by reading my README
+
+130
+00:10:07,830 --> 00:10:11,160
+file. So what is information
+that they want to convey to them
+

@@ -1,0 +1,852 @@
+1
+00:00:00,000 --> 00:00:02,940
+Unknown: My name is Alex. I work
+as a scientific training officer
+
+2
+00:00:02,940 --> 00:00:05,760
+at Emily VI, so the European
+bioinformatics Institute in the
+
+3
+00:00:05,760 --> 00:00:09,810
+UK, and as a scientific training
+officer, well, what do I do? I
+
+4
+00:00:09,810 --> 00:00:12,750
+work together with scientific
+experts and find from petitions
+
+5
+00:00:12,750 --> 00:00:16,860
+to develop, organize and run
+bioinformatics training courses.
+
+6
+00:00:17,130 --> 00:00:22,140
+I, I'm training as you see, I
+also am used to prepare training
+
+7
+00:00:22,140 --> 00:00:26,100
+material. I also am support
+others and preparing training
+
+8
+00:00:26,100 --> 00:00:29,190
+material and sharing the sand.
+Yeah, this is why I'm here to
+
+9
+00:00:29,190 --> 00:00:33,720
+talk about unfair training now.
+Well, why should you actually
+
+10
+00:00:33,720 --> 00:00:36,120
+care about sharing your
+training, material sharing
+
+11
+00:00:36,150 --> 00:00:40,740
+training material can have a lot
+of benefits. And there are a lot
+
+12
+00:00:40,740 --> 00:00:44,550
+of reasons for sharing it. For
+example, other people who will
+
+13
+00:00:44,760 --> 00:00:47,220
+look for the training material
+online, they can use it as a
+
+14
+00:00:47,220 --> 00:00:50,520
+sole source for self study, and
+gain a lot of new knowledge from
+
+15
+00:00:50,520 --> 00:00:54,150
+this. But not only for trainees,
+it can be beneficial, but also
+
+16
+00:00:54,150 --> 00:00:57,600
+for trainers, they can use the
+training material they find
+
+17
+00:00:57,600 --> 00:01:01,710
+online as a source of
+inspiration. They can even reuse
+
+18
+00:01:01,710 --> 00:01:07,410
+the training material and edit
+it and build upon it, which can
+
+19
+00:01:07,410 --> 00:01:10,860
+save them a lot of time and
+money. But also trainers who put
+
+20
+00:01:10,860 --> 00:01:13,530
+their training material online
+and can get a lot of
+
+21
+00:01:13,530 --> 00:01:17,430
+recognition, of course. So this
+all sounds great. But when we
+
+22
+00:01:17,430 --> 00:01:20,730
+look for training material
+online, either as trainees
+
+23
+00:01:20,730 --> 00:01:24,360
+because we needed for self
+study, or we are looking for
+
+24
+00:01:24,360 --> 00:01:27,150
+something as a source of
+inspiration, as in the in the
+
+25
+00:01:27,150 --> 00:01:31,410
+role of a trainer, we know that
+a lot of questions can occur. So
+
+26
+00:01:31,410 --> 00:01:34,080
+for example, and we might
+wonder, well, where can we
+
+27
+00:01:34,080 --> 00:01:37,680
+actually find suitable training
+material? And if we have found
+
+28
+00:01:37,680 --> 00:01:41,100
+that we might want to when was
+it written? Is it still up to
+
+29
+00:01:41,100 --> 00:01:43,890
+date? Or Who wrote it? I still
+have more questions about the
+
+30
+00:01:43,890 --> 00:01:48,780
+content. can I contact anyone?
+Or another question might be in
+
+31
+00:01:48,780 --> 00:01:52,350
+which context was context was
+the training material presented?
+
+32
+00:01:52,650 --> 00:01:56,550
+And another important question
+is, can I actually reuse the
+
+33
+00:01:56,550 --> 00:02:00,570
+training material material? Am I
+legally allowed to do so. So you
+
+34
+00:02:00,570 --> 00:02:03,960
+see that a lot of questions can
+pop up. And this is why it's so
+
+35
+00:02:03,960 --> 00:02:07,380
+important if you're sharing from
+my training material to do that
+
+36
+00:02:07,380 --> 00:02:10,410
+in a fair way. So in a way that
+it is findable, accessible,
+
+37
+00:02:10,440 --> 00:02:15,360
+interoperable and reusable.
+applying the principles of
+
+38
+00:02:15,360 --> 00:02:18,570
+training materials provides a
+framework for enabling and
+
+39
+00:02:18,570 --> 00:02:21,630
+sharing and about and thereby
+helping train us to make the
+
+40
+00:02:21,630 --> 00:02:24,900
+most of the material but also
+help them train us to get
+
+41
+00:02:25,080 --> 00:02:30,030
+trainees to get the most
+efficient learning experience.
+
+42
+00:02:30,810 --> 00:02:35,190
+So now, how can we make training
+material fair, so there was a
+
+43
+00:02:35,190 --> 00:02:38,940
+very great publication, which
+gives an overview of 10 simple
+
+44
+00:02:38,940 --> 00:02:41,970
+rules for tracking, making
+training materials fair and in
+
+45
+00:02:41,970 --> 00:02:47,490
+the following, I will now run
+through these 10 rules. And at
+
+46
+00:02:47,490 --> 00:02:50,280
+the, in the very last minutes of
+my talk, I will also very
+
+47
+00:02:50,280 --> 00:02:54,600
+quickly show you how we at Emily
+vi apply these guidelines to our
+
+48
+00:02:54,600 --> 00:02:58,800
+training. So how can you make
+your training materials more
+
+49
+00:02:58,800 --> 00:03:02,910
+fundable? First, you have to
+describe it properly. And by
+
+50
+00:03:02,910 --> 00:03:06,180
+doing so, or you should do so by
+annotating it with structured
+
+51
+00:03:06,180 --> 00:03:09,810
+metadata as of data which
+describes your material. And,
+
+52
+00:03:10,200 --> 00:03:14,370
+for example, bio schema is an
+initiative which facilitates the
+
+53
+00:03:14,370 --> 00:03:18,000
+addition of metadata to life
+science resources, and this
+
+54
+00:03:18,030 --> 00:03:21,750
+helps to make it more findable
+online. And you should also
+
+55
+00:03:21,750 --> 00:03:25,650
+annotate it with keywords using
+structured controlled
+
+56
+00:03:25,650 --> 00:03:29,310
+vocabularies. And I will give a
+more concrete example of this.
+
+57
+00:03:29,610 --> 00:03:32,550
+At the very end, we'll refer
+back to this at the very end of
+
+58
+00:03:32,550 --> 00:03:37,530
+my talk. Also, you should give
+it a unique identifier attaching
+
+59
+00:03:37,560 --> 00:03:41,190
+and persistent identifier to
+your training material makes it
+
+60
+00:03:41,190 --> 00:03:44,910
+more easy to track online, but
+also will help you to be able to
+
+61
+00:03:45,240 --> 00:03:50,520
+or will make it suitable. And
+you can also assign a persistent
+
+62
+00:03:50,520 --> 00:03:54,780
+identifier to the author. And we
+have already heard about your
+
+63
+00:03:54,780 --> 00:03:59,190
+kit, which simply helps to
+identify the the author
+
+64
+00:03:59,190 --> 00:04:04,800
+unambiguously online. Of course,
+you should also add your
+
+65
+00:04:04,800 --> 00:04:08,040
+training material to an online
+repository so that other people
+
+66
+00:04:08,040 --> 00:04:10,740
+know that it exists. And these
+repositories can be
+
+67
+00:04:10,740 --> 00:04:13,470
+institutional ones, but they can
+also be open once this can be
+
+68
+00:04:13,470 --> 00:04:16,860
+general once or more more field
+specific ones we have already
+
+69
+00:04:16,860 --> 00:04:20,070
+heard some, for example, um,
+Sunoco, which is a more general
+
+70
+00:04:20,070 --> 00:04:23,640
+one. And in the bioinformatics
+field, we for example, have
+
+71
+00:04:23,670 --> 00:04:26,610
+Aleksey of tests and acceptors
+is the life science training
+
+72
+00:04:26,610 --> 00:04:29,760
+portal where you can find a lot
+of bioinformatics and life
+
+73
+00:04:29,760 --> 00:04:30,990
+science training material.
+
+74
+00:04:32,880 --> 00:04:36,300
+Well, how to make your training
+material accent more accessible
+
+75
+00:04:36,570 --> 00:04:41,220
+by making it finable in a
+repository and assigning a
+
+76
+00:04:41,220 --> 00:04:45,540
+persistent identifier to it you
+already are nearer to the sector
+
+77
+00:04:45,540 --> 00:04:48,240
+to make it more accessible for
+others. But then the
+
+78
+00:04:48,240 --> 00:04:51,870
+accessibility of training
+material can vary for different
+
+79
+00:04:51,870 --> 00:04:55,440
+reasons. There might be
+material, which is more
+
+80
+00:04:55,440 --> 00:04:58,140
+restricted, where the access is
+more restricted because it's for
+
+81
+00:04:58,140 --> 00:05:00,720
+example, only accessible for
+specific If members of a
+
+82
+00:05:00,720 --> 00:05:04,590
+university or payment might be
+required, all training material
+
+83
+00:05:04,590 --> 00:05:08,610
+can be completely open. It's
+always very important to clearly
+
+84
+00:05:08,640 --> 00:05:12,090
+and state clearly define how
+people can access the material.
+
+85
+00:05:12,300 --> 00:05:15,840
+And even maybe also do this in
+plain English so that there is
+
+86
+00:05:15,840 --> 00:05:19,680
+absolutely no confusion of how
+people and can access it so that
+
+87
+00:05:19,680 --> 00:05:22,920
+it will be simply more and be
+more accessible by being
+
+88
+00:05:22,920 --> 00:05:27,060
+transparent about this. Well,
+how can you make your training
+
+89
+00:05:27,060 --> 00:05:30,300
+material more interoperable, and
+when you share training
+
+90
+00:05:30,300 --> 00:05:34,020
+material, you should always keep
+in mind that other people might
+
+91
+00:05:34,290 --> 00:05:37,290
+want to reuse it might to edit
+it might want to build upon it.
+
+92
+00:05:37,410 --> 00:05:42,060
+And you also have to consider
+that other people might want to
+
+93
+00:05:42,060 --> 00:05:45,240
+use the training material across
+different computational systems,
+
+94
+00:05:45,390 --> 00:05:48,660
+or might even want to use it
+offline. So you have to balance
+
+95
+00:05:48,930 --> 00:05:51,810
+them carefully which fellmeth
+you want to take for your
+
+96
+00:05:51,810 --> 00:05:55,860
+training material. For example,
+if you give a presentation, and
+
+97
+00:05:56,010 --> 00:06:00,150
+you think about presenting it in
+PowerPoint format, well, this is
+
+98
+00:06:00,150 --> 00:06:05,220
+always very helpful. If because
+people are trainers can edit
+
+99
+00:06:05,220 --> 00:06:09,540
+this very easily and can build
+upon it. If you For example,
+
+100
+00:06:09,540 --> 00:06:12,480
+compare this with a PDF format,
+which is not so easily editable,
+
+101
+00:06:12,660 --> 00:06:16,620
+but then a PDF form but is, of
+course, much more easily usable
+
+102
+00:06:16,620 --> 00:06:19,170
+across different computational
+systems. So you have to
+
+103
+00:06:19,680 --> 00:06:25,470
+carefully consider this when you
+deliver training. Well, how can
+
+104
+00:06:25,470 --> 00:06:29,580
+you make your training even more
+reusable, it's very important
+
+105
+00:06:29,580 --> 00:06:33,120
+that you assign a license to
+your training material. So this
+
+106
+00:06:33,120 --> 00:06:36,420
+will allow other people's to
+know if they are allowed to read
+
+107
+00:06:36,420 --> 00:06:39,720
+that and how they are allowed to
+use that. And also tell them how
+
+108
+00:06:39,720 --> 00:06:44,130
+materials should be cited when
+they reuse it. Also add more
+
+109
+00:06:44,160 --> 00:06:47,670
+metadata to describe the context
+of the material. And that's
+
+110
+00:06:47,670 --> 00:06:50,850
+helped the trainers to get more
+information about your material.
+
+111
+00:06:50,910 --> 00:06:54,330
+This should for example, include
+when was the material written
+
+112
+00:06:54,510 --> 00:06:58,800
+and Who wrote it? Where was it
+presented, in what context and
+
+113
+00:06:58,800 --> 00:07:02,430
+what was the trade at the target
+or the audience of the event and
+
+114
+00:07:02,430 --> 00:07:07,230
+portfolio learning outcomes of
+this event. Also, keep your
+
+115
+00:07:07,290 --> 00:07:11,400
+training material up to date,
+and clearly state when it was
+
+116
+00:07:11,400 --> 00:07:14,820
+last updated, and also welcome
+contribution. So encourage
+
+117
+00:07:14,850 --> 00:07:17,670
+others to provide feedback and
+contribute to the further
+
+118
+00:07:17,670 --> 00:07:22,500
+development of your material. So
+I have given you now a lot of
+
+119
+00:07:22,680 --> 00:07:26,670
+guidelines, in theory. And in
+the following and last few
+
+120
+00:07:26,670 --> 00:07:29,520
+minutes, I would very quickly
+like to show you how we apply
+
+121
+00:07:29,520 --> 00:07:33,300
+these guidelines and for our
+training that we deliver, or
+
+122
+00:07:33,300 --> 00:07:39,150
+that we provide at MBTI. So
+first, we, as I've already told
+
+123
+00:07:39,150 --> 00:07:42,960
+you, we offer bioinformatics
+training. And our training is
+
+124
+00:07:42,960 --> 00:07:46,530
+comprised of life and training
+courses, which are face to face
+
+125
+00:07:46,530 --> 00:07:49,890
+courses, not at the moment, of
+course, but also virtual courses
+
+126
+00:07:49,890 --> 00:07:52,980
+and life seminars. And we also
+have on demand training. So
+
+127
+00:07:52,980 --> 00:07:56,010
+online training, like online
+tutorials, recorded webinars,
+
+128
+00:07:56,040 --> 00:08:00,510
+and course materials and you can
+access and find every all of our
+
+129
+00:08:00,510 --> 00:08:05,310
+training offer on our course web
+page, we made the following
+
+130
+00:08:05,310 --> 00:08:09,540
+error very quick, very more
+refer to the online tutorials we
+
+131
+00:08:09,540 --> 00:08:13,860
+have. So we describe our online
+materials properly by for
+
+132
+00:08:13,860 --> 00:08:17,250
+example, using a dermatology so
+even tala G is a set of
+
+133
+00:08:17,250 --> 00:08:20,970
+controlled vocabularies, which
+describes concepts which are
+
+134
+00:08:20,970 --> 00:08:25,620
+very common in methods and
+computational biology. We also
+
+135
+00:08:25,620 --> 00:08:29,280
+leave the Emily di resources, so
+the databases that are covered
+
+136
+00:08:29,310 --> 00:08:34,860
+in the training tutorials, to
+the tutorials, and we also
+
+137
+00:08:34,860 --> 00:08:38,220
+describe them, I'm using extra
+terms and keywords which
+
+138
+00:08:38,220 --> 00:08:41,970
+describe the topics of the
+tutorials by this, we ate the
+
+139
+00:08:41,970 --> 00:08:44,550
+search and to search
+autocomplete function on our
+
+140
+00:08:44,580 --> 00:08:48,960
+page. We also give unique
+identifiers to our tutorials.
+
+141
+00:08:48,960 --> 00:08:52,530
+For example, you can see here
+that we have a DUI. And with
+
+142
+00:08:52,710 --> 00:08:56,640
+this digital object identifier,
+we make this tutorial selectable
+
+143
+00:08:56,640 --> 00:09:00,270
+by others, and also our authors
+they have orchids assigned to
+
+144
+00:09:00,270 --> 00:09:05,220
+them. So they are also
+unambiguously identifiable. We
+
+145
+00:09:05,220 --> 00:09:10,770
+also make our material reusable,
+we have licenses assigned to our
+
+146
+00:09:10,770 --> 00:09:15,240
+material. We for example, I'm
+used to CC by sa license, which
+
+147
+00:09:15,300 --> 00:09:19,110
+allows other people to use our
+material to transform it and
+
+148
+00:09:19,110 --> 00:09:22,950
+rebuild on it. But they should
+give us credit and also share it
+
+149
+00:09:22,950 --> 00:09:24,420
+under the same license again.
+
+150
+00:09:25,860 --> 00:09:28,590
+We also keep our training
+material up to date, we keep it
+
+151
+00:09:28,590 --> 00:09:32,910
+up to date or we review it once
+a year and we clearly states on
+
+152
+00:09:32,910 --> 00:09:36,780
+the page on the web page when it
+was last updated. What is now
+
+153
+00:09:36,780 --> 00:09:41,130
+not shown here is that we also
+asked our trainees for feedback.
+
+154
+00:09:41,130 --> 00:09:44,430
+So on behalf m standard feedback
+forms where we really encourage
+
+155
+00:09:44,430 --> 00:09:47,430
+people to let us know what I
+think about our training
+
+156
+00:09:47,580 --> 00:09:50,490
+material and to give us some
+helpful feedback so that we can
+
+157
+00:09:50,490 --> 00:09:55,230
+revise it and regularly so all
+in all, I should say this is all
+
+158
+00:09:55,260 --> 00:09:59,460
+work in progress so we still can
+make our training and much more
+
+159
+00:09:59,460 --> 00:10:02,940
+fairer. Because it's a long
+process to really make it very
+
+160
+00:10:02,940 --> 00:10:06,300
+fair. And I'm For example, we
+are working on adding further
+
+161
+00:10:06,300 --> 00:10:09,930
+metadata texts on to our
+material and also expanding the
+
+162
+00:10:09,930 --> 00:10:15,300
+town louder, more materials just
+to name a few examples with this
+
+163
+00:10:15,630 --> 00:10:19,680
+idea. And I've also provided
+some more helpful resources. I
+
+164
+00:10:19,680 --> 00:10:22,830
+have included the paper here to
+the 10 simple rules. And then
+
+165
+00:10:22,830 --> 00:10:25,470
+there are also two webinars
+where you can which you can
+
+166
+00:10:25,470 --> 00:10:27,870
+watch where you can find more
+information and I will also add
+
+167
+00:10:27,870 --> 00:10:32,070
+them to the to the living
+document, which is provided. So
+
+168
+00:10:32,070 --> 00:10:34,710
+if we have time for questions,
+and if there's any questions,
+
+169
+00:10:34,710 --> 00:10:37,140
+I'm happy to receive them and
+otherwise, you can always of
+
+170
+00:10:37,140 --> 00:10:41,400
+course, also contact me for my
+email address or find me on
+
+171
+00:10:41,400 --> 00:10:41,970
+LinkedIn.
+

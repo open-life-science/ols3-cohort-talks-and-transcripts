@@ -1,0 +1,1044 @@
+1
+00:00:00,000 --> 00:00:07,380
+Unknown: I'm Dr. I'm Ron Harris.
+And I've worked in research
+
+2
+00:00:07,380 --> 00:00:11,670
+integrity research ethics, open
+science, responsible research
+
+3
+00:00:11,670 --> 00:00:16,560
+kind of area for a number of
+years. And I used to give
+
+4
+00:00:17,730 --> 00:00:24,450
+training workshops on on Open
+Science, including data for for
+
+5
+00:00:24,480 --> 00:00:28,110
+several years in my last
+project. So that's kind of how
+
+6
+00:00:28,110 --> 00:00:33,360
+I'm here today. So I just want
+to quickly go through a few
+
+7
+00:00:33,360 --> 00:00:36,570
+things. And I think I'm touching
+on a few things that my fellow
+
+8
+00:00:36,570 --> 00:00:41,580
+speakers are going to talk about
+as well, such as training and
+
+9
+00:00:41,580 --> 00:00:44,520
+software. So I'll, I'll move on
+from those quite quickly,
+
+10
+00:00:44,520 --> 00:00:48,000
+because I didn't want to take up
+space when you've got people who
+
+11
+00:00:48,000 --> 00:00:51,540
+have more expertise. But I'm
+very quickly going to start with
+
+12
+00:00:51,750 --> 00:00:55,980
+a fair data analogy that I use
+in training, this helps I think,
+
+13
+00:00:55,980 --> 00:01:00,090
+just get us moving from the the
+abstract terms to something a
+
+14
+00:01:00,090 --> 00:01:03,840
+little bit more concrete. And
+also, if you are thinking of
+
+15
+00:01:03,840 --> 00:01:08,190
+doing any trading yourselves,
+it's a nice, nice thing to use.
+
+16
+00:01:08,580 --> 00:01:11,940
+Then I'm going to talk about
+impediments and solutions. So I
+
+17
+00:01:11,940 --> 00:01:13,830
+didn't want to just kind of
+reiterate a lot of the
+
+18
+00:01:13,830 --> 00:01:16,380
+information that's already out
+there, but maybe move the
+
+19
+00:01:16,380 --> 00:01:18,900
+conversation a little bit
+forward in terms of kind of
+
+20
+00:01:18,900 --> 00:01:22,860
+where we are now. And instead of
+I mean, you could call it
+
+21
+00:01:22,860 --> 00:01:26,790
+impediments and solutions or
+challenges and successes. And
+
+22
+00:01:27,090 --> 00:01:31,470
+then looking maybe at a little
+bit of fair guidelines of what
+
+23
+00:01:31,470 --> 00:01:36,810
+we could kind of do more of what
+some some ways we could could
+
+24
+00:01:36,900 --> 00:01:42,810
+manage fair data could be. So
+just straight on with the I
+
+25
+00:01:42,810 --> 00:01:44,820
+don't know if you can see the
+last image, let's move this
+
+26
+00:01:44,820 --> 00:01:52,500
+down. So the fair data analogy.
+So there's a YouTube link in the
+
+27
+00:01:52,500 --> 00:01:55,800
+bottom right corner, you can
+watch me give the whole thing in
+
+28
+00:01:55,800 --> 00:01:59,250
+detail. And you're welcome. Of
+course, if you do find it useful
+
+29
+00:01:59,250 --> 00:02:02,610
+to embed it in any kind of
+online courses, it's completely
+
+30
+00:02:02,610 --> 00:02:08,520
+fishy by um, but the way it
+works is I, when explaining it,
+
+31
+00:02:08,520 --> 00:02:11,880
+I talk about data as treasure.
+So if you imagine you heard
+
+32
+00:02:11,880 --> 00:02:15,060
+about some hidden treasure, you
+know, like, you know, pirate
+
+33
+00:02:15,210 --> 00:02:19,590
+thing or something. And first of
+all, you need to be able to find
+
+34
+00:02:19,590 --> 00:02:22,470
+the treasure, if you need a map,
+you know, you need to be able to
+
+35
+00:02:22,470 --> 00:02:25,110
+find it. And then if you knew
+where it was, you need to be
+
+36
+00:02:25,110 --> 00:02:28,170
+able to get to it. So are there
+shark infested waters? Are there
+
+37
+00:02:28,170 --> 00:02:31,980
+bandits? Are there, whatever?
+And then if you found a treasure
+
+38
+00:02:31,980 --> 00:02:35,070
+chest, could you actually would
+you have the right key? It's no
+
+39
+00:02:35,070 --> 00:02:38,910
+good if you've got, say a Yale
+modern key, and it's an old key
+
+40
+00:02:38,910 --> 00:02:42,810
+or vice versa? So could you
+actually get get into the
+
+41
+00:02:42,900 --> 00:02:46,080
+treasure chest? And then when if
+you got into the treasure chest?
+
+42
+00:02:46,110 --> 00:02:49,980
+Would the treasure be something?
+Would it be crisp euro notes? Or
+
+43
+00:02:49,980 --> 00:02:53,520
+dollar note? Or would it be some
+weird old money with skulls on
+
+44
+00:02:53,520 --> 00:02:59,040
+it? Which is not very useful to
+anyone? And so yeah, I just use
+
+45
+00:02:59,040 --> 00:03:02,220
+this analogy just to get us
+thinking maybe you know, a
+
+46
+00:03:02,220 --> 00:03:07,350
+slightly more dynamic way about
+what fair actually means what
+
+47
+00:03:07,350 --> 00:03:13,530
+the individual parts of the fair
+acronym actually stand for. And
+
+48
+00:03:13,560 --> 00:03:18,360
+I find this can be quite useful
+to make it a bit more. Yeah, a
+
+49
+00:03:18,360 --> 00:03:21,870
+bit more real. So yeah, that's
+just to kind of warm us up. And
+
+50
+00:03:21,900 --> 00:03:26,760
+now some of the little bit more
+policy side of things a little
+
+51
+00:03:26,760 --> 00:03:30,930
+bit more in depth. So
+impediments or I guess you could
+
+52
+00:03:30,930 --> 00:03:35,850
+also look at them as challenges.
+Um, so the first one that I
+
+53
+00:03:35,850 --> 00:03:40,410
+think needs mentioning is the
+inadequate storage and
+
+54
+00:03:40,440 --> 00:03:45,990
+inadequate repositories for
+large, sensitive or discipline
+
+55
+00:03:45,990 --> 00:03:50,430
+specific data. So for instance,
+I know that the Earth Sciences
+
+56
+00:03:51,420 --> 00:03:54,540
+often complain that they don't
+feel they have a repository that
+
+57
+00:03:54,540 --> 00:04:01,350
+fully meets that data
+requirements. So because
+
+58
+00:04:01,350 --> 00:04:05,310
+obviously, that that's got some
+quite specialist requirements,
+
+59
+00:04:05,730 --> 00:04:11,490
+and you wanted to be storing
+data in a very, very specific
+
+60
+00:04:11,490 --> 00:04:15,150
+way. And so generic depositories
+aren't aren't really working.
+
+61
+00:04:15,180 --> 00:04:19,500
+And so that's, you know,
+immediately you've got to think
+
+62
+00:04:19,500 --> 00:04:22,110
+about not just, when you're
+thinking about fair data, you're
+
+63
+00:04:22,110 --> 00:04:25,170
+not just thinking about the fair
+principles, you're also the data
+
+64
+00:04:25,170 --> 00:04:30,810
+part of that fair data. And in
+order to make data fair, there
+
+65
+00:04:30,810 --> 00:04:38,850
+needs to be sufficient technical
+support for the variety of data
+
+66
+00:04:38,850 --> 00:04:42,960
+that research data that's being
+produced. You've also got things
+
+67
+00:04:42,960 --> 00:04:46,260
+like very large data sets, when
+I was doing training, I'd often
+
+68
+00:04:46,260 --> 00:04:50,130
+hear this from researchers
+saying, okay, but you know, I'm
+
+69
+00:04:50,130 --> 00:04:53,850
+looking at terabytes upon
+terabytes of data. And they
+
+70
+00:04:53,850 --> 00:04:58,740
+simply there aren't repositories
+that can handle that. And then
+
+71
+00:04:58,740 --> 00:05:02,070
+sensitive data. So You know, as
+I said, I've worked on data
+
+72
+00:05:02,640 --> 00:05:06,900
+governance, data ethics. And you
+know, you obviously I'm sure
+
+73
+00:05:06,900 --> 00:05:11,310
+you're all aware can't just be
+putting personal medical data
+
+74
+00:05:11,670 --> 00:05:17,910
+in, you know, there's no doubt.
+So balancing fair and Ethical
+
+75
+00:05:17,910 --> 00:05:21,000
+Treatment of data is, you know,
+I could give an hour long
+
+76
+00:05:21,000 --> 00:05:24,300
+presentation just on that. But
+obviously, I just want to flag
+
+77
+00:05:24,300 --> 00:05:27,990
+it up as something to think
+about when we're talking about
+
+78
+00:05:27,990 --> 00:05:33,150
+fair data. So moving moving on,
+discipline, differences in
+
+79
+00:05:33,150 --> 00:05:38,100
+output and, and terms impacting
+interrupt ability. So
+
+80
+00:05:38,160 --> 00:05:41,550
+interdisciplinary
+interoperability, try saying
+
+81
+00:05:41,550 --> 00:05:46,830
+that when you're drunk, is, is,
+is a big issue. So particularly,
+
+82
+00:05:47,550 --> 00:05:51,960
+with the social sciences and the
+humanities, you've got just
+
+83
+00:05:51,960 --> 00:05:55,080
+different terms, different
+terminologies, or you've got
+
+84
+00:05:55,080 --> 00:05:59,490
+different attitudes to
+persistent identifiers. so
+
+85
+00:05:59,520 --> 00:06:05,100
+awkward, I had my org ID up at
+the start, but that's
+
+86
+00:06:06,030 --> 00:06:09,270
+not necessarily something all
+disciplines are asking their
+
+87
+00:06:09,270 --> 00:06:14,220
+researchers to do. So that you
+have these these gaps, if you
+
+88
+00:06:14,220 --> 00:06:21,180
+like, in terms of find ability.
+And, yeah, different levels of
+
+89
+00:06:21,210 --> 00:06:25,590
+outputs, and, and you know, how
+things how variables are coded,
+
+90
+00:06:26,550 --> 00:06:29,070
+can really impact
+interoperability. And I think
+
+91
+00:06:29,070 --> 00:06:31,800
+it's also important to note
+that, you know, interoperability
+
+92
+00:06:31,800 --> 00:06:36,390
+is often somewhat forgotten,
+it's probably the hardest of the
+
+93
+00:06:36,390 --> 00:06:40,410
+fair data principles to get
+right. finable is often the
+
+94
+00:06:40,410 --> 00:06:45,750
+most, the easiest, and it's the
+one people start Rev. But, you
+
+95
+00:06:45,750 --> 00:06:49,950
+know, interoperability is is the
+most difficult to to to define,
+
+96
+00:06:49,950 --> 00:06:53,460
+and it's the most difficult to
+put into practice. So I think
+
+97
+00:06:53,460 --> 00:06:57,570
+that's very much worth worth
+flagging. So those are kind of
+
+98
+00:06:57,570 --> 00:07:02,970
+some technical challenges. Then
+you've also got some more, maybe
+
+99
+00:07:02,970 --> 00:07:09,600
+we'll call them social
+challenges. So as I'm sure the
+
+100
+00:07:10,140 --> 00:07:14,370
+wonderful organizers of open
+life science with a test, there
+
+101
+00:07:14,370 --> 00:07:20,010
+are plenty of solutions at a
+community level. But the the
+
+102
+00:07:20,010 --> 00:07:24,360
+sustainability of those
+solutions is often difficult,
+
+103
+00:07:24,360 --> 00:07:26,910
+because the you know, the
+funding isn't there, people are
+
+104
+00:07:26,910 --> 00:07:32,610
+doing these things as side
+projects. And that is impacting
+
+105
+00:07:32,610 --> 00:07:37,020
+the ability of fair data to just
+become data. And that's the goal
+
+106
+00:07:37,020 --> 00:07:41,550
+right? At the end, we want fair
+data to just be data. And then
+
+107
+00:07:41,550 --> 00:07:44,670
+the final thing is a lack of
+legal or licensing knowledge.
+
+108
+00:07:44,670 --> 00:07:50,310
+And this obviously relates to
+the art of fair, we usable. And
+
+109
+00:07:50,370 --> 00:07:53,550
+the link, if the hyperlink I've
+got in the slides leads to
+
+110
+00:07:54,150 --> 00:07:57,960
+research by a colleague and
+friend of mine. That's not why
+
+111
+00:07:57,960 --> 00:08:02,850
+LinkedIn, she's just very good.
+But she's done work on on
+
+112
+00:08:02,850 --> 00:08:10,710
+research on how the concerns
+about, say, GDPR and other legal
+
+113
+00:08:10,710 --> 00:08:15,240
+aspects of data reuse and
+sharing, often hold researchers
+
+114
+00:08:15,240 --> 00:08:19,710
+back from making their data fair
+from making it viable and
+
+115
+00:08:19,710 --> 00:08:24,030
+accessible. Because they they're
+not sure how to navigate and
+
+116
+00:08:24,030 --> 00:08:27,360
+there isn't enough first level
+support within universities,
+
+117
+00:08:27,810 --> 00:08:31,530
+about the legal issues. And then
+you've got your classic fear of
+
+118
+00:08:31,530 --> 00:08:34,560
+scooping out, which I think
+we're all kind of familiar with.
+
+119
+00:08:35,640 --> 00:08:40,380
+So yeah, solutions or successes.
+So it has become more easy,
+
+120
+00:08:41,340 --> 00:08:46,920
+easier and more normal to cite
+data and to create data as as a
+
+121
+00:08:46,920 --> 00:08:51,390
+publication. It's definitely
+anecdotally and also there is
+
+122
+00:08:51,390 --> 00:08:54,000
+some evidence for this. I
+haven't actually put a reference
+
+123
+00:08:54,000 --> 00:08:57,810
+here, because it's the the
+report I read is still under
+
+124
+00:08:57,810 --> 00:09:04,080
+embargo. But yeah, it's the most
+recent surveys are definitely
+
+125
+00:09:04,080 --> 00:09:10,200
+showing that it is becoming
+normalized. So support from
+
+126
+00:09:10,560 --> 00:09:15,720
+repositories. So you've got the
+core trust seal, and I'm not
+
+127
+00:09:15,720 --> 00:09:17,310
+sure how many of you are
+familiar with that. But
+
+128
+00:09:17,610 --> 00:09:21,180
+essentially, it's something that
+repositories can acquire, to
+
+129
+00:09:21,180 --> 00:09:24,270
+show that they are a reliable
+repository where you can put
+
+130
+00:09:24,270 --> 00:09:28,200
+your data, but the core trust
+seal requirements map quite
+
+131
+00:09:28,200 --> 00:09:32,880
+closely on to the fair data
+principles. And so in, in in, in
+
+132
+00:09:32,880 --> 00:09:36,120
+getting the quarter seal, they
+are actually meeting fair
+
+133
+00:09:36,210 --> 00:09:40,080
+requirements, which is obviously
+a big success and big step
+
+134
+00:09:40,080 --> 00:09:42,780
+forward. Then you've got things
+like virtual research
+
+135
+00:09:42,780 --> 00:09:45,420
+environments, I've given an
+example run by the quest Center,
+
+136
+00:09:45,420 --> 00:09:51,810
+which is here in Berlin. And
+this is where researchers it's
+
+137
+00:09:51,810 --> 00:09:55,350
+kind of what it sounds like.
+Probably some of you are far
+
+138
+00:09:55,350 --> 00:09:59,280
+more familiar of it than I but
+it's, you know, essentially a
+
+139
+00:09:59,280 --> 00:10:02,550
+place of work. short space where
+researchers can create work on
+
+140
+00:10:02,550 --> 00:10:05,670
+research together. This,
+obviously is is massively
+
+141
+00:10:05,670 --> 00:10:10,800
+helpful towards their data
+because it's all the data is
+
+142
+00:10:10,800 --> 00:10:14,010
+being worked on together,
+sometimes inter disciplinary.
+
+143
+00:10:14,520 --> 00:10:18,300
+And the trouble with that,
+though, there is a kind of
+
+144
+00:10:18,300 --> 00:10:22,410
+downside, the danger of that is
+that you end up with these VRS
+
+145
+00:10:22,440 --> 00:10:28,080
+silos so that no one else who
+wasn't originally in the virtual
+
+146
+00:10:28,080 --> 00:10:31,290
+research environment can then
+reuse that data. So that's the
+
+147
+00:10:31,650 --> 00:10:35,280
+slight danger of that. Also, the
+expectations and support by
+
+148
+00:10:35,280 --> 00:10:39,840
+funders and institutions are
+changing. And, you know, data
+
+149
+00:10:39,840 --> 00:10:43,410
+management plans, which often
+involves some aspects of the
+
+150
+00:10:43,410 --> 00:10:46,650
+fabric tables, though not
+enough, are becoming very
+
+151
+00:10:48,180 --> 00:10:53,130
+normal, unexpected. And
+institutions are moving somewhat
+
+152
+00:10:53,130 --> 00:10:57,240
+towards having, you know, data
+training and open data ideas.
+
+153
+00:10:59,130 --> 00:11:02,160
+So what could be fairer? What
+could be more fair, I've
+
+154
+00:11:02,160 --> 00:11:05,940
+mentioned software here, but I'm
+not going to to say anything
+
+155
+00:11:05,940 --> 00:11:08,760
+more on that, because I know,
+one of my fellow speakers is
+
+156
+00:11:08,760 --> 00:11:12,570
+going to talk at more detail.
+But just that, you know, while
+
+157
+00:11:12,840 --> 00:11:17,790
+open source kind of led the way
+in terms of openness, generally,
+
+158
+00:11:18,420 --> 00:11:22,680
+there are in consistencies in
+terms of, of software being fair
+
+159
+00:11:23,610 --> 00:11:30,720
+services. So this is twofold.
+First of all, you have could
+
+160
+00:11:30,720 --> 00:11:34,080
+services incorporate fam Also,
+if you imagine, say a library
+
+161
+00:11:34,080 --> 00:11:38,010
+giving data training, could
+those services talk more about
+
+162
+00:11:38,010 --> 00:11:42,000
+fairness? And, and helping
+researchers understand the fair
+
+163
+00:11:42,000 --> 00:11:46,860
+principles, but also that the
+service themselves? Are they
+
+164
+00:11:46,860 --> 00:11:51,420
+fair? So is the training
+recorded? Is it find about is it
+
+165
+00:11:51,420 --> 00:11:55,440
+accessible? You know, can it be,
+you know, can be downloaded,
+
+166
+00:11:55,980 --> 00:11:59,310
+and, you know, my and in terms
+of accessibility, we often mean,
+
+167
+00:12:00,030 --> 00:12:02,700
+sort of technical accessibility,
+but also we should think about
+
+168
+00:12:02,700 --> 00:12:09,000
+accessibility in terms of, of
+disability. And I noticed, you
+
+169
+00:12:09,000 --> 00:12:14,040
+know, you're using the otter.ai
+transcript. So that this this,
+
+170
+00:12:15,600 --> 00:12:18,750
+what, you know, this meeting
+today is more accessible. And I
+
+171
+00:12:18,750 --> 00:12:23,310
+ran a podcast for several years
+on open science, and, you know,
+
+172
+00:12:23,340 --> 00:12:28,770
+in to, you know, out of
+ignorance, and just, I guess,
+
+173
+00:12:28,770 --> 00:12:31,620
+just not not, yeah, ignorance,
+we didn't often provide a
+
+174
+00:12:31,620 --> 00:12:34,380
+transcript for that, which meant
+that people who had hearing
+
+175
+00:12:34,380 --> 00:12:37,140
+disabilities couldn't access
+that information, which is, you
+
+176
+00:12:37,140 --> 00:12:40,950
+know, it's not, it's not the
+right, it's not best practice.
+
+177
+00:12:40,950 --> 00:12:43,080
+And it did limit the
+accessibility of that
+
+178
+00:12:43,080 --> 00:12:47,280
+information. So there's a
+project, if you click on the
+
+179
+00:12:47,280 --> 00:12:50,850
+link that is looking at fair
+assessment, and how services and
+
+180
+00:12:50,850 --> 00:12:53,910
+service providers can make that
+self assessment on whether
+
+181
+00:12:54,180 --> 00:12:58,500
+things are fair. And then
+finally, just workflows, they
+
+182
+00:12:58,500 --> 00:13:01,260
+could be more fair, some things
+towards that, as you know,
+
+183
+00:13:01,260 --> 00:13:04,890
+obviously, Mike, my experiment,
+where you can kind of it's a bit
+
+184
+00:13:04,890 --> 00:13:09,330
+like a open notebook type thing.
+And then persistent identifiers,
+
+185
+00:13:09,780 --> 00:13:13,860
+obviously, are helpful with
+seeing where people are, and
+
+186
+00:13:13,860 --> 00:13:18,300
+sharing that workflow very
+quickly. And I'm running low on
+
+187
+00:13:18,300 --> 00:13:24,630
+time. The other side of this
+making things fairer compliance.
+
+188
+00:13:24,630 --> 00:13:30,120
+So this is a checklist, you
+know, as to whether things have
+
+189
+00:13:30,120 --> 00:13:33,210
+been fair, and this is really
+useful in just in terms of, you
+
+190
+00:13:33,210 --> 00:13:37,080
+know, using it with your own
+projects, looking at whether
+
+191
+00:13:37,080 --> 00:13:40,620
+you've, you've made things fair,
+so if you're doing any training,
+
+192
+00:13:40,620 --> 00:13:44,850
+it's it's it's very useful. But
+obviously, you know, it could be
+
+193
+00:13:44,850 --> 00:13:48,930
+used in a very soft way, like as
+a checklist. Or it could be used
+
+194
+00:13:48,930 --> 00:13:51,900
+by funders, you can imagine a
+very kind of strict way, like,
+
+195
+00:13:51,900 --> 00:13:55,020
+have you done each of these
+things? If not, you're not going
+
+196
+00:13:55,020 --> 00:13:59,850
+to get your money sort of way.
+And then metrics, I put an
+
+197
+00:13:59,850 --> 00:14:04,890
+metrics question mark, and
+there's a report there, which is
+
+198
+00:14:04,890 --> 00:14:08,250
+very interesting. I do recommend
+you take a look at that.
+
+199
+00:14:08,580 --> 00:14:12,270
+Obviously, I think we're all
+very wary of metrics given where
+
+200
+00:14:12,270 --> 00:14:16,170
+that's landed us in the
+publishing industry. But fair
+
+201
+00:14:16,170 --> 00:14:19,410
+metrics might be a way forward.
+And it's something that I think
+
+202
+00:14:19,620 --> 00:14:22,500
+funders and people like the
+European Commission are going to
+
+203
+00:14:22,500 --> 00:14:26,010
+be very keen on very policy
+minded people are going to like
+
+204
+00:14:26,010 --> 00:14:31,530
+that. So it's something maybe to
+have an idea about, in general.
+
+205
+00:14:32,520 --> 00:14:35,370
+So I've got some further reading
+links. They're also in the the
+
+206
+00:14:35,370 --> 00:14:39,870
+original document. And yeah,
+there's there's links to contact
+
+207
+00:14:39,870 --> 00:14:43,830
+me. So I'll stop talking. I'm
+not sure I am for time. I'll
+
+208
+00:14:43,830 --> 00:14:47,400
+take any questions. If there's
+time for that, if not happy to.
+
+209
+00:14:48,330 --> 00:14:49,770
+You know, do that via writing.
+

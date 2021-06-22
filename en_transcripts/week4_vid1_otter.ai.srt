@@ -1,0 +1,793 @@
+1
+00:00:00,000 --> 00:00:04,620
+Unknown: Hello. So hi, I'm here
+to talk to you very briefly
+
+2
+00:00:04,650 --> 00:00:10,860
+about open licenses. The slides
+that I'm sharing are shared with
+
+3
+00:00:10,860 --> 00:00:15,690
+a creative commons by license,
+developed by open life science
+
+4
+00:00:15,690 --> 00:00:20,370
+and then modified by me, I am
+not a lawyer, I only play one
+
+5
+00:00:20,400 --> 00:00:26,850
+one playing board games. Okay,
+so a little bit about me, I am
+
+6
+00:00:26,850 --> 00:00:29,940
+the reproducibility librarian at
+the Health Science Center
+
+7
+00:00:29,940 --> 00:00:33,690
+libraries at the University of
+Florida. My pronouns are he him
+
+8
+00:00:33,690 --> 00:00:37,830
+his and my Twitter handle is how
+and why do you feel free to
+
+9
+00:00:37,830 --> 00:00:40,920
+reach out to me if you have
+questions about research,
+
+10
+00:00:40,920 --> 00:00:47,640
+reproducibility or other related
+topics. So the goal and talking
+
+11
+00:00:47,640 --> 00:00:53,100
+about licensing in the context
+of open life science is an open
+
+12
+00:00:53,100 --> 00:00:59,790
+projects is we would like other
+people to be able to use, remix,
+
+13
+00:01:00,000 --> 00:01:04,320
+and share our the work that
+we're doing in our open
+
+14
+00:01:04,320 --> 00:01:09,930
+projects. And we achieve that by
+making sure that we have in our
+
+15
+00:01:09,930 --> 00:01:14,010
+open projects, explicit
+documentation about how other
+
+16
+00:01:14,010 --> 00:01:17,640
+people can use and remix and
+share it. And so we're going to
+
+17
+00:01:17,640 --> 00:01:24,180
+go through these slides. And
+hopefully, if there's time, you
+
+18
+00:01:24,180 --> 00:01:27,930
+know, have the ability to have
+short discussion or answer any
+
+19
+00:01:27,930 --> 00:01:31,890
+quick questions about this, with
+the goal being that you will
+
+20
+00:01:31,890 --> 00:01:37,590
+eventually know and understand
+the importance, and how exactly
+
+21
+00:01:37,590 --> 00:01:44,250
+to do the task of adding an open
+license to your work. Okay. And
+
+22
+00:01:44,280 --> 00:01:49,140
+so going back to kind of the
+intent behind all of this, the
+
+23
+00:01:49,140 --> 00:01:52,680
+open leadership framework talks
+about open leaders, as designing
+
+24
+00:01:52,680 --> 00:01:56,370
+and building projects that
+empower others, right, we think
+
+25
+00:01:56,370 --> 00:02:00,240
+about, were doing these
+projects, because usually,
+
+26
+00:02:00,240 --> 00:02:03,960
+because we care about doing work
+that, you know, helps other
+
+27
+00:02:03,960 --> 00:02:06,480
+people, whether those are people
+in our communities or outside
+
+28
+00:02:06,480 --> 00:02:11,550
+our communities. And so that's
+kind of where we think about one
+
+29
+00:02:11,550 --> 00:02:18,240
+way in which, you know, we do
+that interaction is by having
+
+30
+00:02:18,270 --> 00:02:21,450
+our work be shared in a way that
+other people can, can use it.
+
+31
+00:02:21,720 --> 00:02:26,190
+And so this falls in this box of
+the open leadership framework of
+
+32
+00:02:26,190 --> 00:02:30,180
+building for sharing and making
+sure that we have explicitly in
+
+33
+00:02:30,180 --> 00:02:35,280
+the building of our project, a
+way that we share the work.
+
+34
+00:02:36,930 --> 00:02:39,930
+Okay, so some some
+misconceptions that I think I
+
+35
+00:02:39,930 --> 00:02:44,490
+want to address when talking
+about licensing. Because it is a
+
+36
+00:02:44,520 --> 00:02:50,430
+it is a complex topic, and it
+does relate to things like
+
+37
+00:02:50,460 --> 00:02:56,040
+copyright, and academic credit.
+But licensing is not the same
+
+38
+00:02:56,040 --> 00:03:00,570
+thing. And so some brief kind of
+points to make really quickly,
+
+39
+00:03:01,110 --> 00:03:04,740
+just because you share something
+on the internet, or GitHub or
+
+40
+00:03:04,740 --> 00:03:07,350
+someone else share something on
+the internet, or GitHub does not
+
+41
+00:03:07,380 --> 00:03:12,480
+automatically allow other people
+to use it. If you are sharing
+
+42
+00:03:12,480 --> 00:03:16,800
+work with a license, it does not
+by default, give away your
+
+43
+00:03:16,800 --> 00:03:21,360
+copyright. So you can share work
+with a free license and an open
+
+44
+00:03:21,360 --> 00:03:25,920
+license like Creative Commons,
+that does not prevent you from
+
+45
+00:03:25,950 --> 00:03:29,880
+publishing your work or selling
+your work or in other ways
+
+46
+00:03:29,880 --> 00:03:35,100
+monetizing your work. And
+finally, a work that has been
+
+47
+00:03:35,100 --> 00:03:38,700
+shared with an open license, you
+can use it and other people can
+
+48
+00:03:38,700 --> 00:03:44,190
+use it, they don't have to cite
+you necessarily. So it can be
+
+49
+00:03:44,190 --> 00:03:47,670
+legal to use the work without
+citing you. But in an academic
+
+50
+00:03:47,670 --> 00:03:51,090
+setting, if you are doing an
+academic research, that's still
+
+51
+00:03:51,090 --> 00:03:55,050
+considered a violation of
+academic ethics. And that is
+
+52
+00:03:55,050 --> 00:03:59,460
+something that you would pursue
+if it's a problem using academic
+
+53
+00:03:59,460 --> 00:04:10,350
+means. Because that can be
+plagiarism. Okay, so some some
+
+54
+00:04:10,350 --> 00:04:13,350
+kind of common elements. When we
+talk about licenses, there are
+
+55
+00:04:13,350 --> 00:04:18,540
+of course, many different ways
+you can, you can give other
+
+56
+00:04:18,540 --> 00:04:22,980
+people permissions on so many
+different example licenses. And
+
+57
+00:04:22,980 --> 00:04:26,790
+the kinds of things that we
+think about in terms of
+
+58
+00:04:26,790 --> 00:04:31,320
+including in the open license
+are how people can use your
+
+59
+00:04:31,320 --> 00:04:35,460
+work, how people can modify your
+work, and how they can share
+
+60
+00:04:35,460 --> 00:04:38,460
+your work and redistribute
+either the original or the
+
+61
+00:04:38,460 --> 00:04:43,530
+modified work to other people.
+And so, yeah,
+
+62
+00:04:45,450 --> 00:04:50,670
+some of these elements also
+include attribution. So a lot of
+
+63
+00:04:50,670 --> 00:04:56,250
+the open licenses that are in
+use gela require that if the
+
+64
+00:04:56,250 --> 00:05:00,300
+work is being reshare by someone
+else, that the job Original
+
+65
+00:05:00,300 --> 00:05:04,740
+authors are credited. So
+examples of this are the
+
+66
+00:05:04,740 --> 00:05:08,730
+Creative Commons by license,
+which has a this attribution
+
+67
+00:05:08,730 --> 00:05:12,420
+clause, and almost all the other
+licenses that will be mentioned
+
+68
+00:05:12,420 --> 00:05:17,130
+today. And one exception to this
+one important exception to this
+
+69
+00:05:17,160 --> 00:05:21,450
+is the Creative Commons zero
+license, which effectively is
+
+70
+00:05:21,450 --> 00:05:26,040
+putting something into the
+public domain and waiving your
+
+71
+00:05:26,040 --> 00:05:30,870
+copyright to, to whatever it is
+that you are sharing using the
+
+72
+00:05:30,870 --> 00:05:38,640
+CC zero license. So some some
+kind of advance advanced
+
+73
+00:05:39,480 --> 00:05:45,510
+complications within this topic
+of open license. So I've put
+
+74
+00:05:45,510 --> 00:05:49,650
+these as I list these as
+wrinkles, because they are
+
+75
+00:05:49,650 --> 00:05:55,170
+relevant to kind of consider,
+but maybe don't think too much
+
+76
+00:05:55,170 --> 00:05:58,440
+about making sure you understand
+all the details of it. Open
+
+77
+00:05:58,440 --> 00:06:02,670
+licenses have this distinction
+between what we call copyleft
+
+78
+00:06:02,670 --> 00:06:07,380
+and non copyleft. licenses,
+which basically have to do with
+
+79
+00:06:07,470 --> 00:06:13,200
+whether modifications of a work
+have to be shared under the same
+
+80
+00:06:13,200 --> 00:06:19,800
+principles. The idea with the
+copyleft licenses. So something
+
+81
+00:06:19,800 --> 00:06:25,290
+like the GNU Public License, the
+GPL is that if someone writes a
+
+82
+00:06:25,290 --> 00:06:28,350
+piece of software and shares it
+with that license, a company
+
+83
+00:06:28,350 --> 00:06:33,180
+can't just build off of that
+software, and then sell their
+
+84
+00:06:33,180 --> 00:06:37,380
+modifications, they also have to
+distribute their modifications
+
+85
+00:06:37,500 --> 00:06:40,740
+in the same license. And that
+way, if there's a way of
+
+86
+00:06:40,740 --> 00:06:44,820
+ensuring that kind of, if you're
+going to use something in the
+
+87
+00:06:44,820 --> 00:06:50,130
+copyleft world, that you also
+contribute to that world. And
+
+88
+00:06:50,130 --> 00:06:55,230
+this is not true for licenses
+that are permissive, but not in
+
+89
+00:06:55,770 --> 00:07:00,450
+the copyleft scheme. And we
+generally prefer those in the
+
+90
+00:07:00,450 --> 00:07:04,980
+kind of open licensing world.
+And I think for, you know, open
+
+91
+00:07:04,980 --> 00:07:08,460
+life science, we don't
+necessarily want to be overly
+
+92
+00:07:08,460 --> 00:07:13,170
+restrictive with how people can
+reuse our work. But that is if
+
+93
+00:07:13,170 --> 00:07:15,990
+that is something that is
+important to you, that is
+
+94
+00:07:15,990 --> 00:07:23,370
+something to consider. The next
+thing is that patents are also
+
+95
+00:07:23,370 --> 00:07:27,480
+not related to copyright, which
+are not are not the same thing
+
+96
+00:07:27,480 --> 00:07:31,380
+as licensing. So copyright
+rights include the ability to
+
+97
+00:07:31,380 --> 00:07:35,520
+copy, modify, and redistribute
+work. And patent rights include
+
+98
+00:07:35,520 --> 00:07:39,780
+the ability to use make and sell
+work. And so this generally
+
+99
+00:07:39,780 --> 00:07:43,920
+tends to come up when you're
+talking about software, in that
+
+100
+00:07:44,100 --> 00:07:48,240
+open source licenses for
+software may or may not
+
+101
+00:07:48,270 --> 00:07:53,940
+explicitly include something
+that grants patent rights. And
+
+102
+00:07:53,940 --> 00:07:57,810
+this is a whole big can of
+worms. So I'll just say if you
+
+103
+00:07:57,810 --> 00:08:01,890
+are writing software, and you
+have a plan to patch the
+
+104
+00:08:01,890 --> 00:08:06,930
+software in any way, definitely
+talk to a lawyer before thinking
+
+105
+00:08:06,960 --> 00:08:10,320
+before just slapping an open
+license and expecting that your
+
+106
+00:08:10,320 --> 00:08:18,510
+patent rights will be preserved.
+Okay, that was a lot. So let's
+
+107
+00:08:18,510 --> 00:08:23,160
+go into the the kind of details
+of how you go about applying the
+
+108
+00:08:23,160 --> 00:08:28,920
+license. So a license file is
+usually named license in all
+
+109
+00:08:28,920 --> 00:08:35,310
+caps, and it goes in the root
+directory or the top most folder
+
+110
+00:08:35,310 --> 00:08:39,240
+of your project. And you can
+definitely include multiple
+
+111
+00:08:39,240 --> 00:08:42,690
+licenses. And that's important
+because you might have different
+
+112
+00:08:42,690 --> 00:08:46,440
+components of your project that
+you want to apply different
+
+113
+00:08:46,440 --> 00:08:50,130
+licenses to. And that's kind of
+important because licenses that
+
+114
+00:08:50,130 --> 00:08:56,130
+are best for software are not
+ideal for content, like images
+
+115
+00:08:56,130 --> 00:09:00,420
+or writing, and in the reverse
+as well. And so there are ways
+
+116
+00:09:00,420 --> 00:09:03,690
+that you can specify in the
+license section of your README,
+
+117
+00:09:03,930 --> 00:09:08,460
+or the license file exactly
+which parts of your project are
+
+118
+00:09:08,460 --> 00:09:16,530
+associated with which license.
+So again, data and code and
+
+119
+00:09:16,530 --> 00:09:19,980
+creative works are not the same
+thing. And so you may require
+
+120
+00:09:19,980 --> 00:09:23,460
+different licenses on here's an
+interesting tweet I saw earlier
+
+121
+00:09:23,460 --> 00:09:29,820
+this week about this topic that
+is relevant. And so ways that
+
+122
+00:09:29,820 --> 00:09:33,990
+you can add a license to your
+project and GitHub, if you are
+
+123
+00:09:33,990 --> 00:09:38,040
+creating a new repository and
+GitHub, there's a section at the
+
+124
+00:09:38,040 --> 00:09:42,360
+bottom where you can initialize
+the repository by clicking that
+
+125
+00:09:42,360 --> 00:09:42,960
+checkbox.
+
+126
+00:09:42,990 --> 00:09:47,040
+And then you can choose a
+license from among a number of
+
+127
+00:09:47,040 --> 00:09:50,880
+built in defaults to GitHub. So
+that's a way you can just start
+
+128
+00:09:50,880 --> 00:09:55,140
+out a project with a license.
+But if you already have a
+
+129
+00:09:55,140 --> 00:09:58,590
+project on GitHub, there's
+another way you can add one of
+
+130
+00:09:58,590 --> 00:10:02,850
+these license templates. Which
+is when you use the feature to
+
+131
+00:10:02,850 --> 00:10:06,840
+add a new file. If you start
+typing the file name, license in
+
+132
+00:10:06,840 --> 00:10:10,500
+all caps, a button pops up,
+which lets you choose a licensed
+
+133
+00:10:10,500 --> 00:10:13,680
+template. And that's also really
+handy to have in that, again,
+
+134
+00:10:13,680 --> 00:10:18,480
+you don't have to go look for
+the full text of a license and
+
+135
+00:10:18,480 --> 00:10:22,620
+get the file. If you're just
+working in GitHub. Those are
+
+136
+00:10:22,620 --> 00:10:31,740
+built in defaults. Some useful
+tools for exploring the
+
+137
+00:10:31,740 --> 00:10:35,700
+different possible licenses you
+might want to use. creative
+
+138
+00:10:35,700 --> 00:10:39,690
+comments has a website that goes
+through kind of the different
+
+139
+00:10:39,840 --> 00:10:43,740
+creative commons license says
+including the CC zero public
+
+140
+00:10:43,740 --> 00:10:49,020
+domain license and the variants
+of the CC by which include
+
+141
+00:10:49,020 --> 00:10:54,600
+requirements, for instance, for
+attribution, or not letting
+
+142
+00:10:54,600 --> 00:10:59,190
+people create derivatives of the
+work. Software, again is
+
+143
+00:10:59,190 --> 00:11:02,280
+different, there are different
+licenses for software. So
+
+144
+00:11:02,670 --> 00:11:06,900
+hopefully, this table gives you
+a brief guide to some of these
+
+145
+00:11:06,900 --> 00:11:10,440
+possible licenses. And then the
+websites themselves have more
+
+146
+00:11:10,440 --> 00:11:17,220
+detailed information that are
+useful for you. Again, more
+
+147
+00:11:17,220 --> 00:11:22,590
+resources, if you would like to
+learn more about this very
+
+148
+00:11:22,590 --> 00:11:29,910
+complex legal Lee's topic in
+detail. But I will just sum up
+
+149
+00:11:30,720 --> 00:11:35,550
+this content in that you if
+you're building a open project,
+
+150
+00:11:35,610 --> 00:11:39,090
+and you want others to build off
+of your work and use it, you
+
+151
+00:11:39,090 --> 00:11:43,440
+need a license. And that license
+is going to be this top level
+
+152
+00:11:43,440 --> 00:11:49,770
+file whose name is license. If
+you have code and data in
+
+153
+00:11:49,770 --> 00:11:52,980
+different content in your
+project, you will want to use a
+
+154
+00:11:52,980 --> 00:11:59,040
+different license for those
+different types of content. And
+
+155
+00:11:59,040 --> 00:12:02,940
+then some good permissive
+defaults, if you're working with
+
+156
+00:12:02,940 --> 00:12:07,440
+code is to share a code using
+the MIT license. If you are
+
+157
+00:12:07,440 --> 00:12:12,930
+sharing writing or documents or
+images, the CC by license or for
+
+158
+00:12:12,930 --> 00:12:16,650
+data that you use the CC zero
+license, which effectively puts
+
+159
+00:12:16,650 --> 00:12:17,850
+it into public domain
+

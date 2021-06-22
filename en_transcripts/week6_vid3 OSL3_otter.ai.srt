@@ -1,0 +1,839 @@
+1
+00:00:00,000 --> 00:00:03,240
+Unknown: My name is Esther
+plump. I'm a data steward at the
+
+2
+00:00:03,240 --> 00:00:07,380
+Delft University of Technology
+in the Netherlands. And I'm also
+
+3
+00:00:07,590 --> 00:00:12,210
+one of the mentors of this
+cohort. And you can find the
+
+4
+00:00:12,210 --> 00:00:16,020
+link of this presentation in the
+slide itself. And I should have
+
+5
+00:00:16,050 --> 00:00:20,910
+also pasted the link in the
+notes. So do let me know if you
+
+6
+00:00:20,910 --> 00:00:30,030
+cannot access it. So open data.
+What is open data? Open Data is
+
+7
+00:00:30,030 --> 00:00:33,810
+any data that's made freely
+available for use and reuse by
+
+8
+00:00:33,840 --> 00:00:37,920
+anyone and everyone. So what
+does that mean? It means that
+
+9
+00:00:37,980 --> 00:00:40,680
+everyone should have access to
+the data. So it should be
+
+10
+00:00:40,680 --> 00:00:44,940
+available on the internet, for
+anyone to access on demand.
+
+11
+00:00:45,840 --> 00:00:50,280
+Everyone must be able to use
+reuse and redistribute that
+
+12
+00:00:50,280 --> 00:00:55,020
+data. So participation is also
+very important here. It should
+
+13
+00:00:55,020 --> 00:00:58,680
+also be transparent what kind of
+information or what kind of open
+
+14
+00:00:58,680 --> 00:01:01,890
+data you're accessing. So there
+should be some information about
+
+15
+00:01:01,890 --> 00:01:08,430
+data generation, and collection
+and about the data. In terms of
+
+16
+00:01:08,460 --> 00:01:11,970
+reuse and distribution, that's
+very important for open data,
+
+17
+00:01:12,570 --> 00:01:16,770
+you should be able to
+redistribute data without a lot
+
+18
+00:01:16,770 --> 00:01:20,580
+of restrictions. And we'll get
+back to that later. And open
+
+19
+00:01:20,580 --> 00:01:23,940
+data should also be
+interoperable. And that means
+
+20
+00:01:23,940 --> 00:01:28,860
+that you can integrate it or
+link it to other data. And if
+
+21
+00:01:28,860 --> 00:01:32,700
+you do that, in a machine
+readable format, it's easy to do
+
+22
+00:01:32,700 --> 00:01:37,080
+that automatically. So these
+definitions are from the Open
+
+23
+00:01:37,080 --> 00:01:40,710
+Data handbook and the World
+Bank, and I pasted those things
+
+24
+00:01:40,710 --> 00:01:44,160
+in the slides. So do have a look
+at those websites. If you want
+
+25
+00:01:44,160 --> 00:01:49,140
+to learn more about the
+terminology. What is open data
+
+26
+00:01:49,140 --> 00:01:55,050
+and not or? Yeah, just to
+highlight that the sentence data
+
+27
+00:01:55,080 --> 00:01:59,160
+will be available upon request
+is not a good sign in terms of
+
+28
+00:01:59,160 --> 00:02:03,990
+open data. So I'm sure we've all
+seen this sentence in a
+
+29
+00:02:03,990 --> 00:02:08,070
+publication where the author
+states that sure if you email
+
+30
+00:02:08,070 --> 00:02:12,060
+me, or if you call me, I will
+provide you the data. So it does
+
+31
+00:02:12,060 --> 00:02:15,300
+not open because you can't
+actually access it by yourself,
+
+32
+00:02:15,840 --> 00:02:21,120
+you would have to go through the
+author. And a study by vines and
+
+33
+00:02:21,120 --> 00:02:25,560
+colleagues has indicated that is
+not as easy as it sounds, you
+
+34
+00:02:25,560 --> 00:02:29,700
+can email researchers. But
+because we tend to hop
+
+35
+00:02:30,210 --> 00:02:35,130
+institutes, we change our email
+addresses quite frequently. So a
+
+36
+00:02:35,130 --> 00:02:38,430
+lot of the time, it's going to
+be difficult to contact a
+
+37
+00:02:38,430 --> 00:02:43,680
+researcher. So their conclusion
+in their paper was then also
+
+38
+00:02:44,040 --> 00:02:48,030
+that research data cannot be
+reliably preserved by individual
+
+39
+00:02:48,030 --> 00:02:54,360
+researchers, which might sound a
+bit harsh. But to be fair, I
+
+40
+00:02:54,360 --> 00:02:57,720
+don't think we should be asking
+individual researchers to
+
+41
+00:02:57,720 --> 00:03:01,050
+preserve data for the long term.
+That's why we have data
+
+42
+00:03:01,050 --> 00:03:09,090
+repositories. What is also not
+open data is fair data. So this
+
+43
+00:03:09,090 --> 00:03:12,690
+is a term that's been used
+increasingly in the data world.
+
+44
+00:03:13,140 --> 00:03:17,580
+But it's actually not the same
+as having data that is open. So
+
+45
+00:03:17,580 --> 00:03:21,330
+fair, means findable,
+accessible, interoperable and
+
+46
+00:03:21,330 --> 00:03:25,650
+reusable. And what does that
+practically mean? I put some
+
+47
+00:03:25,650 --> 00:03:30,000
+links into the slide, where you
+can look it up in detail. But
+
+48
+00:03:30,030 --> 00:03:34,290
+I'm going to do it very briefly
+right now. So finable means that
+
+49
+00:03:34,290 --> 00:03:40,110
+your data is finable on a data
+repository with some metadata,
+
+50
+00:03:40,140 --> 00:03:44,670
+so information about the data,
+and a persistent identifier. And
+
+51
+00:03:44,670 --> 00:03:48,630
+this persistent identifier
+ensures that you do not end up
+
+52
+00:03:48,630 --> 00:03:51,810
+with a broken link. So that
+means that your data is going to
+
+53
+00:03:51,810 --> 00:03:57,960
+be accessible as well. So
+accessible, is seems kind of
+
+54
+00:03:57,960 --> 00:04:02,430
+like it's open. But that's not
+actually what's accessible in
+
+55
+00:04:02,430 --> 00:04:05,910
+the word fair is about
+accessible means that there's a
+
+56
+00:04:05,910 --> 00:04:09,960
+procedure in place that allows
+you to obtain access to the
+
+57
+00:04:09,960 --> 00:04:14,160
+data, potentially, but your X's
+can still be declined, but there
+
+58
+00:04:14,160 --> 00:04:17,970
+should be a procedure in place.
+So this is where it's different
+
+59
+00:04:17,970 --> 00:04:21,840
+from open data is not
+necessarily open. It can be but
+
+60
+00:04:21,840 --> 00:04:26,910
+not necessarily. But here also
+we see that interoperable plays
+
+61
+00:04:26,910 --> 00:04:31,860
+an important part of fair and
+your data is interoperable when
+
+62
+00:04:31,860 --> 00:04:36,600
+you use open formats, so formats
+that anyone can use such as PDF.
+
+63
+00:04:37,230 --> 00:04:41,100
+Instead of Word documents, for
+example, not everyone has a word
+
+64
+00:04:41,100 --> 00:04:47,250
+license and can just use that
+software. But also, if you use
+
+65
+00:04:47,250 --> 00:04:52,230
+commonly use vocabulary or
+standards to describe your data,
+
+66
+00:04:53,160 --> 00:04:56,760
+that means it's more easy to
+integrate it with other data and
+
+67
+00:04:56,790 --> 00:05:01,530
+more easily understandable for
+others. Same goes for reusable.
+
+68
+00:05:01,980 --> 00:05:05,340
+If you want your data to be
+reusable, you should document it
+
+69
+00:05:05,340 --> 00:05:09,840
+well, so that others can
+interpret the data. And in order
+
+70
+00:05:09,840 --> 00:05:13,350
+to do that it has already been
+mentioned for software. But the
+
+71
+00:05:13,350 --> 00:05:17,970
+same goes for data, you can set
+up a readme file, and I put put
+
+72
+00:05:17,970 --> 00:05:23,190
+two examples of README files in
+the presentation. So do please
+
+73
+00:05:23,190 --> 00:05:28,440
+have a look if you want an
+example. And also, there are
+
+74
+00:05:28,440 --> 00:05:31,080
+things such as data
+dictionaries, or code books,
+
+75
+00:05:31,410 --> 00:05:35,250
+there's a little bit more
+elaborate in comparison to the
+
+76
+00:05:35,250 --> 00:05:38,670
+readme file. But it's also very
+good practice to document your
+
+77
+00:05:38,670 --> 00:05:44,370
+data so that others can actually
+reuse it. And then, what is also
+
+78
+00:05:44,370 --> 00:05:48,390
+the same for data as for code,
+in order for it to be reusable,
+
+79
+00:05:48,420 --> 00:05:55,560
+you need a license. And for
+data, the most commonly used
+
+80
+00:05:55,560 --> 00:06:00,270
+licenses are the Creative
+Commons licenses. So we do use
+
+81
+00:06:00,270 --> 00:06:03,330
+different licenses than
+software. Because data and
+
+82
+00:06:03,330 --> 00:06:07,920
+software are different objects,
+it functions a little bit
+
+83
+00:06:07,920 --> 00:06:10,920
+different. So I would not
+recommend using the Creative
+
+84
+00:06:10,920 --> 00:06:14,910
+Commons license for software.
+But for data, this is standard
+
+85
+00:06:14,910 --> 00:06:20,010
+practice. And the licensed use
+of our software was already
+
+86
+00:06:20,010 --> 00:06:24,150
+linked before this, I'm actually
+linking to the same one, because
+
+87
+00:06:24,150 --> 00:06:28,830
+it's a very nice website. But
+for data, we now also have a
+
+88
+00:06:28,830 --> 00:06:33,900
+licensed user. So you can go to
+the link in the slides to check
+
+89
+00:06:33,900 --> 00:06:40,290
+that out. So just briefly, also
+introduced whether licenses is
+
+90
+00:06:40,290 --> 00:06:43,920
+basically a sort of standardized
+contracts, that tells anyone
+
+91
+00:06:44,430 --> 00:06:48,600
+what they can do with your data.
+So they don't have to ask you
+
+92
+00:06:48,720 --> 00:06:52,290
+what you allow them to do with
+it. And as actually why it's
+
+93
+00:06:52,290 --> 00:06:55,230
+very important to have this
+license out there in the open.
+
+94
+00:06:55,620 --> 00:06:58,860
+Because if your data or your
+software doesn't have a license,
+
+95
+00:06:59,160 --> 00:07:03,960
+it means no one can actually use
+it without asking you. So this
+
+96
+00:07:03,960 --> 00:07:10,740
+is why it's very important to
+have that license. I'm getting
+
+97
+00:07:10,740 --> 00:07:15,000
+distracted by I'm not looking at
+that right now. Sorry, we'll get
+
+98
+00:07:15,000 --> 00:07:21,720
+through it later, hopefully.
+Right, open data has cc zero or
+
+99
+00:07:21,720 --> 00:07:26,370
+CC by licenses. This means that
+there is no law of restrictions
+
+100
+00:07:26,970 --> 00:07:31,140
+for every user of your data. So
+for example, cc zero or the
+
+101
+00:07:31,140 --> 00:07:35,670
+public domain allows the user to
+do basically anything with your
+
+102
+00:07:35,670 --> 00:07:39,030
+data. And they don't even have
+to attribute you. So they don't
+
+103
+00:07:39,030 --> 00:07:42,660
+necessarily have to cite you.
+Does good practice, though. So I
+
+104
+00:07:42,660 --> 00:07:46,500
+would recommend the Cite your
+sources. But if you would like
+
+105
+00:07:46,500 --> 00:07:50,820
+to enforce that a bit more, you
+could use the CC by license. So
+
+106
+00:07:50,820 --> 00:07:54,390
+that allows the same things as
+you can see in the slides as the
+
+107
+00:07:54,390 --> 00:07:58,410
+public domain. But it also
+ensures that every year should,
+
+108
+00:07:58,440 --> 00:08:03,150
+should cite you or credit you.
+And then the further down you go
+
+109
+00:08:03,420 --> 00:08:06,510
+with these licenses, you see
+that they get a little bit more
+
+110
+00:08:06,540 --> 00:08:11,280
+restrictive. So for example, the
+CC by non commercial non
+
+111
+00:08:11,280 --> 00:08:16,560
+derivative, the one at the very
+bottom of this list, that one
+
+112
+00:08:16,560 --> 00:08:21,570
+does allows you to copy and
+publish the data, but it doesn't
+
+113
+00:08:21,600 --> 00:08:25,800
+allow for commercial use, and
+you can't actually modify and
+
+114
+00:08:25,800 --> 00:08:29,820
+adapt it. So this is not really
+open data in a sense, because
+
+115
+00:08:29,820 --> 00:08:34,410
+there's a lot of restrictions
+that are placed on the data. But
+
+116
+00:08:34,470 --> 00:08:37,260
+in any case, if you want to
+choose that licensed that is of
+
+117
+00:08:37,260 --> 00:08:41,310
+course, up to you. And also just
+a highlight here. If you're not
+
+118
+00:08:41,310 --> 00:08:44,310
+sure what license to choose for
+your project and you want to
+
+119
+00:08:44,310 --> 00:08:48,540
+share data, please also feel
+free to contact me if you just
+
+120
+00:08:48,540 --> 00:08:57,540
+want to ask or just have a chat
+about it. And then something
+
+121
+00:08:57,540 --> 00:09:01,080
+which I find very important is
+that it's not just about the
+
+122
+00:09:01,080 --> 00:09:04,140
+access to the data and
+redistributing the data.
+
+123
+00:09:05,400 --> 00:09:10,710
+So I pasted two of my favorite
+quotes regarding Open Science on
+
+124
+00:09:10,710 --> 00:09:15,060
+the slide, which is that there
+is no Open Science if science is
+
+125
+00:09:15,060 --> 00:09:20,640
+not open to all. And that's a
+quote from the blog post. Bro
+
+126
+00:09:20,640 --> 00:09:24,930
+open science is broken science
+and can recommend to read that
+
+127
+00:09:24,930 --> 00:09:29,760
+one. And also the quotes
+including more ways of knowing
+
+128
+00:09:30,090 --> 00:09:32,670
+and understanding our common
+World Within the great
+
+129
+00:09:32,670 --> 00:09:36,480
+scientific conversation would
+enrich and diversify its
+
+130
+00:09:36,480 --> 00:09:40,980
+collective ideas and creativity
+for the common good. And that
+
+131
+00:09:40,980 --> 00:09:45,090
+quote is from open science
+beyond open access, and that's a
+
+132
+00:09:45,390 --> 00:09:49,590
+report which I also highly
+recommend that you read. So it's
+
+133
+00:09:49,590 --> 00:09:53,160
+really not just about having
+access to things. I think open
+
+134
+00:09:53,160 --> 00:09:58,500
+data is really about anyone
+allowing to participate in the
+
+135
+00:09:58,500 --> 00:10:03,090
+creation and generation of the
+data as well, because otherwise,
+
+136
+00:10:03,450 --> 00:10:08,400
+I don't think it's truly open.
+And if you want to learn more
+
+137
+00:10:08,400 --> 00:10:13,080
+about that, there's the data
+equity framework by we'll count.
+
+138
+00:10:13,830 --> 00:10:18,810
+And there is a webinar on data
+justice talk story, which I
+
+139
+00:10:18,810 --> 00:10:24,480
+recommend and a book on data
+feminism by Catherine de Ignacio
+
+140
+00:10:24,510 --> 00:10:28,590
+and Lau and clay. So they go a
+little bit more into the topic
+
+141
+00:10:28,590 --> 00:10:34,500
+on why it's important that
+everyone can participate. And
+
+142
+00:10:34,500 --> 00:10:38,310
+then I also listed some
+additional resources. bola
+
+143
+00:10:38,310 --> 00:10:41,640
+Anthony Martinez gave a similar
+presentation to this one last
+
+144
+00:10:41,640 --> 00:10:45,510
+year for core two, and it's a
+really good presentation. So do
+
+145
+00:10:45,510 --> 00:10:51,300
+have a look. And if you want to
+really participate in open data,
+
+146
+00:10:51,810 --> 00:10:54,540
+and you want to get more
+involved, I can recommend
+
+147
+00:10:54,540 --> 00:10:57,660
+joining the research data
+Alliance, which is a global
+
+148
+00:10:57,660 --> 00:11:03,570
+research community that really
+wants to increase awareness and
+
+149
+00:11:03,570 --> 00:11:08,370
+facilitate sharing of data. So
+this is a great way to get in
+
+150
+00:11:08,370 --> 00:11:12,330
+touch with colleagues, and get
+involved to initiatives and
+
+151
+00:11:12,330 --> 00:11:15,840
+working groups and do some
+really practical stuff, as well
+
+152
+00:11:15,840 --> 00:11:20,460
+in terms of data sharing, of
+course, during way, already been
+
+153
+00:11:20,460 --> 00:11:23,880
+highlighted. But it has an open
+research or reproducible
+
+154
+00:11:23,880 --> 00:11:26,970
+research chapter. So you can
+also find more information
+
+155
+00:11:26,970 --> 00:11:31,560
+there. And the open data, open
+data Handbook, by the Open
+
+156
+00:11:31,560 --> 00:11:35,910
+Knowledge Foundation. And then
+if you you're running out of
+
+157
+00:11:35,910 --> 00:11:39,240
+time, and you don't want to read
+full data, books, and
+
+158
+00:11:39,240 --> 00:11:43,980
+presentations and all these
+things, I listed two blocks 10
+
+159
+00:11:43,980 --> 00:11:47,670
+arguments against open science
+that you can win by morphicon.
+
+160
+00:11:48,240 --> 00:11:52,410
+And I'm not necessarily saying
+that you need to be an open data
+
+161
+00:11:52,770 --> 00:11:55,440
+evangelist. But if you're
+hesitant about sharing your
+
+162
+00:11:55,440 --> 00:12:00,540
+data, this is also a good blog
+to read, and maybe reconsider
+
+163
+00:12:00,540 --> 00:12:04,530
+why you're hesitant about this.
+And I also wrote a short blog
+
+164
+00:12:04,530 --> 00:12:07,740
+about how can you make research
+data accessible so I'm
+
+165
+00:12:07,740 --> 00:12:11,130
+shamelessly plugging that. And
+this blog is a bit more
+
+166
+00:12:11,130 --> 00:12:14,340
+practical in terms of how you
+can actually make your data
+
+167
+00:12:14,340 --> 00:12:18,720
+open. So we can't really go into
+that right now because time
+
+168
+00:12:18,720 --> 00:12:19,560
+restrictions
+

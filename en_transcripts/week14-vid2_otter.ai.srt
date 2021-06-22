@@ -1,0 +1,1332 @@
+1
+00:00:00,480 --> 00:00:03,180
+Unknown: I'm an elephant
+involved. I'm a South African,
+
+2
+00:00:03,210 --> 00:00:08,370
+the living in South Africa all
+my life, many generations now, I
+
+3
+00:00:08,370 --> 00:00:11,580
+live in a small coastal village,
+there's a photo of what you can
+
+4
+00:00:11,580 --> 00:00:13,860
+see when you climb the hill just
+behind my house.
+
+5
+00:00:15,420 --> 00:00:20,910
+And I work with universities
+across South Africa, in Africa
+
+6
+00:00:20,910 --> 00:00:25,140
+and an outside of Africa, to
+help researchers adopt
+
+7
+00:00:25,170 --> 00:00:31,950
+technology in their research.
+What I'm going to talk to you
+
+8
+00:00:31,950 --> 00:00:36,240
+about today, as we said, was
+personas and pathways, which are
+
+9
+00:00:36,240 --> 00:00:40,440
+two design elements that have
+different benefits in your
+
+10
+00:00:40,440 --> 00:00:44,700
+project. It doesn't only help
+you to think about designing the
+
+11
+00:00:44,700 --> 00:00:48,300
+right project, but it also helps
+you to communicate within the
+
+12
+00:00:48,300 --> 00:00:51,900
+project and to your stakeholders
+about design decisions that
+
+13
+00:00:51,900 --> 00:00:56,070
+you've made. And of course, it
+helps you to attract the right
+
+14
+00:00:56,070 --> 00:01:03,330
+users, and contributors and help
+them to stay in your project. So
+
+15
+00:01:03,390 --> 00:01:07,140
+for many of you are doing very
+different projects, before this
+
+16
+00:01:07,140 --> 00:01:09,960
+talk, I was accurately looked at
+the list of projects. Again,
+
+17
+00:01:09,960 --> 00:01:13,260
+it's so diverse. And some of you
+might be thinking, well,
+
+18
+00:01:13,290 --> 00:01:16,350
+personas and polyphase aren't
+really relevant to my project.
+
+19
+00:01:16,350 --> 00:01:20,220
+But regardless of what kind of
+project you're doing in open
+
+20
+00:01:20,220 --> 00:01:25,110
+science, personas and pathways
+can really help you a lot. So I
+
+21
+00:01:25,110 --> 00:01:28,470
+hope by the end of this project,
+you'll see at the end of this
+
+22
+00:01:28,470 --> 00:01:33,510
+talk, you'll see a few ways in
+which you can use it. So you
+
+23
+00:01:33,510 --> 00:01:38,700
+will need personas and pathways
+if you want users and all
+
+24
+00:01:38,700 --> 00:01:42,450
+contributors. And for all the
+projects that is in the URL
+
+25
+00:01:42,450 --> 00:01:47,880
+ESCO. Definitely, this is what
+we want, right. Just very
+
+26
+00:01:47,880 --> 00:01:52,890
+quickly, what are personas. And
+very recently, I was going
+
+27
+00:01:52,890 --> 00:01:57,060
+through the process of creating
+personas for a project. And I
+
+28
+00:01:57,060 --> 00:02:02,880
+was looking at various personas
+online various resources. And I
+
+29
+00:02:02,880 --> 00:02:08,100
+was stunned to see how many
+personas seem to be created to
+
+30
+00:02:08,100 --> 00:02:16,650
+tick boxes to, to really, really
+just not necessarily speaking to
+
+31
+00:02:16,650 --> 00:02:20,610
+the people that might be coming
+to their projects. According to
+
+32
+00:02:20,610 --> 00:02:23,760
+Mozilla beside as an imaginary
+user based on real world
+
+33
+00:02:23,760 --> 00:02:27,870
+observations and understandings
+of actual potential current
+
+34
+00:02:27,870 --> 00:02:32,580
+users, and in our case, also
+contributors. But what's really
+
+35
+00:02:32,580 --> 00:02:36,000
+important is that you have to
+know your audience, you have to
+
+36
+00:02:36,000 --> 00:02:39,900
+know the people that you're
+working with, to be able to
+
+37
+00:02:39,900 --> 00:02:43,770
+create an accurate persona. And
+that's where the data comes in.
+
+38
+00:02:43,770 --> 00:02:48,060
+I think most of us in the school
+definitely in the life projects
+
+39
+00:02:48,090 --> 00:02:54,540
+are aware of the importance of
+data to inform decisions. And so
+
+40
+00:02:54,540 --> 00:02:58,500
+maybe at the beginning of your
+project, you may not really know
+
+41
+00:02:58,530 --> 00:03:02,820
+your users or your contributors.
+And we'll, we'll speak a little
+
+42
+00:03:02,820 --> 00:03:05,850
+bit more about that later. So
+your your personas might not be
+
+43
+00:03:05,850 --> 00:03:11,340
+that accurate. But as you go
+along, you can improve those
+
+44
+00:03:11,340 --> 00:03:14,250
+personas as you get to know your
+users better. And as your
+
+45
+00:03:14,910 --> 00:03:21,090
+project grows in terms of
+diversity and voices. pathways
+
+46
+00:03:21,150 --> 00:03:30,240
+are ways for people to stay
+involved in your project. So you
+
+47
+00:03:30,240 --> 00:03:36,630
+may you may have people coming
+in as developers, you may have
+
+48
+00:03:36,630 --> 00:03:42,090
+people coming in as users, and
+what are the what are the things
+
+49
+00:03:42,090 --> 00:03:45,180
+that will make them come into
+your project and stay involved.
+
+50
+00:03:45,930 --> 00:03:49,710
+So not every project that can
+lead not every person that comes
+
+51
+00:03:49,710 --> 00:03:52,770
+into your project will
+necessarily take on a leadership
+
+52
+00:03:52,770 --> 00:03:57,750
+role in the future? But how can
+you help people to see how they
+
+53
+00:03:57,750 --> 00:04:00,900
+can be involved regardless of
+what they what they resource or
+
+54
+00:04:00,900 --> 00:04:04,440
+skill level, or motivations are.
+And we'll talk a little bit more
+
+55
+00:04:04,440 --> 00:04:08,430
+about that later on. For me, a
+pathway is less about the
+
+56
+00:04:08,430 --> 00:04:11,310
+picture on the left, where there
+is this golden highway that
+
+57
+00:04:11,310 --> 00:04:15,690
+takes you to where the sun
+shines behind the mountain. And
+
+58
+00:04:15,690 --> 00:04:20,910
+it's more about something like a
+treasure map where someone might
+
+59
+00:04:20,910 --> 00:04:24,600
+look at the map and say, Oh, I
+want to go you know, have a look
+
+60
+00:04:24,600 --> 00:04:27,960
+at the river. And then someone
+else might say I'm really fond
+
+61
+00:04:27,960 --> 00:04:30,960
+of forests. And someone else
+might say well, I'm going to
+
+62
+00:04:30,960 --> 00:04:34,380
+take the little boat that's out
+there and go across the ocean to
+
+63
+00:04:34,380 --> 00:04:38,280
+the other side of the peninsula.
+So there are many different ways
+
+64
+00:04:38,280 --> 00:04:43,890
+that people can can be involved
+and there's no expectation of a
+
+65
+00:04:43,890 --> 00:04:49,050
+leadership progression. Why are
+scientists and pathways
+
+66
+00:04:49,050 --> 00:04:53,040
+important and the way that I see
+it is personas will bring the
+
+67
+00:04:53,040 --> 00:04:57,000
+right people to your project and
+pathways will help them to stay
+
+68
+00:04:57,000 --> 00:05:03,720
+there. Just getting back to when
+he developed them, it's optimal
+
+69
+00:05:03,720 --> 00:05:06,480
+to develop them at the beginning
+of your project, it might save
+
+70
+00:05:06,480 --> 00:05:09,810
+you a lot of time if you are
+
+71
+00:05:10,020 --> 00:05:13,290
+thinking about who you are
+developing this project for from
+
+72
+00:05:13,290 --> 00:05:18,450
+the beginning, and also what you
+want them to do there. And
+
+73
+00:05:18,480 --> 00:05:23,310
+thinking about your project in
+terms of how it will grow, you
+
+74
+00:05:23,310 --> 00:05:27,390
+will need as the project go
+grow, and what you can offer
+
+75
+00:05:27,390 --> 00:05:31,620
+your users and your
+contributors. So typically, you
+
+76
+00:05:31,620 --> 00:05:34,950
+can develop personas and
+pathways beginning. And then of
+
+77
+00:05:34,950 --> 00:05:38,460
+course, as I mentioned before,
+use the data that you gather as
+
+78
+00:05:38,460 --> 00:05:42,420
+the project grows, as new voices
+join your project to improve
+
+79
+00:05:42,420 --> 00:05:49,410
+those. The next slide is just an
+image of the design thinking
+
+80
+00:05:49,410 --> 00:05:52,770
+process. And I really like this
+one, I think there's a lot of
+
+81
+00:05:52,770 --> 00:05:55,380
+questions here that might be
+useful to your projects beyond
+
+82
+00:05:55,380 --> 00:06:00,150
+just thinking about pathways and
+personas. And and what I want to
+
+83
+00:06:00,150 --> 00:06:05,340
+show you is that projects, I
+sometimes get the feeling that
+
+84
+00:06:05,370 --> 00:06:10,260
+in open science, every project
+will just work like it has to
+
+85
+00:06:10,260 --> 00:06:14,250
+work, right because we invest so
+much time and effort and emotion
+
+86
+00:06:14,250 --> 00:06:19,830
+into it. But the realities, and
+sometimes projects, when you
+
+87
+00:06:19,830 --> 00:06:23,790
+can't get past the prototype
+stage, you have to sit back and
+
+88
+00:06:23,790 --> 00:06:27,150
+really think about whether this
+is the thing that was going to
+
+89
+00:06:27,150 --> 00:06:30,000
+be you know, do solve the
+problem that you set out to
+
+90
+00:06:30,000 --> 00:06:33,180
+solve. And just going back to
+the drawing board and looking
+
+91
+00:06:33,180 --> 00:06:36,180
+again, at your users looking
+again, at your, at your
+
+92
+00:06:36,180 --> 00:06:39,210
+contributors, who did you think
+you were going to attract? Who
+
+93
+00:06:39,240 --> 00:06:42,690
+are you really attracting, and
+how you can edit that? I really,
+
+94
+00:06:43,380 --> 00:06:46,530
+I really like this one, I think
+I'm going to be using this just
+
+95
+00:06:46,530 --> 00:06:49,800
+in thinking about our own
+projects as well. The personas
+
+96
+00:06:50,040 --> 00:06:53,520
+typically fit into After
+gathering the data through your
+
+97
+00:06:53,520 --> 00:06:58,830
+exploration and emphasizing in
+the stage where you are defining
+
+98
+00:06:59,220 --> 00:07:02,880
+what specific needs are that a
+person has that is coming to
+
+99
+00:07:02,880 --> 00:07:07,920
+your project. One of the things
+that we've used in one of our
+
+100
+00:07:07,920 --> 00:07:12,510
+projects that every map or
+project to think about who our
+
+101
+00:07:12,540 --> 00:07:19,230
+users and contributors could be
+our mind map showing all the
+
+102
+00:07:19,230 --> 00:07:24,720
+roles that they are in a
+project. And the reason why I'm
+
+103
+00:07:24,780 --> 00:07:29,340
+showing you this mind map is
+because as you Google for
+
+104
+00:07:29,340 --> 00:07:32,460
+information about developing
+personas, you might come across
+
+105
+00:07:32,490 --> 00:07:38,160
+a lot of references, that speaks
+about developing personas, from
+
+106
+00:07:38,160 --> 00:07:42,690
+a company's point of point of
+view, to attract users and to
+
+107
+00:07:42,690 --> 00:07:50,970
+get the rights, the rights
+elements into a platform or a
+
+108
+00:07:50,970 --> 00:07:55,770
+software or a project for the
+users. So really mostly about
+
+109
+00:07:55,770 --> 00:08:00,270
+users. But in open science
+projects, and very specifically
+
+110
+00:08:00,270 --> 00:08:04,500
+in open community communities
+and software development, we
+
+111
+00:08:04,500 --> 00:08:07,800
+have not only have to think
+about our customer, the person
+
+112
+00:08:07,800 --> 00:08:11,310
+that will be using our tool or
+our platform, or will be joining
+
+113
+00:08:11,310 --> 00:08:14,130
+the community as a community
+member. But we also have to
+
+114
+00:08:14,130 --> 00:08:17,670
+think about personas and
+pathways for people who are
+
+115
+00:08:17,670 --> 00:08:20,520
+developing, I apologize for my
+dog barking in the background.
+
+116
+00:08:21,780 --> 00:08:26,700
+We have to think about our
+contributors, our community
+
+117
+00:08:26,730 --> 00:08:37,530
+developers and other roles, not
+only the users. So this kind of
+
+118
+00:08:37,560 --> 00:08:43,470
+mind map has helped me a lot to
+think about personas from a user
+
+119
+00:08:43,470 --> 00:08:48,600
+point of view, from the learners
+point of view. And then also how
+
+120
+00:08:48,600 --> 00:08:52,380
+can we attract developers and
+what what are we giving to them?
+
+121
+00:08:52,410 --> 00:08:57,510
+How are we motivating them to
+join the project and what what
+
+122
+00:08:57,510 --> 00:08:57,840
+we vote
+
+123
+00:08:57,840 --> 00:09:01,680
+on are getting here and how they
+are they can use being involved
+
+124
+00:09:01,680 --> 00:09:05,040
+in our project to grow their own
+skills and equities as well.
+
+125
+00:09:08,490 --> 00:09:11,820
+Another tool that I've used in a
+different project is the
+
+126
+00:09:11,820 --> 00:09:13,020
+escalator project.
+
+127
+00:09:14,580 --> 00:09:20,340
+Here we used existing monitoring
+and evaluation evaluation tools
+
+128
+00:09:20,730 --> 00:09:24,750
+to figure out who our target
+target audience may be, who are
+
+129
+00:09:24,750 --> 00:09:27,630
+we developing this project for?
+I'm going to talk about the
+
+130
+00:09:27,630 --> 00:09:30,990
+project a little bit later on
+just in the next slide. But
+
+131
+00:09:31,290 --> 00:09:38,070
+first we started with using a
+fishbone diagram to define our
+
+132
+00:09:38,070 --> 00:09:42,540
+problem very carefully. So
+asking a lot of why's Why do we
+
+133
+00:09:42,540 --> 00:09:45,690
+see this problem and the problem
+that we were seeing when I was
+
+134
+00:09:45,720 --> 00:09:51,510
+in South Africa, we have said
+several groups that are working
+
+135
+00:09:51,510 --> 00:09:54,720
+in digital humanities and
+computational social sciences
+
+136
+00:09:54,720 --> 00:09:57,060
+but we don't have a community of
+practice. We don't have a
+
+137
+00:09:57,060 --> 00:10:01,950
+community that takes give a
+speech stage I will lecture his
+
+138
+00:10:01,950 --> 00:10:05,610
+knowledge in South Africa in
+digital humanities,
+
+139
+00:10:05,610 --> 00:10:10,020
+computational social sciences.
+So that was our problem. And
+
+140
+00:10:10,020 --> 00:10:12,930
+then we were saying, so what why
+do we have like, what do we
+
+141
+00:10:12,930 --> 00:10:15,450
+keep? If we have a community or
+not a community? What are the
+
+142
+00:10:15,450 --> 00:10:19,350
+benefits of having a community
+of practice? And needless to
+
+143
+00:10:19,350 --> 00:10:22,950
+say, there are so many, many
+benefits of having that
+
+144
+00:10:22,950 --> 00:10:25,710
+community of practice. So it
+wasn't hard to decide whether we
+
+145
+00:10:25,710 --> 00:10:29,430
+should take this project. But
+then thinking about using the
+
+146
+00:10:29,430 --> 00:10:32,910
+fishbone diagram, which I don't
+have an image here, but you can
+
+147
+00:10:32,910 --> 00:10:37,530
+Google for that. And just to
+think about, why are we seeing
+
+148
+00:10:37,530 --> 00:10:43,200
+this problem, and that really
+helped us to identify groups of
+
+149
+00:10:43,200 --> 00:10:48,300
+people who could benefit from
+from this project. And then
+
+150
+00:10:48,330 --> 00:10:51,570
+after developing the the
+fishbone diagram, we use the
+
+151
+00:10:51,570 --> 00:10:54,450
+theory of change, which is also
+a really, really good tool,
+
+152
+00:10:54,450 --> 00:10:59,220
+especially for people who are
+developing community projects
+
+153
+00:10:59,220 --> 00:11:04,500
+where they where you want to see
+a change in communities. It's a
+
+154
+00:11:04,500 --> 00:11:07,650
+really lovely tool to to
+consider using in your project.
+
+155
+00:11:08,340 --> 00:11:12,990
+Because as you are going through
+asking these questions, you
+
+156
+00:11:12,990 --> 00:11:17,730
+really also start to identify
+groups of people, which can
+
+157
+00:11:17,730 --> 00:11:20,640
+inform your personas, because
+you're asking questions in a
+
+158
+00:11:20,640 --> 00:11:24,300
+different way. So just quickly a
+theory of change, you take your
+
+159
+00:11:24,300 --> 00:11:28,350
+project your problem, and figure
+out what is the impact that you
+
+160
+00:11:28,350 --> 00:11:31,830
+would like to see which will
+address that problem? And then
+
+161
+00:11:31,830 --> 00:11:35,730
+you work backwards towards what
+are the long term outcomes that
+
+162
+00:11:35,730 --> 00:11:39,240
+will lead to this impact? to
+have those long term outcomes?
+
+163
+00:11:39,390 --> 00:11:42,990
+What are the short term outcomes
+that you should see? And then
+
+164
+00:11:43,050 --> 00:11:46,320
+what are the outputs that you
+will need to see the short term
+
+165
+00:11:46,320 --> 00:11:49,860
+outcomes? And then what are the
+activities that you have to do
+
+166
+00:11:49,860 --> 00:11:52,050
+to create the outputs that
+relate to the short term
+
+167
+00:11:52,290 --> 00:11:56,010
+outcomes and so forth? And then
+really, what do you need as
+
+168
+00:11:56,040 --> 00:11:59,580
+inputs to be able to do the
+activities that will lead to
+
+169
+00:11:59,580 --> 00:12:03,540
+that efforts were backwards from
+the big problem, and the impact
+
+170
+00:12:03,540 --> 00:12:08,160
+that you want to want to see.
+And by doing that, it has helped
+
+171
+00:12:08,190 --> 00:12:16,080
+us a lot to define groups of
+people. And very specific, I can
+
+172
+00:12:16,080 --> 00:12:21,540
+see the personas now, who we are
+going to attract in this
+
+173
+00:12:21,540 --> 00:12:25,410
+project, and supporting this
+project, and also who can help
+
+174
+00:12:25,410 --> 00:12:30,300
+us help us help contribute and
+provide leadership in this
+
+175
+00:12:30,300 --> 00:12:34,350
+project. Another thing that I
+want to point to you, for those
+
+176
+00:12:34,350 --> 00:12:38,910
+of you who are involved in
+change projects in community
+
+177
+00:12:38,910 --> 00:12:42,150
+change projects is just at the
+bottom of the slide, the time
+
+178
+00:12:42,150 --> 00:12:46,020
+that it takes to see certain
+changes, just for us to be
+
+179
+00:12:46,020 --> 00:12:49,230
+realistic. I mean, the analytics
+projects are only three months.
+
+180
+00:12:49,500 --> 00:12:53,610
+And some of some of us expect to
+see changes that that really in
+
+181
+00:12:53,610 --> 00:12:58,650
+communities takes many years to
+take place. So just to be
+
+182
+00:12:58,740 --> 00:13:06,000
+realistic, and a bit more softer
+on on yourself when you are not
+
+183
+00:13:06,000 --> 00:13:13,860
+seeing the change that you would
+like to see the theory for the
+
+184
+00:13:13,860 --> 00:13:17,910
+project called escalator and
+it's and one of the one of the
+
+185
+00:13:17,940 --> 00:13:21,390
+flagstone activities of this
+project is to develop a digital
+
+186
+00:13:21,390 --> 00:13:25,080
+champions initiative. And what
+we realized, initially, we
+
+187
+00:13:25,080 --> 00:13:27,630
+thought we'll just run one
+mentorship program very much
+
+188
+00:13:27,630 --> 00:13:30,450
+like oh, is they'll be or they
+will be a mentorship program.
+
+189
+00:13:30,450 --> 00:13:34,200
+And we're going to open it up to
+people doing research in digital
+
+190
+00:13:34,200 --> 00:13:36,810
+humanities in computational
+sciences. And we're going to
+
+191
+00:13:36,810 --> 00:13:39,930
+teach them digital and
+computational skills to do to
+
+192
+00:13:39,930 --> 00:13:43,620
+use in the research. But as we
+work through the theory of
+
+193
+00:13:43,620 --> 00:13:47,490
+change, and through the through
+the fishbone diagram, we
+
+194
+00:13:47,490 --> 00:13:52,770
+realized, but there are people
+who who are not very comfortable
+
+195
+00:13:52,770 --> 00:13:57,570
+using technology, even in day to
+day management of their their
+
+196
+00:13:57,570 --> 00:14:02,430
+work. expecting someone to learn
+to code in Python when they
+
+197
+00:14:02,460 --> 00:14:08,310
+haven't really used something
+like Google Docs or some of the
+
+198
+00:14:08,310 --> 00:14:12,750
+other tools like that your
+resume or other tools. Which
+
+199
+00:14:12,750 --> 00:14:15,120
+means online learning is
+probably
+
+200
+00:14:15,810 --> 00:14:19,530
+a challenge and working alone,
+probably not part of many
+
+201
+00:14:19,530 --> 00:14:25,140
+communities. So we developed a
+different type of mentorship
+
+202
+00:14:25,140 --> 00:14:30,180
+program. And it's also not
+necessarily mentorship in the
+
+203
+00:14:30,180 --> 00:14:34,800
+way that you see here in LA is
+to address very specific needs.
+
+204
+00:14:34,800 --> 00:14:38,940
+And in this slide, you can see
+that we now have six tracks. And
+
+205
+00:14:38,940 --> 00:14:42,600
+we begin developing content for
+those tracks and also partnering
+
+206
+00:14:42,600 --> 00:14:45,630
+with existing mentorship
+programs, to see how we can
+
+207
+00:14:45,630 --> 00:14:51,930
+build on work that exists. And
+here's just another speaking
+
+208
+00:14:51,930 --> 00:14:56,460
+about pathways again, and I'm
+almost finished. And I found
+
+209
+00:14:56,460 --> 00:14:59,580
+this when I was thinking about
+pathways and this whole idea of
+
+210
+00:14:59,760 --> 00:15:05,400
+them All pathways in not all
+participants in our open project
+
+211
+00:15:06,000 --> 00:15:11,490
+goes to leadership. And I found
+this this lovely app by
+
+212
+00:15:11,490 --> 00:15:15,690
+alltrails, which shows all kinds
+of different hiking routes in
+
+213
+00:15:15,690 --> 00:15:18,480
+your area, and then how
+difficult it is how long it is,
+
+214
+00:15:19,320 --> 00:15:23,730
+how much innovation the time it
+will take to finish it. and
+
+215
+00:15:23,730 --> 00:15:27,000
+various other folders, I really
+liked it, I thought it was quite
+
+216
+00:15:27,660 --> 00:15:34,560
+a good example of what I mean.
+Just to give you some numbers in
+
+217
+00:15:34,560 --> 00:15:39,900
+a recent study, on open database
+service in GitHub, they found
+
+218
+00:15:39,900 --> 00:15:43,620
+that for the major open source
+database projects, more than
+
+219
+00:15:43,620 --> 00:15:46,920
+19,000 people had contributed to
+the project's main repository at
+
+220
+00:15:46,920 --> 00:15:50,730
+least once, which means like,
+once in the entire life of the
+
+221
+00:15:50,730 --> 00:15:56,430
+project, only about 30% of them
+have 30% people had contributed
+
+222
+00:15:56,460 --> 00:16:01,770
+in the last year, which are
+called active contributors. And
+
+223
+00:16:01,770 --> 00:16:04,650
+only about 20% have contributed
+more than three commits to a
+
+224
+00:16:04,650 --> 00:16:08,820
+repo. And you can imagine for
+for all of you working on your
+
+225
+00:16:08,820 --> 00:16:11,280
+projects, how many commits Have
+you made your repo and how many
+
+226
+00:16:11,370 --> 00:16:15,390
+other people have committed, and
+just realizing that when people
+
+227
+00:16:15,390 --> 00:16:22,890
+are coming to your project, they
+may only do one, one change. And
+
+228
+00:16:23,370 --> 00:16:26,760
+that will be used, that will be
+useful to your project. And you
+
+229
+00:16:26,760 --> 00:16:31,560
+should, you know, value them and
+make everyone feel that their
+
+230
+00:16:31,560 --> 00:16:34,950
+contribution is valuable. And
+even if they don't go on to
+
+231
+00:16:34,950 --> 00:16:42,810
+become very, I just want to show
+you this image without which I
+
+232
+00:16:42,810 --> 00:16:48,060
+found from in the Microsoft,
+what is called the Microsoft
+
+233
+00:16:48,150 --> 00:16:50,790
+inclusive design manual, which I
+thought was really, really
+
+234
+00:16:50,790 --> 00:16:55,860
+lovely. And I do share a link
+there on the slide. If you
+
+235
+00:16:55,860 --> 00:17:00,900
+designed for people who have the
+biggest challenges to contribute
+
+236
+00:17:00,900 --> 00:17:04,680
+or to be part of your project,
+you are just reaching so many
+
+237
+00:17:04,680 --> 00:17:08,910
+more people who, as you can see,
+for example, if you design for
+
+238
+00:17:08,910 --> 00:17:14,970
+someone who, who is blind, and
+you, you can all also support
+
+239
+00:17:14,970 --> 00:17:21,060
+people who may have a temporary
+problem like a cataract, and
+
+240
+00:17:21,060 --> 00:17:23,880
+also someone who have a
+situational problem like a
+
+241
+00:17:23,880 --> 00:17:27,600
+distracted driver. So it's
+really, really, really
+
+242
+00:17:27,600 --> 00:17:31,320
+beneficial to your projects to
+think about the most difficult
+
+243
+00:17:31,320 --> 00:17:36,000
+way, the biggest difficulty that
+someone will have to contribute.
+
+244
+00:17:36,240 --> 00:17:40,290
+And if you follow that, you
+really make it easy easier, even
+
+245
+00:17:40,290 --> 00:17:47,430
+for your most qualified
+contributors or participants. So
+
+246
+00:17:47,460 --> 00:17:51,690
+in summary, as you'll see
+online, there are many ways to
+
+247
+00:17:51,690 --> 00:17:54,480
+develop the centers and
+pathways. And I do give a link
+
+248
+00:17:54,480 --> 00:17:57,660
+just in the next slide to
+resources that's provided by URL
+
+249
+00:17:57,660 --> 00:18:01,350
+is as well that can make you
+think about your personas and
+
+250
+00:18:01,350 --> 00:18:05,010
+pathways. There's a lot of
+information that you can put in
+
+251
+00:18:05,010 --> 00:18:07,410
+there. And there's a lot of
+personas that you can develop
+
+252
+00:18:07,410 --> 00:18:12,330
+for Be realistic. Remember that
+open, open projects often have
+
+253
+00:18:12,330 --> 00:18:19,740
+limited resources, as long as I
+bring for the moment, and that
+
+254
+00:18:19,740 --> 00:18:23,340
+you would like to be to do more
+as the project grows, that
+
+255
+00:18:23,370 --> 00:18:28,830
+should be okay. And of course,
+your inclusivity will grow as
+
+256
+00:18:28,830 --> 00:18:33,450
+your project diversity cries.
+And those just the last quote
+
+257
+00:18:33,480 --> 00:18:37,200
+was basically one value if we
+were all forced to pick one,
+
+258
+00:18:38,760 --> 00:18:42,030
+that designers should have
+respect to users time, dignity,
+
+259
+00:18:42,030 --> 00:18:46,410
+ability and means. And this was
+by a Facebook developer
+
+260
+00:18:46,410 --> 00:18:52,530
+frederico Franchione. So now,
+what Malbec and them have asked
+
+261
+00:18:52,560 --> 00:18:58,410
+is that you think about how your
+favorite open source projects
+
+262
+00:18:58,410 --> 00:19:02,040
+have probably use personas and
+pathways to attract and retain
+
+263
+00:19:02,040 --> 00:19:05,310
+you in the project. And then
+there's also
+
+264
+00:19:06,480 --> 00:19:08,970
+for this week, you'll have to
+develop your personas and
+
+265
+00:19:08,970 --> 00:19:12,030
+pathways for your project. And
+there's a link there and the
+
+266
+00:19:12,030 --> 00:19:18,390
+links are also in the document
+and it does not slide over time.
+
+267
+00:19:18,390 --> 00:19:22,110
+Sorry. Yes, thank you for your
+time.
+

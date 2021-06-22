@@ -1,0 +1,846 @@
+1
+00:00:00,000 --> 00:00:02,220
+Unknown: My name is new to Hong,
+I'm director of something called
+
+2
+00:00:02,220 --> 00:00:04,680
+the software Sustainability
+Institute. And I'm based at
+
+3
+00:00:04,680 --> 00:00:10,050
+University of Edinburgh. And I'm
+also involved in a group, which
+
+4
+00:00:10,050 --> 00:00:14,940
+is developing fair principles
+for software. So this is part of
+
+5
+00:00:14,940 --> 00:00:17,820
+the research software Alliance,
+the research data Alliance and
+
+6
+00:00:17,850 --> 00:00:21,480
+the force 11 groups, they're
+going to be talking a little bit
+
+7
+00:00:21,540 --> 00:00:26,640
+about what fair means in the
+context of software, and then
+
+8
+00:00:26,640 --> 00:00:30,480
+giving you some possible advice
+to follow on how you can make
+
+9
+00:00:30,480 --> 00:00:35,700
+your software fair. One of the
+things we've noticed in this
+
+10
+00:00:35,700 --> 00:00:42,330
+last year is that lack of access
+to different things to data to
+
+11
+00:00:42,330 --> 00:00:46,260
+people to resources makes
+research more difficult. But
+
+12
+00:00:46,260 --> 00:00:48,870
+this is something that's been
+going on for a long time, I
+
+13
+00:00:48,870 --> 00:00:53,250
+often use this quote from the
+creator of a piece of software
+
+14
+00:00:53,250 --> 00:00:58,860
+called pi mole, because it's way
+back in the early 2000s. He was
+
+15
+00:00:58,890 --> 00:01:03,570
+talking about the challenges to
+effective research because of
+
+16
+00:01:03,570 --> 00:01:07,350
+the lack of access to software.
+And he was one of the pioneers
+
+17
+00:01:07,350 --> 00:01:12,900
+of, of research software being
+open, and transparent, and
+
+18
+00:01:12,900 --> 00:01:17,040
+reusable are all of the things
+which are the principles of
+
+19
+00:01:17,040 --> 00:01:22,110
+fair. One thing is that
+increasingly, the research
+
+20
+00:01:22,110 --> 00:01:25,560
+community relies on software. So
+we did some work at the software
+
+21
+00:01:25,560 --> 00:01:29,430
+Sustainability Institute now,
+seven years ago, it's it's crazy
+
+22
+00:01:29,430 --> 00:01:31,830
+to think it's seven years ago
+now, where we were polling
+
+23
+00:01:31,830 --> 00:01:35,970
+people to find out how much
+software effective their work.
+
+24
+00:01:36,240 --> 00:01:40,950
+And I think the key thing that
+came up for us is that even back
+
+25
+00:01:40,950 --> 00:01:46,110
+then, there was about 70%, of
+researchers who said it wouldn't
+
+26
+00:01:46,110 --> 00:01:50,340
+be practical to conduct their
+work without using software. So
+
+27
+00:01:50,340 --> 00:01:54,360
+software is everywhere. It's
+everywhere in each part of the
+
+28
+00:01:54,360 --> 00:01:58,170
+research lifecycle, from the
+software you use to start
+
+29
+00:01:58,170 --> 00:02:01,710
+planning your experiments or
+your research or to generate
+
+30
+00:02:01,710 --> 00:02:04,500
+ideas for research, collecting
+and capturing different
+
+31
+00:02:04,500 --> 00:02:08,400
+information from data from
+experiments, but also things
+
+32
+00:02:08,400 --> 00:02:12,210
+like references and other
+reading material, organizing and
+
+33
+00:02:12,210 --> 00:02:15,990
+storing it, backing it up,
+interpreting and analyzing it,
+
+34
+00:02:16,650 --> 00:02:21,420
+publishing it, and making sure
+that it is available for others
+
+35
+00:02:21,420 --> 00:02:25,890
+to discover and reuse. So
+software is everywhere. But it's
+
+36
+00:02:25,890 --> 00:02:29,910
+often not treated in the same
+way as other types of research
+
+37
+00:02:29,940 --> 00:02:33,930
+output. And that's, that's
+interesting, because the fair
+
+38
+00:02:33,930 --> 00:02:36,840
+principles are not just for data
+in the original fair guiding
+
+39
+00:02:36,840 --> 00:02:40,680
+principles paper. There's this
+line that says all scholarly
+
+40
+00:02:40,680 --> 00:02:45,900
+Digital Research objects from
+data and analytic pipelines, to
+
+41
+00:02:45,900 --> 00:02:49,950
+benefit from the application of
+the fair principles. So what
+
+42
+00:02:49,950 --> 00:02:55,620
+they're saying is that fair is
+is important because you need to
+
+43
+00:02:55,620 --> 00:02:58,770
+be able to have trust in the
+research process, you need to be
+
+44
+00:02:58,770 --> 00:03:02,370
+able to ensure that there's
+transparency, reproducibility,
+
+45
+00:03:02,400 --> 00:03:08,550
+and reusability. So how does
+software fit into this? The
+
+46
+00:03:08,550 --> 00:03:13,560
+challenges that software is not
+just data. So if you look at it,
+
+47
+00:03:13,560 --> 00:03:18,210
+from a purely theoretic point of
+view, software is just a special
+
+48
+00:03:18,210 --> 00:03:23,730
+subset of data. But in practice,
+the way that it's used means it
+
+49
+00:03:23,730 --> 00:03:27,300
+needs to be treated differently
+from data. And the third
+
+50
+00:03:27,300 --> 00:03:31,560
+principles applied in a slightly
+different way. So there's some
+
+51
+00:03:31,560 --> 00:03:34,710
+things that are similar. Both
+data and software are not
+
+52
+00:03:34,710 --> 00:03:39,330
+commonly cited. You can assign
+identifiers like DUIs to both of
+
+53
+00:03:39,330 --> 00:03:43,140
+them, you often have multiple
+versions that exist, that might
+
+54
+00:03:43,140 --> 00:03:46,140
+be incrementally changing, or
+they might be very different.
+
+55
+00:03:46,590 --> 00:03:49,650
+And the reuse of both software
+and data is typically controlled
+
+56
+00:03:49,650 --> 00:03:55,710
+for licenses. There are some
+things which are at one level
+
+57
+00:03:55,710 --> 00:03:58,740
+quite similar. But when you look
+at the details are a bit
+
+58
+00:03:58,740 --> 00:04:02,820
+different. So the way that you
+build on software and data and
+
+59
+00:04:02,820 --> 00:04:07,110
+link them together. Obviously,
+we do that with both software
+
+60
+00:04:07,110 --> 00:04:13,350
+and data. But quite often, it's
+different. So software tends to
+
+61
+00:04:13,350 --> 00:04:17,490
+be in the middle of the of the
+sort of tree of a research
+
+62
+00:04:17,580 --> 00:04:22,680
+workflow, whereas data tends to
+be at the edges of it. In both
+
+63
+00:04:22,680 --> 00:04:27,570
+cases, it may depend on hardware
+and, and software. So the data
+
+64
+00:04:27,570 --> 00:04:30,750
+that's generated might be
+dependent on the sensors, for
+
+65
+00:04:30,750 --> 00:04:34,830
+instance, or the experimental
+machinery. And likewise, the
+
+66
+00:04:34,830 --> 00:04:37,710
+software may depend on the
+machines that you're working on.
+
+67
+00:04:39,240 --> 00:04:43,230
+And in many cases, it's replaced
+by newer alternatives. So the
+
+68
+00:04:43,260 --> 00:04:46,920
+evolution of both software and
+data means that except in
+
+69
+00:04:46,920 --> 00:04:51,240
+particular fields, you'll always
+have new things coming along
+
+70
+00:04:51,270 --> 00:04:54,150
+with similar or better
+functionality that can be
+
+71
+00:04:54,150 --> 00:04:56,460
+swapped into the work they do.
+
+72
+00:04:57,750 --> 00:05:00,810
+But there are also a number of
+differences. They are important
+
+73
+00:05:00,810 --> 00:05:05,160
+when we consider fair for
+software. And the key ones are
+
+74
+00:05:05,280 --> 00:05:09,090
+that software typically has a
+larger number and more complex
+
+75
+00:05:09,090 --> 00:05:15,930
+set of dependencies. So the way
+that it changes over time is
+
+76
+00:05:15,960 --> 00:05:22,260
+more dramatic, you'll find that
+software is isn't reusable, much
+
+77
+00:05:22,260 --> 00:05:26,610
+faster, and also that the reuse
+might come in a lot of different
+
+78
+00:05:26,610 --> 00:05:30,930
+flavors. So when we think of
+reuse of data, we're typically
+
+79
+00:05:30,930 --> 00:05:35,670
+thinking of the same way that
+another person would have used
+
+80
+00:05:35,670 --> 00:05:39,480
+the data in the past. The only
+difference might be if it's
+
+81
+00:05:39,480 --> 00:05:42,690
+being used in a different field,
+or for a different problem, it's
+
+82
+00:05:42,690 --> 00:05:46,560
+still being used in the same way
+generally. Whereas for software,
+
+83
+00:05:46,560 --> 00:05:49,830
+we might be thinking about
+rerunning or, or executing the
+
+84
+00:05:49,830 --> 00:05:54,510
+software, we might be thinking
+of reading it to understand the
+
+85
+00:05:54,510 --> 00:05:57,840
+decisions and the design
+decisions in the software, we
+
+86
+00:05:57,840 --> 00:06:02,280
+might be using it to reproduce
+an experiment, or we might be
+
+87
+00:06:02,310 --> 00:06:06,360
+reusing it through extending or
+deriving something from it. So
+
+88
+00:06:06,360 --> 00:06:10,020
+reuse for software has a much
+wider set of options then for
+
+89
+00:06:10,020 --> 00:06:15,510
+data in general. And it can also
+be connected via workflows. And
+
+90
+00:06:15,540 --> 00:06:21,450
+there we have challenges for
+fair, because the third data
+
+91
+00:06:21,450 --> 00:06:25,290
+principles, although they talk
+about interoperability, they
+
+92
+00:06:25,290 --> 00:06:28,260
+talk mostly around
+interoperability of formats,
+
+93
+00:06:28,290 --> 00:06:31,290
+whereas for software, we're also
+talking about interoperability
+
+94
+00:06:31,620 --> 00:06:36,150
+of API's, and interoperability
+of semantic understanding as
+
+95
+00:06:36,150 --> 00:06:36,480
+well.
+
+96
+00:06:37,980 --> 00:06:38,610
+So
+
+97
+00:06:41,070 --> 00:06:44,670
+how is this evolved, the fair
+guiding principles were
+
+98
+00:06:44,670 --> 00:06:48,450
+developed and finally published
+in 2016. And over the last few
+
+99
+00:06:48,450 --> 00:06:51,930
+years, the community has been
+exploring what it means to make
+
+100
+00:06:51,930 --> 00:06:54,960
+software fair. So we've had a
+number of different workshops
+
+101
+00:06:54,960 --> 00:06:58,080
+run by different groups,
+including some of the people who
+
+102
+00:06:58,080 --> 00:07:02,430
+are attending this call, looking
+at how fare might be applied to
+
+103
+00:07:02,430 --> 00:07:06,510
+software. And this has resulted
+in a number of different things.
+
+104
+00:07:07,230 --> 00:07:10,560
+In 2020, there are a large
+number of different resources
+
+105
+00:07:10,560 --> 00:07:13,980
+published, where the community
+was putting down its thoughts
+
+106
+00:07:14,010 --> 00:07:19,170
+about how fear should be applied
+to software, including a paper
+
+107
+00:07:19,170 --> 00:07:23,490
+called towards fair principles
+for research software, but also
+
+108
+00:07:24,210 --> 00:07:28,080
+tools that some of which are
+referenced later on about how
+
+109
+00:07:28,080 --> 00:07:32,940
+you might see how fair your
+software is. And understanding
+
+110
+00:07:33,060 --> 00:07:38,970
+this, the way that fair is used
+in practice for software. And so
+
+111
+00:07:38,970 --> 00:07:40,800
+this has led to the
+establishment of the fair for
+
+112
+00:07:40,800 --> 00:07:44,490
+research software Working Group,
+which I'm a co chair of. And at
+
+113
+00:07:44,490 --> 00:07:47,100
+this moment, in fact, we have
+the second last of our drafting
+
+114
+00:07:47,100 --> 00:07:53,520
+meetings tonight, we are looking
+at drafting a new set of fair
+
+115
+00:07:53,520 --> 00:07:56,400
+principles for research
+software, which will be going
+
+116
+00:07:56,400 --> 00:08:01,710
+into community consultation. So
+the way forward after this is
+
+117
+00:08:02,100 --> 00:08:04,200
+the publishing of these
+principles and getting community
+
+118
+00:08:04,200 --> 00:08:08,280
+feedback and approval on them.
+But then it's going on with to
+
+119
+00:08:08,280 --> 00:08:11,310
+understanding all the other
+things that happen once you have
+
+120
+00:08:11,970 --> 00:08:16,110
+the third principles. So how
+does that feed into things like
+
+121
+00:08:16,110 --> 00:08:19,170
+indicators and metrics into
+career profiles and reward
+
+122
+00:08:19,170 --> 00:08:22,980
+structures, making it machine
+readable in output management
+
+123
+00:08:22,980 --> 00:08:27,090
+plans and ultimately changing
+policy to ensure that research
+
+124
+00:08:27,120 --> 00:08:33,000
+is more transparent,
+reproducible and reusable. So
+
+125
+00:08:33,360 --> 00:08:36,360
+this is this is kind of like all
+background information, but
+
+126
+00:08:36,360 --> 00:08:38,940
+you're probably interested in
+knowing what you can actually do
+
+127
+00:08:38,940 --> 00:08:43,860
+right now. So I'm just going to
+finish off with one slide on
+
+128
+00:08:43,860 --> 00:08:47,520
+what I think is good enough
+practices for fair software
+
+129
+00:08:47,520 --> 00:08:53,610
+whilst you're waiting on us to
+finish off the principles. So,
+
+130
+00:08:54,060 --> 00:08:58,560
+to make your software, find
+double, make sure it's easy to
+
+131
+00:08:58,560 --> 00:09:02,460
+discover by using descriptive
+metadata. So things like making
+
+132
+00:09:02,460 --> 00:09:06,510
+sure that it's got a descriptive
+title, making sure that people
+
+133
+00:09:06,510 --> 00:09:11,550
+can understand who the authors
+are providing keywords, publish
+
+134
+00:09:11,550 --> 00:09:14,670
+a citation for your software, so
+people know how they should
+
+135
+00:09:14,670 --> 00:09:18,150
+credit you, and add it to a
+community registry if one
+
+136
+00:09:18,150 --> 00:09:22,410
+exists. And I'll admit that
+that's one area that a lot of
+
+137
+00:09:22,410 --> 00:09:26,460
+communities don't have a
+community registry yet. To make
+
+138
+00:09:26,460 --> 00:09:30,660
+it accessible. Put your source
+code in a code repository. So
+
+139
+00:09:30,660 --> 00:09:34,980
+something like GitHub is a good
+choice there. And then deposit
+
+140
+00:09:34,980 --> 00:09:37,800
+major versions and activation
+repositories. So if you're
+
+141
+00:09:37,800 --> 00:09:40,290
+publishing something that you
+expect to be shared with someone
+
+142
+00:09:40,290 --> 00:09:44,550
+else, or it's in relation to a
+paper, make sure it's going into
+
+143
+00:09:44,550 --> 00:09:48,060
+your institution's digital
+repository, or into something
+
+144
+00:09:48,060 --> 00:09:53,730
+like a node or fixture to get a
+DUI. Make it interoperable by
+
+145
+00:09:53,730 --> 00:09:56,220
+making sure you describe the
+functionality of your software.
+
+146
+00:09:56,820 --> 00:10:00,000
+Use open data formats that meet
+domain relevant community.
+
+147
+00:10:00,000 --> 00:10:04,050
+Standards provide references to
+other research objects like
+
+148
+00:10:04,050 --> 00:10:07,680
+papers and the datasets that
+you're using. And modularize
+
+149
+00:10:07,680 --> 00:10:11,580
+your code and documents design
+so people understand how they
+
+150
+00:10:11,670 --> 00:10:16,200
+can connect it to other things.
+And finally, to make your
+
+151
+00:10:16,200 --> 00:10:19,470
+software reusable, choose a
+license and apply it to your
+
+152
+00:10:19,470 --> 00:10:22,290
+software. There's nothing worse
+than a piece of software where
+
+153
+00:10:22,290 --> 00:10:25,470
+people can't understand how to
+reuse it, document the
+
+154
+00:10:25,470 --> 00:10:29,220
+dependencies that's required.
+And ensure that others can
+
+155
+00:10:29,220 --> 00:10:32,700
+understand and execute your
+code. And often think the best
+
+156
+00:10:32,700 --> 00:10:34,950
+way of doing that last thing is
+just give it to one of your
+
+157
+00:10:34,950 --> 00:10:38,550
+colleagues or friends to try and
+rerun if they can't rerun it.
+
+158
+00:10:38,580 --> 00:10:42,150
+And that might be either by
+building the source code, or by
+
+159
+00:10:42,150 --> 00:10:46,710
+running the executable or by
+using the binder or Docker
+
+160
+00:10:46,710 --> 00:10:51,120
+container, then go back and have
+a look at it because it probably
+
+161
+00:10:51,120 --> 00:10:53,700
+means that you won't remember
+how to reuse it in six months
+
+162
+00:10:53,700 --> 00:10:57,600
+time either. So these are all
+what I would consider good
+
+163
+00:10:57,600 --> 00:11:00,840
+enough practices for research
+software. And I think the key
+
+164
+00:11:00,840 --> 00:11:05,940
+thing here is I I'm a pragmatic
+implementer of fair principles.
+
+165
+00:11:05,970 --> 00:11:08,610
+I think it's all about making
+sure that you're doing things
+
+166
+00:11:08,610 --> 00:11:12,780
+better and incrementally getting
+better. And so I would say if
+
+167
+00:11:12,780 --> 00:11:16,350
+you can do any of these things,
+then you're on the road towards
+
+168
+00:11:16,350 --> 00:11:20,220
+fair software. And if you're
+interested in getting involved
+
+169
+00:11:20,220 --> 00:11:22,650
+in third research software, I
+put some information in the
+
+170
+00:11:22,650 --> 00:11:24,750
+slides and you can find out more
+
