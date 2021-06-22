@@ -4,7 +4,36 @@
 
 This repository aims to make the Open Life Science (OLS-3) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by Talarify and Open Science Community in Saudi Arabia to facilitate learning of Open science practices to novice learners.
 
+The table below show the list of the talks and their speakers:
+
+| **Talk**                                                      	| **Speaker**                  	|
+|----------------------------------------------------------------	|------------------------------	|
+| Introduction to Open Life Sciences                             	| Malvika Sharon               	|
+| Open Canvas for Project Strategy                               	| Yo Yehudi                    	|
+| Roadmapping for Open Projects                                  	| Emmy Tsang                   	|
+| A Primer on Open Licenses                                      	| Yo Yehudi                    	|
+| ReadMes for Open Projects                                      	| Carlos Martinez              	|
+| Contributing Guidelines and Codes of Conduct for Open Projects 	| Malvika Sharon               	|
+| Agile and Iterative Project Management Methods                 	| Carlos Martinez and group    	|
+| Open Source in Research                                        	| Group                        	|
+| Open Data                                                      	| Esther Plomp                 	|
+| Open Source/Science Hardware                                   	| Andre Maia Chagas            	|
+| ASAPbio supports preprint adoption in the life sciences        	| Iratxe Puebla                	|
+| Open Protocols                                                 	| Lenny Teytelman              	|
+| Participatory Citizen Science                                  	| Georgia Aitkenhead and group 	|
+| Fair Data                                                      	| Emma Anne Harris             	|
+| Fair Training                                                  	| Alex Holinski                	|
+| Good enough practices for fair software                        	| Neil P. Chue Hong            	|
+| Open Leadershi Career Guidance: Social Entrepreneurship        	| David Selassie Opoku         	|
+| Open Science Hardware                                          	| Thomas Mboa                  	|
+|                                                                	| Zulidyana Rusnalasari        	|
+| Unconscious Bias                                               	| Rowland Mosbergen            	|
+| Personas and Pathways                                          	| Anelda van der Walt          	|
+| Discovering pathways and patterns of engagement in your work   	| Emmy Tsang                   	|
+
+
 You can also find the videos and captions associated with [cohort 1 (OLS-1)](https://github.com/open-life-science/ols1-cohort-talks-and-transcripts) and [cohort 2 (OLS-2)](https://github.com/open-life-science/ols2-cohort-talks-and-transcripts) in their respective repositories.
+
 
 ## Contributing
 
