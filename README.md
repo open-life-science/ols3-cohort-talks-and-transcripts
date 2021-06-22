@@ -2,8 +2,6 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
 This repository aims to make the Open Life Science (OLS-3) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by Talarify and Open Science Community in Saudi Arabia to facilitate learning of Open science practices to novice learners.
 
 You can also find the videos and captions associated with [cohort 1 (OLS-1)](https://github.com/open-life-science/ols1-cohort-talks-and-transcripts) and [cohort 2 (OLS-2)](https://github.com/open-life-science/ols2-cohort-talks-and-transcripts) in their respective repositories.
