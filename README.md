@@ -6,28 +6,30 @@ This repository aims to make the Open Life Science (OLS-3) videos and captions a
 
 ### The table below show the list of the talks and their speakers:
 
-|                              Title                             	|            Speaker           	| English Transcript 	|  Arabic Transcript 	|
-|:--------------------------------------------------------------:	|:----------------------------:	|:------------------:	|:------------------:	|
-|               Introduction to Open Life Sciences               	|        Malvika Sharon        	| :heavy_check_mark: 	| :heavy_check_mark: 	|
-|                Open Canvas for Project Strategy                	|           Yo Yehudi          	| :heavy_check_mark: 	| :heavy_check_mark: 	|
-|                  Roadmapping for Open Projects                 	|          Emmy Tsang          	| :heavy_check_mark: 	|                    	|
-|                    A Primer on Open Licenses                   	|           Yo Yehudi          	| :heavy_check_mark: 	|                    	|
-|                    ReadMes for Open Projects                   	|        Carlos Martinez       	| :heavy_check_mark: 	|                    	|
-| Contributing Guidelines and Codes of Conduct for Open Projects 	|        Malvika Sharon        	| :heavy_check_mark: 	|                    	|
-|         Agile and Iterative Project Management Methods         	|   Carlos Martinez and group  	| :heavy_check_mark: 	|                    	|
-|                            Open Data                           	|         Esther Plomp         	| :heavy_check_mark: 	|                    	|
-|                  Open Source/Science Hardware                  	|       Andre Maia Chagas      	| :heavy_check_mark: 	|                    	|
-|     ASAPbio supports preprint adoption in the life sciences    	|         Iratxe Puebla        	| :heavy_check_mark: 	|                    	|
-|                         Open Protocols                         	|        Lenny Teytelman       	| :heavy_check_mark: 	|                    	|
-|                  Participatory Citizen Science                 	| Georgia Aitkenhead and group 	| :heavy_check_mark: 	|                    	|
-|                            Fair Data                           	|       Emma Anne Harris       	| :heavy_check_mark: 	|                    	|
-|                          Fair Training                         	|         Alex Holinski        	| :heavy_check_mark: 	|                    	|
-|             Good enough practices for fair software            	|       Neil P. Chue Hong      	| :heavy_check_mark: 	|                    	|
-|     Open Leadershi Career Guidance: Social Entrepreneurship    	|     David Selassie Opoku     	| :heavy_check_mark: 	|                    	|
-|                      Open Science Hardware                     	|          Thomas Mboa         	| :heavy_check_mark: 	|                    	|
-|                        Unconscious Bias                        	|       Rowland Mosbergen      	| :heavy_check_mark: 	|                    	|
-|                      Personas and Pathways                     	|      Anelda van der Walt     	| :heavy_check_mark: 	|                    	|
-|  Discovering pathways and patterns of engagement in your work  	|          Emmy Tsang          	| :heavy_check_mark: 	|                    	|
+|                                   Title                                   	|                           Speaker                           	| English Transcript 	|  Arabic Transcript 	|
+|:-------------------------------------------------------------------------:	|:-----------------------------------------------------------:	|:------------------:	|:------------------:	|
+|                     Introduction to Open Life Sciences                    	|                        Malvika Sharon                       	| :heavy_check_mark: 	| :heavy_check_mark: 	|
+|                      Open Canvas for Project Strategy                     	|                          Yo Yehudi                          	| :heavy_check_mark: 	| :heavy_check_mark:  |
+|                       Roadmapping for Open Projects                       	|                          Emmy Tsang                         	| :heavy_check_mark: 	|                    	|
+|                         A Primer on Open Licenses                         	|                          Yo Yehudi                          	| :heavy_check_mark: 	|                    	|
+|                         ReadMes for Open Projects                         	|                       Carlos Martinez                       	| :heavy_check_mark: 	|                    	|
+|       Contributing Guidelines and Codes of Conduct for Open Projects      	|                        Malvika Sharon                       	| :heavy_check_mark: 	|                    	|
+|               Agile and Iterative Project Management Methods              	|                  Carlos Martinez and group                  	| :heavy_check_mark: 	|                    	|
+|                          Open Source in Research                          	|                        Helena Rasche                        	| :heavy_check_mark: 	|                    	|
+|                                 Open Data                                 	|                         Esther Plomp                        	| :heavy_check_mark: 	|                    	|
+|                        Open Source/Science Hardware                       	|                      Andre Maia Chagas                      	| :heavy_check_mark: 	|                    	|
+|          ASAPbio supports preprint adoption in the life sciences          	|                        Iratxe Puebla                        	| :heavy_check_mark: 	|                    	|
+|                               Open Protocols                              	|                       Lenny Teytelman                       	| :heavy_check_mark: 	|                    	|
+|                       Participatory Citizen Science                       	| Georgia Aitkenhead, Suzanne lwai, Otis Smith, Sarah Markham 	| :heavy_check_mark: 	|                    	|
+|                                 Fair Data                                 	|                       Emma Anne Harris                      	| :heavy_check_mark: 	|                    	|
+|                               Fair Training                               	|                        Alex Holinski                        	| :heavy_check_mark: 	|                    	|
+|                  Good enough practices for fair software                  	|                      Neil P. Chue Hong                      	| :heavy_check_mark: 	|                    	|
+|          Open Leadershi Career Guidance: Social Entrepreneurship          	|                     David Selassie Opoku                    	| :heavy_check_mark: 	|                    	|
+|                           Open Science Hardware                           	|                         Thomas Mboa                         	| :heavy_check_mark: 	|                    	|
+| Local and National Publishers in Indonesia and the Impact on Open Science 	|                    Zulidyana Rusnalasari                    	| :heavy_check_mark: 	|                    	|
+|                              Unconscious Bias                             	|                      Rowland Mosbergen                      	| :heavy_check_mark: 	|                    	|
+|                           Personas and Pathways                           	|                     Anelda van der Walt                     	| :heavy_check_mark: 	|                    	|
+|        Discovering pathways and patterns of engagement in your work       	|                          Emmy Tsang                         	| :heavy_check_mark: 	|                    	|
 
 > You can also find the videos and captions associated with [cohort 1 (OLS-1)](https://github.com/open-life-science/ols1-cohort-talks-and-transcripts) and [cohort 2 (OLS-2)](https://github.com/open-life-science/ols2-cohort-talks-and-transcripts) in their respective repositories.
 
