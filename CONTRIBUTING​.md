@@ -12,6 +12,7 @@ agrees to abide by our [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Using GitHub
 
+**This workflow needs a basic familiarity with GitHub, if you haven't worked with GitHub and needs any help, please contact batool@liverpool.ac.uk**
 
 1. Check that there isn't [already an issue](https://github.com/open-life-science/ols3-cohort-talks-and-transcripts/issues) about your idea to avoid duplicating work.
     * If there isn't one already, please create one so that others know you're working on this
