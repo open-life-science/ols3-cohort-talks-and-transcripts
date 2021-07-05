@@ -1,0 +1,574 @@
+1
+00:00:00,000 --> 00:00:03,060
+Unknown: So, official Welcome to
+open Life Science from my side
+
+2
+00:00:03,060 --> 00:00:06,750
+as well, very excited to have
+you all on the call, I'll give
+
+3
+00:00:06,750 --> 00:00:09,630
+you a very quick overview of
+what this program is about and
+
+4
+00:00:09,630 --> 00:00:10,950
+what you will be learning.
+
+5
+00:00:12,000 --> 00:00:17,340
+So you met Bernie's, and you and
+me, we are the organizers of
+
+6
+00:00:17,340 --> 00:00:21,450
+this program. And we will always
+have me in the call who will be
+
+7
+00:00:21,450 --> 00:00:23,010
+co hosting this with us.
+
+8
+00:00:24,960 --> 00:00:28,890
+So as a team, we believe that to
+be effective, science should be
+
+9
+00:00:28,890 --> 00:00:31,800
+shared openly with others and
+made freely available.
+
+10
+00:00:33,900 --> 00:00:37,080
+And you're here with us to do
+similar amount of work that we
+
+11
+00:00:37,080 --> 00:00:41,070
+have planned for you. And we
+have also done in our program.
+
+12
+00:00:41,640 --> 00:00:44,580
+We're here to share what we have
+learned and we hope that you
+
+13
+00:00:44,580 --> 00:00:45,930
+will find them useful.
+
+14
+00:00:48,060 --> 00:00:51,210
+The open Life Science program
+has been designed to help early
+
+15
+00:00:51,210 --> 00:00:54,960
+stage researcher and potential
+academic leaders to become open
+
+16
+00:00:54,960 --> 00:00:58,350
+sense ambassadors, maybe this is
+a bit outdated, because we've
+
+17
+00:00:58,350 --> 00:01:01,380
+seen a lot more different
+varieties of project coming to
+
+18
+00:01:01,380 --> 00:01:05,640
+the program. And a lot of you
+are probably not academic or
+
+19
+00:01:05,640 --> 00:01:08,940
+early career researchers. So
+please don't think that this is
+
+20
+00:01:08,940 --> 00:01:12,120
+very much limited to this
+definition anymore.
+
+21
+00:01:14,190 --> 00:01:17,580
+So again, we think that science
+can advance only we share our
+
+22
+00:01:17,580 --> 00:01:22,590
+work with other and not, NOT
+gate keep it or compete for
+
+23
+00:01:22,590 --> 00:01:24,690
+knowledge that others can
+benefit from.
+
+24
+00:01:26,550 --> 00:01:29,400
+But often, researchers are very
+skeptical about sharing their
+
+25
+00:01:29,400 --> 00:01:32,790
+work due to their fear of
+getting scooped being criticized
+
+26
+00:01:32,850 --> 00:01:38,070
+or not knowing what they can or
+cannot share. Because often, one
+
+27
+00:01:38,070 --> 00:01:41,400
+of the rewards that we have in
+research is paper and a lot of
+
+28
+00:01:41,400 --> 00:01:45,990
+papers are tend to be novel. So
+this novelty often reduces the
+
+29
+00:01:45,990 --> 00:01:48,780
+chances of people sharing work
+from the beginning as they're
+
+30
+00:01:48,780 --> 00:01:49,500
+developing.
+
+31
+00:01:51,960 --> 00:01:55,800
+In this program, we will discuss
+how to work openly without
+
+32
+00:01:55,800 --> 00:01:59,850
+becoming scientific vulnerable.
+What we would like to do is to
+
+33
+00:01:59,850 --> 00:02:04,110
+share information around how you
+can own the work that you've
+
+34
+00:02:04,110 --> 00:02:07,020
+done, but at the same time, be
+collaborative and open your
+
+35
+00:02:07,020 --> 00:02:09,390
+project for others to come along
+and work with you.
+
+36
+00:02:11,760 --> 00:02:14,730
+And together, we will explore
+the important concepts in open
+
+37
+00:02:14,730 --> 00:02:18,750
+science and apply them in our
+work one step at a time. Our
+
+38
+00:02:18,750 --> 00:02:22,200
+cohort calls are organized every
+second week, but you will have
+
+39
+00:02:22,200 --> 00:02:25,290
+one week breather period where
+you will have a chance to apply
+
+40
+00:02:25,290 --> 00:02:28,770
+the topics that you'll learn
+about, apply them in your work,
+
+41
+00:02:28,830 --> 00:02:32,850
+talk to your mentors, but also
+have a chance to talk about
+
+42
+00:02:32,850 --> 00:02:38,010
+those in slack or on GitHub
+issue tracker that we will share
+
+43
+00:02:38,340 --> 00:02:39,690
+towards the end of this call.
+
+44
+00:02:43,260 --> 00:02:46,410
+So this is something that is
+just a reminder, because you all
+
+45
+00:02:46,410 --> 00:02:49,620
+know it's a 15 week long
+Mentorship Program, which ends
+
+46
+00:02:49,620 --> 00:02:53,670
+with one week of graduation.
+With people finishing and
+
+47
+00:02:53,670 --> 00:02:56,250
+sharing about what they have
+worked on you will be attending
+
+48
+00:02:56,280 --> 00:02:59,460
+cohort based training. If you
+can't attend it, you will be
+
+49
+00:02:59,460 --> 00:03:03,930
+able to access all the notes and
+videos on YouTube. And you will
+
+50
+00:03:03,930 --> 00:03:08,070
+be able to talk to us a week
+later in an open office hour to
+
+51
+00:03:08,070 --> 00:03:10,350
+discuss any topic that you
+didn't understand or some
+
+52
+00:03:10,350 --> 00:03:13,980
+clarification might be useful
+for you. We will also give you
+
+53
+00:03:13,980 --> 00:03:16,680
+lots of assignments. And these
+assignments are not to be
+
+54
+00:03:16,680 --> 00:03:19,800
+judged. So we want to look at
+it, it's really up to you how
+
+55
+00:03:19,800 --> 00:03:23,400
+you take those assignments and
+apply them into your work. So
+
+56
+00:03:23,400 --> 00:03:27,270
+it's a lot of reflective and
+experiential learning for you.
+
+57
+00:03:30,480 --> 00:03:33,630
+If you are really, really
+excited of what we are teaching
+
+58
+00:03:33,630 --> 00:03:35,970
+you there are a lot more
+information out there. And one
+
+59
+00:03:35,970 --> 00:03:39,360
+of the things that open licenses
+built upon is Mozilla open
+
+60
+00:03:39,360 --> 00:03:42,960
+leadership principle. And all
+the materials are online under
+
+61
+00:03:42,960 --> 00:03:46,320
+CC by so if you feel that you
+would like to learn a little bit
+
+62
+00:03:46,320 --> 00:03:50,070
+more, this is something that you
+can always visit, we will also
+
+63
+00:03:50,070 --> 00:03:51,810
+add the link in the chat for
+you.
+
+64
+00:03:54,450 --> 00:03:58,380
+The idea of open leadership is
+that everybody can become open
+
+65
+00:03:58,380 --> 00:04:01,560
+leader because open leaders are
+people who design build and
+
+66
+00:04:01,560 --> 00:04:05,250
+empower their projects and
+communities for understanding
+
+67
+00:04:05,280 --> 00:04:09,600
+sharing and participation and
+inclusion. So, I would like to
+
+68
+00:04:09,600 --> 00:04:12,120
+show you this table and this
+table is something you will see
+
+69
+00:04:12,120 --> 00:04:15,690
+quite a lot as we bring expert
+speakers and they show you
+
+70
+00:04:15,690 --> 00:04:20,250
+different topics. So we go
+through design, build empower,
+
+71
+00:04:20,520 --> 00:04:23,760
+and we build for the
+understanding, sharing and
+
+72
+00:04:23,760 --> 00:04:27,570
+participation and inclusion. So
+every time we are working and
+
+73
+00:04:27,570 --> 00:04:30,330
+developing certain aspects of
+our project, we need to think
+
+74
+00:04:30,330 --> 00:04:33,870
+about am I designing it for
+people to understand it? Am I
+
+75
+00:04:33,870 --> 00:04:37,680
+designing it that people can
+share or build upon my work is
+
+76
+00:04:37,680 --> 00:04:41,850
+it actually participate true
+inclusive. So this is a thought
+
+77
+00:04:41,850 --> 00:04:44,460
+process that we will go one by
+one so you don't need to
+
+78
+00:04:44,580 --> 00:04:48,030
+remember it but this is a
+principle that we hope you will
+
+79
+00:04:48,030 --> 00:04:50,370
+be able to integrate in
+everything that you're doing
+
+80
+00:04:50,370 --> 00:04:51,750
+within open science.
+
+81
+00:04:54,180 --> 00:04:58,140
+Again, open science is a huge
+umbrella term. It can have lots
+
+82
+00:04:58,140 --> 00:04:59,970
+of topic that you
+
+83
+00:05:00,000 --> 00:05:04,050
+isn't just restricted to open
+source software or open access
+
+84
+00:05:04,050 --> 00:05:07,950
+publication. But there's a lot
+more about open science that you
+
+85
+00:05:07,950 --> 00:05:10,860
+might be interested in. So as
+you heard everybody have really
+
+86
+00:05:10,860 --> 00:05:15,240
+diverse ideas. Some of you might
+want to share data openly, which
+
+87
+00:05:15,240 --> 00:05:17,730
+falls into the term open data,
+you would like to share your
+
+88
+00:05:17,730 --> 00:05:20,820
+code, which is open source
+software. Some of you have
+
+89
+00:05:20,820 --> 00:05:24,690
+hardware design, which is open
+source hardware. Of course, you
+
+90
+00:05:24,690 --> 00:05:28,110
+know about papers and protocol,
+which can be published in open
+
+91
+00:05:28,110 --> 00:05:31,560
+access. We also want to
+encourage you to share your
+
+92
+00:05:31,560 --> 00:05:35,040
+results earlier, which is
+preprint, sharing prep paper
+
+93
+00:05:35,040 --> 00:05:39,060
+reviews in open reviews. Many of
+you are working on open
+
+94
+00:05:39,060 --> 00:05:42,480
+education and citizen science.
+And we would like to bring you
+
+95
+00:05:42,480 --> 00:05:45,180
+all together so take the
+opportunity to get to know each
+
+96
+00:05:45,180 --> 00:05:47,700
+other as well, because
+scientific networking is also
+
+97
+00:05:47,700 --> 00:05:49,050
+part of open science.
+
+98
+00:05:51,330 --> 00:05:54,510
+Open by design is something we
+would like you to remember
+
+99
+00:05:54,540 --> 00:05:57,750
+because open by default is not
+often inclusive, or
+
+100
+00:05:57,750 --> 00:06:01,680
+participatory or community LED.
+But when we design them into our
+
+101
+00:06:01,680 --> 00:06:04,680
+project, we can make sure that
+everything that we are doing is
+
+102
+00:06:04,710 --> 00:06:07,860
+actually built for inclusion and
+community.
+
+103
+00:06:10,350 --> 00:06:14,610
+So one of the studies in 2012,
+which had included about 160,
+
+104
+00:06:14,640 --> 00:06:18,120
+tech companies found that the
+level of strategic intent in
+
+105
+00:06:18,120 --> 00:06:21,660
+openness and not just openness
+alone correlates with market
+
+106
+00:06:21,660 --> 00:06:22,530
+performance.
+
+107
+00:06:24,990 --> 00:06:27,360
+You can also think about
+designing openness into your
+
+108
+00:06:27,360 --> 00:06:30,300
+work and it shouldn't be a
+thoughtless default. This is
+
+109
+00:06:30,300 --> 00:06:33,570
+something that we want to be
+extremely intentional about. And
+
+110
+00:06:33,570 --> 00:06:36,720
+I think that's what is in the
+core of open Life Science
+
+111
+00:06:36,720 --> 00:06:37,380
+Program.
+
+112
+00:06:40,710 --> 00:06:43,440
+You all are leaders, and we
+believe that with your
+
+113
+00:06:43,440 --> 00:06:46,050
+leadership and your vision
+combined with what we are
+
+114
+00:06:46,050 --> 00:06:48,780
+teaching in this program, you
+can achieve a very positive
+
+115
+00:06:48,780 --> 00:06:51,570
+cultural change in your
+community. And we hope you will
+
+116
+00:06:51,570 --> 00:06:54,090
+take the chance to exchange
+those ideas and thoughts with
+
+117
+00:06:54,090 --> 00:06:54,720
+each other
+
