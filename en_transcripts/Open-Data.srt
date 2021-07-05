@@ -1,7 +1,7 @@
 1
 00:00:00,000 --> 00:00:03,240
-Unknown: My name is Esther
-plump. I'm a data steward at the
+Esther Plomp: My name is Esther
+Plomp. I'm a data steward at the
 
 2
 00:00:03,240 --> 00:00:07,380
