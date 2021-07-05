@@ -1,7 +1,7 @@
 1
 00:00:00,000 --> 00:00:01,710
-Unknown: My name is Helena
-Rasche, I've been working in
+Helena Rasche: My name is Helena Rasche
+, I've been working in
 
 2
 00:00:01,710 --> 00:00:05,130
