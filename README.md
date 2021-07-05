@@ -42,6 +42,7 @@ questions, concerns, or experience any difficulties along the way. We'd like to 
 Current maintainer of this project is:
 
 * [Batool Almarzouq](https://github.com/BatoolMM)
+* [Anelda van der Walt](https://github.com/anelda)
 
 ## Citation
 
