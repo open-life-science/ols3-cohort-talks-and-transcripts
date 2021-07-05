@@ -2,13 +2,18 @@
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
+
 This repository aims to make the Open Life Science (OLS-3) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) to facilitate learning of Open science practices to novice learners.
 
 ### The table below show the list of the talks and their speakers:
 
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
+{: #puzzle}
+
+
 |                                   Title                                   	|                           Speaker                           	| English Transcript 	|  Arabic Transcript 	|
 |:-------------------------------------------------------------------------:	|:-----------------------------------------------------------:	|:------------------:	|:------------------:	|
-|                     [Introduction to Open Life Sciences](https://github.com/open-life-science/ols3-cohort-talks-and-transcripts/blob/main/videos/Introduction-to-Open-Life-Sciences.mp4)                    	|                        Malvika Sharon                       	| :heavy_check_mark: 	| :heavy_check_mark: 	|
+|                     [Introduction to Open Life Sciences](https://github.com/open-life-science/ols3-cohort-talks-and-transcripts/blob/main/videos/Introduction-to-Open-Life-Sciences.mp4)             	|                        Malvika Sharon                       	| :heavy_check_mark: 	| :heavy_check_mark: 	|
 |                      [Open Canvas for Project Strategy](https://github.com/open-life-science/ols3-cohort-talks-and-transcripts/blob/main/videos/Open-Canvas-for-Project-Strategy.mp4)                     	|                          Yo Yehudi                          	| :heavy_check_mark: 	| :heavy_check_mark:  |
 |                       [Roadmapping for Open Projects](https://github.com/open-life-science/ols3-cohort-talks-and-transcripts/blob/main/videos/Roadmapping-for-Open-Projects.mp4)                       	|                          Emmy Tsang                         	| :heavy_check_mark: 	|                    	|
 |                         [A Primer on Open Licenses](https://github.com/open-life-science/ols3-cohort-talks-and-transcripts/blob/main/videos/A-Primer-on-Open-License.mp4)                         	|                          Yo Yehudi                          	| :heavy_check_mark: 	|                    	|
