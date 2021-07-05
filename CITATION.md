@@ -1,1 +1,1 @@
-FIXME add later when linked to Zenodo 
+Malvika Sharan, Yo Yehudi, Emmy Tsang, Carlos Martinez, Helena Rasche, Esther Plomp, … elsy Mtsweni. (2021). OLS-3 Cohort Talks and Transcripts (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.5071349
