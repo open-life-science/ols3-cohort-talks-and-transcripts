@@ -5,7 +5,7 @@ without equipment, there is no
 
 2
 00:00:02,820 --> 00:00:05,910
-science in a way, right? Like we
+science in a way, right? We
 can download all these amazing
 
 3
@@ -15,7 +15,7 @@ want to be in control of
 
 4
 00:00:08,970 --> 00:00:13,440
-generating data and like doing
+generating data and answering
 so exciting questions locally,
 
 5
@@ -30,23 +30,23 @@ need the proper tools to do it,
 
 7
 00:00:19,650 --> 00:00:24,210
-right. Malik already introduced
-me, but Hello from my side, so
+right? Malik already introduced
+me, but Hello from my side. So
 
 8
 00:00:24,210 --> 00:00:27,330
-that I get started. I work at
+that I get started: I work at
 University of Sussex, where I
 
 9
 00:00:27,330 --> 00:00:30,270
-have a job that really that I
+have a job that I
 really, really like, which is
 
 10
 00:00:30,270 --> 00:00:33,150
-developing open source hardware.
-For the Department of
+developing open source hardware,
+for the Department of
 
 11
 00:00:33,150 --> 00:00:36,780
@@ -56,7 +56,7 @@ volunteering a lot of my time to
 12
 00:00:36,780 --> 00:00:40,860
 train in Africa, which is an
-NGO, trying to help development
+NGO trying to help development
 
 13
 00:00:40,860 --> 00:00:45,210
@@ -70,43 +70,43 @@ actually build their own tools,
 
 15
 00:00:48,600 --> 00:00:51,750
-we do a lot of workshops, I
+we do a lot of workshops. I
 started a small website called
 
 16
 00:00:51,780 --> 00:00:54,450
 Open neuroscience. And I'm
-working with Alia terenzo, and
+working with Juliette Arancio, and
 
 17
 00:00:54,450 --> 00:00:57,480
-Alex kucera, as part of the
-Convention on this program, that
+Alex kutscheray, as part of the
+Convention on this program.
 
 18
 00:00:57,480 --> 00:00:59,820
-it's similar to open Life
-Sciences, but for hardware
+It's similar to open Life
+Sciences, but for hardware,
 
 19
 00:00:59,820 --> 00:01:04,740
 called Open hardware makers. All
-of this started about I mean, I
+of this started about... I mean, I
 
 20
 00:01:04,740 --> 00:01:07,890
-think already spoke about like,
-why open hardware, right, like
+think I have already spoken about
+why open hardware, right?
 
 21
 00:01:07,890 --> 00:01:11,670
-we need hardware to do the
+We need hardware to do the
 experiments, the things that we
 
 22
 00:01:11,670 --> 00:01:16,020
-do. And here's just one example
-in life sciences, right. So if
+do. Here's just one example
+in life sciences. If
 
 23
 00:01:16,020 --> 00:01:20,280
@@ -116,31 +116,31 @@ microscopes, which is one of the
 24
 00:01:20,280 --> 00:01:25,170
 workhorses inside Life Sciences,
-right? These tools are from they
+right? These tools are from, they
 
 25
 00:01:25,170 --> 00:01:29,070
-were first developed, like in
+were first developed, in
 the late 1600s, I think, if I'm
 
 26
 00:01:29,070 --> 00:01:32,640
-not mistaken, and this one that
+not mistaken. This one that
 you see on the left is actually
 
 27
 00:01:32,640 --> 00:01:38,820
-from 19, the turn of the 20th
-century. So 1904, or something,
+from 19.., the turn of the 20th
+century. 1904, or something,
 
 28
 00:01:39,360 --> 00:01:41,610
 and the one on the right is a
-little bit more recent, as you
+little bit more recent. As you
 
 29
 00:01:41,610 --> 00:01:44,340
-can see, like the modern
+can see, the modern
 microscope didn't change much
 
 30
@@ -151,22 +151,22 @@ still, if you want to get one on
 31
 00:01:47,370 --> 00:01:50,100
 the right, you would spend
-something like 10,000 pounds,
+something like 10,000 pounds.
 
 32
 00:01:50,520 --> 00:01:55,380
-right. And I mentioned costs,
+I mentioned costs,
 because although we really like
 
 33
 00:01:55,380 --> 00:01:57,630
 to romanticize things about
-science in the end, like we
-
+science in the end, we
+,
 34
 00:01:57,630 --> 00:02:04,080
 still need to pay for things.
-And so things things are really
+Things are really
 
 35
 00:02:04,080 --> 00:02:07,020
@@ -175,8 +175,8 @@ technology in them didn't change
 
 36
 00:02:07,020 --> 00:02:10,290
-much over the last 100 years,
-right. So there is something
+much over the last 100 years.
+There is something
 
 37
 00:02:10,290 --> 00:02:13,890
@@ -186,17 +186,17 @@ But even if you don't consider
 38
 00:02:13,890 --> 00:02:16,560
 that, if you think about you
-are, let's say in the global
+are, let's say, in the global
 
 39
 00:02:16,560 --> 00:02:21,930
-software, I'm originally from
+South, where I'm originally from,
 trying to buy a microscope, you
 
 40
 00:02:21,930 --> 00:02:24,390
 only find distributors from the
-global norm. So you have to
+global north. So you have to
 
 41
 00:02:24,390 --> 00:02:28,050
@@ -205,8 +205,8 @@ that, or they mostly have their
 
 42
 00:02:28,050 --> 00:02:31,380
-clients in the global north
-mine. So if I bring it back to
+clients in the global north.
+So if I bring it back to
 
 43
 00:02:31,380 --> 00:02:34,440
@@ -215,8 +215,8 @@ was super hot, warm and humid,
 
 44
 00:02:34,830 --> 00:02:37,740
-then like the fingers gonna,
-like rest really fast and
+then the fingers are gonna,
+rest really fast and
 
 45
 00:02:37,770 --> 00:02:42,120
@@ -226,7 +226,7 @@ breaks, I have no local support,
 46
 00:02:42,450 --> 00:02:45,120
 I have no idea what's going on
-inside because it's, it's a
+inside because it's a
 
 47
 00:02:45,120 --> 00:02:51,390
@@ -235,17 +235,17 @@ shown us, our supply chains, for
 
 48
 00:02:51,390 --> 00:02:58,200
-equipment for for a consumables
-and all like they are really
+equipment, for consumables,
+ they are really
 
 49
 00:02:58,200 --> 00:03:02,310
-fragile, right, like once like,
-there is a disruption from like
+fragile, right? Once
+there is a disruption from
 
 50
 00:03:02,310 --> 00:03:04,680
-China and so on, like, everybody
+China and so on, everybody
 gets stalled, and things get
 
 51
@@ -260,23 +260,23 @@ to innovate, right? Because you
 
 53
 00:03:12,570 --> 00:03:15,870
-cannot open like, I'm not gonna
+cannot open ... I'm not gonna
 fiddle around with a 10,000
 
 54
 00:03:15,990 --> 00:03:18,930
-pound piece of equipment, right?
-Like, if I break it, like the
+pounds piece of equipment, right?
+If I break it, the
 
 55
 00:03:18,930 --> 00:03:22,260
 whole department is gonna want
-my head. So like, I better not
+my head. So, I better not
 
 56
 00:03:22,260 --> 00:03:26,490
 fool around with that, right?
-And so this is why like, without
+And so this is why without
 
 57
 00:03:26,490 --> 00:03:29,550
@@ -296,7 +296,7 @@ microscopes. They're available
 60
 00:03:39,720 --> 00:03:43,650
 today, if you want to find these
-projects online, right, you
+projects online, you
 
 61
 00:03:43,650 --> 00:03:46,410
@@ -310,12 +310,12 @@ about them is that
 63
 00:03:47,130 --> 00:03:51,960
 all of them are under $100.
-Right? Some maybe Actually,
+Some maybe Actually...
 
 64
 00:03:52,230 --> 00:03:55,110
 let's say all of them were under
-$200, which is like orders of
+$200, which is orders of
 
 65
 00:03:55,110 --> 00:03:59,280
@@ -324,8 +324,8 @@ that I just showed you. And
 
 66
 00:03:59,310 --> 00:04:02,700
-they're all portable. Right. So
-here on the left, you have the
+they're all portable.
+Here on the left, you have the
 
 67
 00:04:02,700 --> 00:04:04,830
@@ -334,33 +334,33 @@ centimeters. This is something
 
 68
 00:04:04,830 --> 00:04:08,610
-we developed in the lab A long
+we developed in the lab a long
 time ago. And we're using for
 
 69
 00:04:08,610 --> 00:04:12,030
 educational purposes and so on.
-But you could do like 80% of the
+But you could do 80% of the
 
 70
 00:04:12,030 --> 00:04:17,460
 stuff that you do in the labs,
-right? This one next week is
+right? This one next to it is
 
 71
 00:04:17,460 --> 00:04:20,520
 actually very specialized for
-fluorescence, which is like a
+fluorescence, which is a
 
 72
 00:04:20,520 --> 00:04:23,040
-fancy method, right, like in
+fancy method in
 life sciences. But the one that
 
 73
 00:04:23,040 --> 00:04:26,460
-I would like to highlight or
-this one, like the one left with
+I would like to highlight is
+this one, the one left, with
 
 74
 00:04:26,460 --> 00:04:28,710
@@ -370,12 +370,12 @@ open fracture, which is an
 75
 00:04:28,710 --> 00:04:32,520
 amazing project that I really
-like I'm not involved with the
+like. I'm not involved with the
 
 76
 00:04:32,520 --> 00:04:35,580
 project myself, but I really
-like like the project because
+like the project because
 
 77
 00:04:35,580 --> 00:04:40,020
@@ -400,16 +400,16 @@ and 3d print parts wherever you
 81
 00:04:51,300 --> 00:04:54,900
 are actually. A lot of the
-developers for design doesn't
+developers for design 
 
 82
 00:04:54,900 --> 00:04:59,400
-year our partner developers with
+are partner developers with
 the people here in Bath which is
 
 83
 00:04:59,400 --> 00:05:03,540
-close by To brighten Ram. And
+close by To Brighton where I am. And
 the other microscope on the
 
 84
@@ -430,17 +430,17 @@ certain task. And what I think
 87
 00:05:17,400 --> 00:05:20,250
 is really crucial about these
-two examples, these last two
+two examples, these last two setups
 
 88
 00:05:20,250 --> 00:05:22,920
-that I said is that the yellow
-one open fracture, they actually
+is that the yellow one
+"open fracture", they actually
 
 89
 00:05:22,920 --> 00:05:24,960
 showed that they can do better
-like the same or better
+or like the same or better
 
 90
 00:05:24,960 --> 00:05:27,900
@@ -450,17 +450,17 @@ commercially available
 91
 00:05:27,900 --> 00:05:30,630
 microscopes. And the one on the
-right, is actually providing,
+right, [...]
 
 92
 00:05:30,630 --> 00:05:35,400
-which is the miniscope project
+which is the miniscope project,
 can actually provide something
 
 93
 00:05:35,400 --> 00:05:39,000
 that wasn't available before. So
-before the miniscope, is an open
+before the miniscope, as an open
 
 94
 00:05:39,000 --> 00:05:43,020
@@ -474,13 +474,13 @@ activity with optical imaging.
 
 96
 00:05:48,540 --> 00:05:52,830
-Right. And so, this brings a lot
+This brings a lot
 of innovation, there is a big
 
 97
 00:05:52,830 --> 00:05:57,330
 community around miniscope, just
-to like, pound on the point that
+to pound on the point that
 
 98
 00:05:57,360 --> 00:06:00,900
@@ -499,8 +499,8 @@ it's good for innovation and
 
 101
 00:06:08,040 --> 00:06:13,650
-like speeding up the cycles and
-science and research. So I
+speeding up the cycles and
+science and research. I
 
 102
 00:06:13,650 --> 00:06:15,960
@@ -509,7 +509,7 @@ short. So this is just a slide
 
 103
 00:06:15,960 --> 00:06:20,040
-that hooli made. And I adapted
+that Uli made. And I adapted
 to show why we should use open
 
 104
@@ -519,13 +519,13 @@ mentioned this already, even if
 
 105
 00:06:22,980 --> 00:06:27,900
-like too fast, and giving you a
+too fast, and giving you a
 lot of information. But let's
 
 106
 00:06:27,900 --> 00:06:30,810
-like take again, step by step.
-So because it's reproducible. So
+take again, step by step.
+So because it's reproducible.
 
 107
 00:06:30,810 --> 00:06:34,500
@@ -540,11 +540,11 @@ projects, because it's actually
 109
 00:06:38,190 --> 00:06:41,430
 super fun to learn how somebody
-did something like how the
+did something, like  how the
 
 110
 00:06:41,430 --> 00:06:44,100
-miniscope, this amazing project
+miniscope, this amazing project,
 works, right, I can go into the
 
 111
@@ -565,12 +565,12 @@ experience with people that are
 114
 00:06:55,020 --> 00:06:57,900
 being part of our workshops in
-Africa, they say, look, this is
+Africa, they say: look, this is
 
 115
 00:06:58,740 --> 00:07:01,950
 affordable enough that here in
-our institution, we can like
+our institution, we can
 
 116
 00:07:01,950 --> 00:07:04,620
@@ -605,7 +605,7 @@ or not. Right? Like, Oh, is this
 122
 00:07:21,390 --> 00:07:25,140
 PCR? Or is this image from this
-microscope Really? Well, it's
+microscope Really like it is
 
 123
 00:07:25,140 --> 00:07:28,110
@@ -639,13 +639,13 @@ works on power in the in the
 
 129
 00:07:44,550 --> 00:07:47,910
-wall socket, right. But I needed
-with batteries, because I know
+wall socket. But I need it
+with batteries. Because I know
 
 130
 00:07:47,910 --> 00:07:51,180
-like how it works, I can easily
-say okay, if I change this power
+how it works, I can easily
+say:xd okay, if I change this power
 
 131
 00:07:51,180 --> 00:07:54,000
@@ -684,7 +684,7 @@ inside academia, because you're
 
 138
 00:08:17,490 --> 00:08:21,150
-collecting data with those that
+collecting data with tools that
 you actually know exactly what
 
 139
@@ -694,8 +694,8 @@ say, Look, this is my data. This
 
 140
 00:08:24,180 --> 00:08:28,410
-was how was recorded. And it's,
-it's, it's good data, right? So
+was how it was recorded. And it's,
+ good data, right? So
 
 141
 00:08:28,410 --> 00:08:32,160
@@ -709,7 +709,7 @@ $10,000 piece of microscope.
 143
 00:08:36,990 --> 00:08:40,080
 Luckily for us, there is what
-I'm calling, like the Cambrian
+I'm calling, the Cambrian
 
 144
 00:08:40,080 --> 00:08:43,140
@@ -734,7 +734,7 @@ see this little object on the on
 148
 00:08:52,860 --> 00:08:56,310
 the palm of our hand, this is an
-atomic force microscope. Right?
+atomic force microscope.
 
 149
 00:08:56,310 --> 00:09:00,030
@@ -764,7 +764,7 @@ actually an EKG machine. And
 154
 00:09:15,900 --> 00:09:18,180
 this person actually discovered
-that, like he writes a blog
+that - he writes a blog
 
 155
 00:09:18,180 --> 00:09:20,430
@@ -773,7 +773,7 @@ reference later if somebody
 
 156
 00:09:20,430 --> 00:09:25,350
-wants. But he actually finds
+wants- But he actually finds
 that he has a heart arrhythmia,
 
 157
@@ -788,7 +788,7 @@ this is my data. This is how my
 
 159
 00:09:32,460 --> 00:09:36,540
-heart looks like over a 2424
+heart looks like over a 24/24
 hour period. And there is
 
 160
@@ -804,7 +804,7 @@ about this. But I think it's
 162
 00:09:42,210 --> 00:09:44,880
 interesting that people have the
-empowerment to like know what's
+empowerment to know what's
 
 163
 00:09:44,880 --> 00:09:47,970
@@ -818,13 +818,13 @@ where people are actually making
 
 165
 00:09:52,680 --> 00:09:56,850
-easily monitors and trying to
+insulin monitors and trying to
 make their own insulin because
 
 166
 00:09:56,850 --> 00:10:00,480
-like price surges of insulin in
-the us right now. For instance,
+like price seringe of insulin in
+the US right now. For instance,
 
 167
 00:10:00,480 --> 00:10:03,660
@@ -843,7 +843,7 @@ also empowers people to say, you
 
 170
 00:10:10,350 --> 00:10:12,810
-know what, like, we are not
+know what, we are not
 going to take this nonsense
 
 171
@@ -854,7 +854,7 @@ it our own way. And there are
 172
 00:10:16,650 --> 00:10:19,470
 many, many other projects,
-right, just a little bit of data
+ just a little bit of data
 
 173
 00:10:19,770 --> 00:10:25,290
@@ -874,7 +874,7 @@ like the fraction of papers, as
 176
 00:10:31,830 --> 00:10:34,500
 a percentage of total
-publications from government,
+publications from Pubmed,
 
 177
 00:10:34,800 --> 00:10:40,290
@@ -893,7 +893,7 @@ keywords. Right, so you can see
 
 180
 00:10:48,420 --> 00:10:51,810
-that this is not growing. I
+that this is growing. I
 mean, it's still a tiny, tiny
 
 181
@@ -903,7 +903,7 @@ papers, of course, but what I
 
 182
 00:10:54,810 --> 00:10:59,520
-like here is how fast new new
+like here is how fast new
 papers are coming more and more
 
 183
@@ -914,7 +914,7 @@ interested in this, I would
 184
 00:11:04,830 --> 00:11:07,980
 really recommend taking a look
-at the gorge community, which is
+at the GOSH community, which is
 
 185
 00:11:07,980 --> 00:11:11,070
@@ -923,7 +923,7 @@ community, which is mainly where
 
 186
 00:11:11,250 --> 00:11:14,940
-hooli, Alex and I met. But the
+Uli, Alex and I met. But the
 point that I'd like to make here
 
 187
@@ -954,22 +954,22 @@ document that was done
 192
 00:11:31,140 --> 00:11:34,020
 collectively, as you can see on
-the photo, on the bottom, right,
+the photo, on the bottom, 
 
 193
 00:11:34,020 --> 00:11:36,450
-like this was the voting for
+this was the voting for
 things in the manifesto that we
 
 194
 00:11:36,450 --> 00:11:41,520
-wrote, is like, what is the
+wrote. What is the
 point of the global open science
 
 195
 00:11:41,730 --> 00:11:44,370
 community and what is our
-Manifesto, right. And you can
+Manifesto? And you can
 
 196
 00:11:44,370 --> 00:11:49,050
@@ -978,7 +978,7 @@ And this tries to make sure that
 
 197
 00:11:49,050 --> 00:11:54,480
-this is, is instill keeps going
+this still keeps going
 as a really diverse and
 
 198
@@ -1023,17 +1023,17 @@ also find more information about
 
 206
 00:12:24,120 --> 00:12:27,180
-this. And the idea of this
+this. The idea of this
 program is to take people that
 
 207
 00:12:27,180 --> 00:12:30,420
 are newcomers into open hardware
-and to show them best practices,
+and to show them best practices.
 
 208
 00:12:30,810 --> 00:12:32,970
-right. So you're going to cover
+ So you're going to cover
 a lot of things that are quite
 
 209
@@ -1119,5 +1119,5 @@ happy to chat. And just to say
 225
 00:13:29,250 --> 00:13:32,760
 that here's a list of what I
-think are useful links
+think are useful links.
 
