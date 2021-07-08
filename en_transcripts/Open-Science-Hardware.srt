@@ -1,7 +1,7 @@
 1
 00:00:00,000 --> 00:00:06,570
 Thomas Mboa: My name is Thomas Mboa,
-I'm from Cameron. And my
+I'm from Cameroon. And my
 
 2
 00:00:06,600 --> 00:00:15,840
@@ -11,17 +11,17 @@ specifically molecular biology.
 3
 00:00:15,840 --> 00:00:22,200
 So, I got a bachelor degree on
-molecular biology. And then I, I
+molecular biology. And then I
 
 4
 00:00:22,200 --> 00:00:27,000
 studied science of education.
-And I get, I got my two masters
+And I got my two masters
 
 5
 00:00:27,030 --> 00:00:34,800
 degrees in science of education.
-Then I did my PhD in, in public
+Then I did my PhD in public
 
 6
 00:00:34,800 --> 00:00:42,660
@@ -31,7 +31,7 @@ level in Canada. So during all
 7
 00:00:42,660 --> 00:00:47,280
 my academic courses, I was
-always, always 10 plays by
+always impressed by
 
 8
 00:00:48,180 --> 00:00:55,740
@@ -41,66 +41,66 @@ be shared how information can be
 9
 00:00:55,740 --> 00:01:02,430
 reused. And that is why from
-this end place, I quoted the
+this end place, I got into the
 
 10
 00:01:02,490 --> 00:01:10,020
-open source movement eight years
-ago with fraud ocsd, net open
+open science movement eight years
+ago with ... called ocsd dot net: open
 
 11
 00:01:10,020 --> 00:01:15,870
-and collaborative shells,
-networks. And from OCS is net
+and collaborative science,
+network. And inside OCSD.net
 
 12
 00:01:15,870 --> 00:01:23,100
-founded our project, our project
-was Project Server project to
+founded projects, our project
+was SOHA, a project to
 
 13
 00:01:23,100 --> 00:01:28,530
-promote Open Sans in French, and
+promote Open science in French, and
 in French speaking, African
 
 14
 00:01:28,530 --> 00:01:36,780
-countries and 80. So that is how
-I wind my network crew
+countries and Haiti. So that is how
+I wind my network grow
 
 15
 00:01:36,780 --> 00:01:45,150
 organization working in on open
-access, open at wi n, any kind
+access, open hardware, any kind
 
 16
 00:01:45,150 --> 00:01:53,070
-of openness, open, or any kind
+of openness, or any kind
 of dimension related to open
 
 17
 00:01:53,070 --> 00:02:00,210
-science. And luckily, I read so
+science. And locally, I read so
 many sketches like the
 
 18
 00:02:00,210 --> 00:02:08,850
-decolonial library, renewal and
-the world. Today, I will spend
+decolonial library, of Dominique Mvogo.
+Today, I will spend
 
 19
 00:02:08,850 --> 00:02:13,590
-more time on the one with the
+more time on MBOA lab, the
 maker movement. But I want also
 
 20
 00:02:13,590 --> 00:02:18,120
-to turn that around shesha. I'm
+to tell that I am a researcher. I'm
 doing research action, because
 
 21
 00:02:18,120 --> 00:02:22,500
-I'm also the neck lecturer at
+I'm also a lecturer at
 the advanced School of mass
 
 22
@@ -116,12 +116,12 @@ what is related to scholarly
 24
 00:02:33,720 --> 00:02:41,040
 communication. So that is, that
-is me. So don't worry. I found
+is me. So don't worry. MBOA lab,
 
 25
 00:02:41,040 --> 00:02:50,490
-that the one in 2018 and is a
-kind of reification of my thesis
+I funded the MBOAlab in 2018 and is a
+kind of reification of my thesis,
 
 26
 00:02:50,490 --> 00:02:54,660
@@ -130,27 +130,27 @@ maker movement and the technical
 
 27
 00:02:54,660 --> 00:03:00,240
-reality in French African
-countries. So, the Mwana is a
+coloniality in French African
+countries. So, the MBOAlab is a
 
 28
 00:03:00,240 --> 00:03:07,200
 kind of concrete realization of
-what I learned from the one app
+what I learned from the MBOAlab
 
 29
 00:03:07,200 --> 00:03:13,290
-and the one app is specialized
+and the MBOAlab is specialized
 on biotechnology due to my
 
 30
 00:03:13,290 --> 00:03:20,190
 background in in biochemistry.
-So, what we are doing the one
+So, what we are doing at the MBOAlab
 
 31
 00:03:20,190 --> 00:03:26,850
-that we have like related to
+we have, related to
 public health and biotechnology,
 
 32
@@ -160,18 +160,18 @@ can you hear me Yeah. Thank you.
 
 33
 00:03:39,570 --> 00:03:45,570
-So, we have like three men
+So, we have like three main
 activity related to public
 
 34
 00:03:45,570 --> 00:03:48,990
 health. So, the first one is a
-very complex one local
+very complex: local
 
 35
 00:03:48,990 --> 00:03:55,860
 production of enzyme reagents.
-So that is a high level of of
+So that is a high level of
 
 36
 00:03:57,150 --> 00:04:03,480
@@ -180,8 +180,8 @@ and what we are doing, we are
 
 37
 00:04:03,480 --> 00:04:08,130
-put here seeing as I'm looking
-at it because when I stopped my
+put here seeing as I'm locally
+at it because when I started my
 
 38
 00:04:08,130 --> 00:04:12,870
@@ -191,21 +191,21 @@ ago, it was mostly because I was
 39
 00:04:12,870 --> 00:04:17,100
 impressed by molecular biology,
-but they told us that we cannot
+but also beacause that we cannot
 
 40
 00:04:17,100 --> 00:04:21,270
-do it from Cameroon from now
-because equipment operation as
+do it from Cameroon
+because equipment and reagents are
 
 41
 00:04:21,270 --> 00:04:26,340
 so expensive. So, when I are
-going to open says moving
+going to open science movement
 
 42
 00:04:26,400 --> 00:04:30,750
-movement, I realized that true
+movement, I realized that though
 openness, there is a lot of
 
 43
@@ -216,7 +216,7 @@ of barriers of place and in my
 44
 00:04:37,740 --> 00:04:42,570
 past that I can overcome and
-help a new generation generation
+help a new generation
 
 45
 00:04:42,570 --> 00:04:48,000
@@ -225,23 +225,23 @@ to succeed in molecular biology.
 
 46
 00:04:48,000 --> 00:04:52,830
-So we are producing an enzyme
+So we are producing enzymes
 for Molecular Biology and
 
 47
 00:04:53,040 --> 00:04:58,290
-currently we are so we are
-sending the those anzai in
+currently we are selling
+ those enzymes in
 
 48
 00:04:58,290 --> 00:05:04,920
-Cameroon I in India That way we
-have some collaborators of every
+Cameroon and in Gana where we
+have some collaborators. And everywhere
 
 49
 00:05:04,920 --> 00:05:12,390
-way in Santander, Africa when
-someone need answered. So, that
+ in Central Africa when
+someone need enzymes. So, that
 
 50
 00:05:12,390 --> 00:05:19,080
@@ -250,13 +250,13 @@ biology part of our work we are
 
 51
 00:05:19,080 --> 00:05:25,830
-doing in the Adam one lab. And
+doing at the MBOAlab. And
 the second thing is local
 
 52
 00:05:25,830 --> 00:05:33,300
 hardware manufacturing, because
-one thing that advocating for is
+one thing that I am advocating for is
 
 53
 00:05:33,330 --> 00:05:37,590
@@ -266,21 +266,20 @@ need in terms of openness, we
 54
 00:05:37,590 --> 00:05:44,160
 don't need to work with black
-box, we need to be able to fix
+boxes, we need to be able to fix
 
 55
 00:05:44,850 --> 00:05:49,140
-all equipment, if they are
+our own equipment, if they are
 broken, and we need to
 
 56
 00:05:49,170 --> 00:05:53,790
 understand the process from the
 beginning to the end, how such
-
 57
 00:05:53,820 --> 00:06:01,320
-equipment will so that is why
+equipment work. So that is why
 also we are working with some of
 
 58
@@ -295,7 +294,7 @@ natural articles talking about
 
 60
 00:06:16,860 --> 00:06:22,260
-all the work we are doing at one
+all the work we are doing at MBOAlab
 of our third activities,
 
 61
@@ -320,23 +319,23 @@ what we are doing. So we are
 
 65
 00:06:45,900 --> 00:06:49,920
-teaching we used to we are
+teaching we used, to we are
 working with local university.
 
 66
 00:06:50,280 --> 00:06:56,250
 So used to post Intel we need we
-used to train them through a
+used to train them through 
 
 67
 00:06:56,250 --> 00:07:05,220
-workshop. And but it's not easy,
+workshops. And but it's not easy,
 because we have some challenges
 
 68
 00:07:05,280 --> 00:07:11,760
-and founding foundings the first
-one because we are defending of
+and funding is the first
+one because we are depending of
 
 69
 00:07:12,300 --> 00:07:19,500
@@ -345,7 +344,7 @@ sometime. And the there is a
 
 70
 00:07:19,500 --> 00:07:26,280
-kind of lack of lack of local
+kind of lack of local
 awareness and support. So we are
 
 71
@@ -360,33 +359,33 @@ language barriers, I'm sure that
 
 73
 00:07:38,760 --> 00:07:42,240
-you understood that I'm not
+you understood that I'm not,
 English is not my primary
 
 74
 00:07:42,240 --> 00:07:50,670
-language that I have. French is
-my I have I don't own my studies
+language that I have. French is.
+ I have done all my studies
 
 75
 00:07:50,700 --> 00:07:54,420
-or my school in French. So
-French, if I can see even if the
+in my school in French. So
+French, if I can say, even if the
 
 76
 00:07:54,450 --> 00:07:58,710
-two language colonial language
-for us, but French is I'm free
+two language are colonial languages
+for us, but French.. I am fluent
 
 77
 00:07:58,710 --> 00:08:02,940
-and influential on learning
+in French more than in
 English, so that sometimes also
 
 78
 00:08:02,940 --> 00:08:12,300
-it can be a barrier for for us.
-And we we don't have the the
+it can be a barrier for us.
+And we don't have the
 
 79
 00:08:12,330 --> 00:08:16,470
@@ -401,7 +400,7 @@ very difficult, but through the
 81
 00:08:21,300 --> 00:08:26,850
 good vibes we have and the good
-collaboration, we have an
+collaboration we have at an
 
 82
 00:08:26,850 --> 00:08:31,440
@@ -430,8 +429,8 @@ volunteer and intern but here is
 
 87
 00:08:53,670 --> 00:08:58,320
-the five permanent often when
-I'm doing all the magics and the
+the five permanents that are
+ doing all the magics and the
 
 88
 00:08:58,320 --> 00:09:05,100
