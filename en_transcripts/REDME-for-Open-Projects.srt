@@ -1,12 +1,12 @@
 1
 00:00:00,240 --> 00:00:06,390
 Carlos Martinez: Okay, so, Amy, I think
-you're quite close to answered
+you're quite close to Amsterdam
 
 2
 00:00:06,390 --> 00:00:12,390
-on Science Park, right? Yes.
-Yeah. I think that if you go to,
+Science Park, right? Amy: Yes, I am.
+Carlos Martinez: I think that if you go to,
 
 3
 00:00:12,690 --> 00:00:15,870
@@ -24,18 +24,18 @@ the canal for a bit, and then
 
 6
 00:00:22,379 --> 00:00:25,799
-you go through waste, which is
+you go through Weesp, which is
 quite nice. And then you can
 
 7
 00:00:25,829 --> 00:00:30,059
-cycle all the way to Buddhism.
+cycle all the way to Bussum.
 So we did this one last summer.
 
 8
 00:00:30,149 --> 00:00:33,539
 And it is actually quite nice
-because person is like,
+because Bussum is like,
 
 9
 00:00:33,989 --> 00:00:37,919
@@ -100,7 +100,7 @@ to be telling you in the next
 21
 00:01:26,249 --> 00:01:31,829
 five to 10 minutes. So I
-deliberately asked me to help me
+deliberately asked Amy to help me
 
 22
 00:01:31,829 --> 00:01:35,849
@@ -200,7 +200,7 @@ the basically, that's the moment
 41
 00:02:57,359 --> 00:03:03,719
 where people meet your project.
-And that's either de ledger
+And that's either they like
 
 42
 00:03:03,719 --> 00:03:06,239
@@ -210,7 +210,7 @@ project, either they will use
 43
 00:03:06,239 --> 00:03:09,449
 your software or they will not
-use your software. But a readme
+use your software. But a README
 
 44
 00:03:09,449 --> 00:03:12,119
@@ -229,8 +229,8 @@ presentation card. So that's why
 
 47
 00:03:20,639 --> 00:03:26,819
-the readmes are very important.
-Usually readmes in GitHub, you
+the README are very important.
+Usually README in GitHub, you
 
 48
 00:03:27,059 --> 00:03:30,869
@@ -244,7 +244,7 @@ capitals, or README. Mark, you
 
 50
 00:03:36,419 --> 00:03:41,699
-can use markdown on readmes, as
+can use markdown on README, as
 well. And that's the first page
 
 51
@@ -343,7 +343,7 @@ software, or if this is the
 
 70
 00:05:07,200 --> 00:05:11,640
-the readme for a project, and
+the README for a project, and
 you have a website, maybe you
 
 71
@@ -428,17 +428,17 @@ thing that could be worse is to
 
 87
 00:06:24,210 --> 00:06:32,610
-not have a readme file at all.
+not have a README file at all.
 Now, a good example, this is the
 
 88
 00:06:32,640 --> 00:06:37,890
-readme file from the Turing way.
-These tells you what this during
+README file from the Turing Way.
+These tells you what is The Turing
 
 89
 00:06:37,890 --> 00:06:42,960
-way, it tells you that these
+Way, it tells you that it's a
 lightly opinionated guide, and
 
 90
@@ -454,16 +454,16 @@ find the the guide and in a
 92
 00:06:54,060 --> 00:06:58,920
 readable format, or not in the
-readme file format. So you can
+README file format. So you can
 
 93
 00:06:58,920 --> 00:07:03,690
-go to during wave netlify.com.
+go to the-turing-way.netlify.app
 So it's telling you what it
 
 94
 00:07:03,690 --> 00:07:11,670
-does, who is it aim 4.22 to
+does, who is it aim for and point you to
 useful resources. And one thing
 
 95
@@ -474,7 +474,7 @@ points you to README file in
 96
 00:07:14,520 --> 00:07:18,210
 different languages. So that's a
-really nice example of a readme
+really nice example of a REAME
 
 97
 00:07:18,210 --> 00:07:26,130
@@ -568,8 +568,8 @@ places your README gets like
 
 115
 00:08:47,250 --> 00:08:55,380
-harvested by Docker hub or by pi
-by and your README ends up in
+harvested by Docker hub or by PyPy
+and your README ends up in
 
 116
 00:08:55,440 --> 00:08:59,910
@@ -589,7 +589,7 @@ useful to think, how is your How
 119
 00:09:11,610 --> 00:09:16,260
 are your readers going to read
-the readme? So try to always
+the README? So try to always
 
 120
 00:09:17,130 --> 00:09:21,180
