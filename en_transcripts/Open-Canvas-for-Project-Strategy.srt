@@ -46,7 +46,7 @@ focusing really specifically on
 10
 00:00:31,890 --> 00:00:34,530
 the design elements. If you
-recall, my Vika was talking
+recall Malvika was talking
 
 11
 00:00:34,530 --> 00:00:37,800
@@ -75,7 +75,7 @@ we'll see quite often as we're
 
 16
 00:00:51,570 --> 00:00:56,130
-working through, lls. And so
+working through, ols. And so
 this time, we're talking about
 
 17
@@ -121,7 +121,7 @@ you're doing and where you're
 25
 00:01:23,340 --> 00:01:27,300
 going and why. So we're going to
-actually drill into what each of
+actually drill in what each of
 
 26
 00:01:27,300 --> 00:01:32,310
@@ -210,7 +210,7 @@ what is the problem that you're
 
 43
 00:02:20,910 --> 00:02:25,260
-trying to solve? So for lls, for
+trying to solve? So for ols, for
 example, the problem that we are
 
 44
@@ -225,7 +225,7 @@ something that's easy. You can't
 
 46
 00:02:32,310 --> 00:02:35,280
-just spring folly form and know
+just bring it fully formed  and not know
 how to show share your work in
 
 47
@@ -266,7 +266,7 @@ this? So once again, for lls
 54
 00:03:02,880 --> 00:03:08,490
 this might be and doesn't have
-to be one example could be LS is
+to be one example could be OLS is
 
 55
 00:03:08,730 --> 00:03:11,820
@@ -275,8 +275,8 @@ participated in the program. So
 
 56
 00:03:11,850 --> 00:03:15,600
-in our last one, we had about 20
-projects, and in our LS three,
+in OLS2, we had about 20
+projects, and in our OLS3,
 
 57
 00:03:16,020 --> 00:03:20,040
@@ -366,7 +366,7 @@ what they might look like. So
 74
 00:04:15,150 --> 00:04:18,870
 again, if I'm thinking about
-wireless, for example, then some
+OLS, for example, then some
 
 75
 00:04:18,870 --> 00:04:22,110
@@ -416,7 +416,7 @@ users of people actually use
 84
 00:04:49,500 --> 00:04:53,970
 what you've built. And so for
-rlf, the user profile would be
+OLS, the user profile would be
 
 85
 00:04:54,000 --> 00:04:56,820
@@ -441,7 +441,7 @@ can we gain them? So for
 89
 00:05:08,760 --> 00:05:12,540
 example, for us to get
-contributors for our LMS, a lot
+contributors for OLS, a lot
 
 90
 00:05:12,540 --> 00:05:14,880
@@ -506,7 +506,7 @@ but not necessarily as a
 102
 00:05:51,210 --> 00:05:56,400
 contribution. So gaining new
-users, for less, I think a lot
+users, for OLS, I think a lot
 
 103
 00:05:56,400 --> 00:06:00,450
@@ -580,7 +580,7 @@ tried to think what this will be
 
 117
 00:06:51,630 --> 00:06:56,010
-for rlf. Probably something
+for OLS. Probably something
 about the fact that we are
 
 118
