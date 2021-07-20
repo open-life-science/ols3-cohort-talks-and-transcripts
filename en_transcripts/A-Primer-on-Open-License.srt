@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:04,620
-Yo Yehudi: Hello. So hi, I'm here
+Hao Ye: Hello. So hi, I'm here
 to talk to you very briefly
 
 2
@@ -10,17 +10,17 @@ that I'm sharing are shared with
 
 3
 00:00:10,860 --> 00:00:15,690
-a creative commons by license,
+a creative commons BY license,
 developed by open life science
 
 4
 00:00:15,690 --> 00:00:20,370
 and then modified by me, I am
-not a lawyer, I only play one
+not a lawyer, I only played one
 
 5
 00:00:20,400 --> 00:00:26,850
-one playing board games. Okay,
+on board games. Okay,
 so a little bit about me, I am
 
 6
@@ -31,12 +31,12 @@ the Health Science Center
 7
 00:00:29,940 --> 00:00:33,690
 libraries at the University of
-Florida. My pronouns are he him
+Florida. My pronouns are he/his
 
 8
 00:00:33,690 --> 00:00:37,830
-his and my Twitter handle is how
-and why do you feel free to
+and my Twitter handle is 
+@how_and_Y, do feel free to
 
 9
 00:00:37,830 --> 00:00:40,920
@@ -110,7 +110,7 @@ intent behind all of this, the
 
 23
 00:01:49,140 --> 00:01:52,680
-open leadership framework talks
+open leadership framework which talks
 about open leaders, as designing
 
 24
@@ -311,7 +311,7 @@ include attribution. So a lot of
 63
 00:04:50,670 --> 00:04:56,250
 the open licenses that are in
-use gela require that if the
+use generally require that if the
 
 64
 00:04:56,250 --> 00:05:00,300
@@ -511,7 +511,7 @@ worms. So I'll just say if you
 103
 00:07:57,810 --> 00:08:01,890
 are writing software, and you
-have a plan to patch the
+have a plan to patant the
 
 104
 00:08:01,890 --> 00:08:06,930
@@ -606,7 +606,7 @@ is relevant. And so ways that
 122
 00:09:29,820 --> 00:09:33,990
 you can add a license to your
-project and GitHub, if you are
+project in GitHub, if you are
 
 123
 00:09:33,990 --> 00:09:38,040
@@ -734,7 +734,7 @@ learn more about this very
 
 148
 00:11:22,590 --> 00:11:29,910
-complex legal Lee's topic in
+complex legal topic in
 detail. But I will just sum up
 
 149
