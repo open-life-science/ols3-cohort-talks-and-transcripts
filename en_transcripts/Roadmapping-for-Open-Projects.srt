@@ -199,7 +199,7 @@ your roadmap, without you know,
 
 41
 00:02:54,750 --> 00:02:57,900
-any contracts or any prior
+any contacts or any prior
 understandings, you really have
 
 42
@@ -245,12 +245,12 @@ might want to make that quite
 50
 00:03:29,550 --> 00:03:32,520
 welcoming in your own style, as
-well. So so you know, you can
+well. So you know, you can
 
 51
 00:03:32,520 --> 00:03:38,940
 put emojis, for example, that I
-like, but you have. The next
+like, but you have your own choice. The next
 
 52
 00:03:38,940 --> 00:03:44,970
@@ -330,7 +330,7 @@ points or events that will help
 67
 00:04:47,820 --> 00:04:52,740
 move the project forwards. So
-typically, these are there could
+typically, these are - there could
 
 68
 00:04:52,740 --> 00:04:56,370
@@ -395,7 +395,7 @@ think about this for your own
 80
 00:05:38,100 --> 00:05:43,830
 projects, discuss this with your
-mentor, and pick 123 milestones
+mentor, and pick 1-2-3 milestones
 
 81
 00:05:43,830 --> 00:05:50,220
@@ -485,7 +485,7 @@ and MD, and you will, you can
 98
 00:07:03,210 --> 00:07:07,410
 put your roadmap there, you can
-put it in a readme file, again,
+put it in a README file, again,
 
 99
 00:07:07,410 --> 00:07:10,050
@@ -530,11 +530,11 @@ So let's look at one example.
 107
 00:07:41,760 --> 00:07:46,110
 This was very nicely done,
-Barbara nice, I think when all
+I think when OLS1 happened
 
 108
 00:07:46,110 --> 00:07:49,830
-this one happened. That's a
+That's the
 roadmap for collecting
 
 109
