@@ -15,7 +15,7 @@ license, choose the license, add
 
 4
 00:00:12,029 --> 00:00:16,049
-a readme. So you're choosing a
+a README. So you're choosing a
 license so people know how to
 
 5
@@ -86,12 +86,12 @@ and open projects give you a
 18
 00:01:05,579 --> 00:01:09,719
 practical example of how a
-contributing.md file looks like.
+CONTRIBUTING.md file looks like.
 
 19
 00:01:09,749 --> 00:01:12,599
 But it doesn't need to be called
-contributing.md. If you're not
+CONTRIBUTING.md. If you're not
 
 20
 00:01:12,599 --> 00:01:16,079
@@ -125,7 +125,7 @@ know, someone asked me if the
 
 26
 00:01:35,549 --> 00:01:39,479
-Cat Cat picture is used, I think
+Cat picture is used, I think
 it has become our mascot. And
 
 27
@@ -141,7 +141,7 @@ about cats. So I'm Malvika
 29
 00:01:47,219 --> 00:01:49,889
 Sharan, I am the community
-manager of the during rate,
+manager of The Turing Way,
 
 30
 00:01:49,919 --> 00:01:55,199
@@ -156,7 +156,7 @@ because a lot of ideas that I'm
 32
 00:01:58,109 --> 00:02:01,979
 going to talk about comes from
-Lily Winfrey. And I definitely
+Lilly Winfree. And I definitely
 
 33
 00:02:02,009 --> 00:02:06,929
@@ -236,7 +236,7 @@ should look like. Therefore you
 48
 00:03:00,239 --> 00:03:03,059
 need to make conscious decision
-when you're writing a readme
+when you're writing a README
 
 49
 00:03:03,059 --> 00:03:06,419
@@ -465,7 +465,7 @@ GitHub, you can go and write
 94
 00:05:53,550 --> 00:05:56,580
 issues that a lot of you have
-created in oil s3, you've
+created in OLS3, you've
 
 95
 00:05:56,580 --> 00:05:59,760
@@ -475,7 +475,7 @@ become actually a contributor of
 96
 00:05:59,760 --> 00:06:03,870
 that repository. And this is a
-picture from the touring way,
+picture from The Turing Way,
 
 97
 00:06:03,870 --> 00:06:06,510
@@ -695,12 +695,12 @@ individual project, party or
 140
 00:08:38,970 --> 00:08:43,170
 organization. It's commonly
-abbreviated as C OC. So
+abbreviated as CoC. So
 
 141
 00:08:43,170 --> 00:08:46,890
 generally, I would probably just
-randomly say C OC, but that
+randomly say CoC, but that
 
 142
 00:08:46,890 --> 00:08:50,580
@@ -709,8 +709,8 @@ conduct. Do you really need to
 
 143
 00:08:50,580 --> 00:08:54,420
-see your C? Yes, you do need to
-see it invites people to your
+CoC? Yes, you do need to
+CoC to invites people to your
 
 144
 00:08:54,420 --> 00:08:57,060
@@ -724,7 +724,7 @@ care about your community. Often
 
 146
 00:09:01,050 --> 00:09:05,550
-the misconception is that CLC is
+the misconception is that CoC is
 a policy that is making people
 
 147
@@ -734,7 +734,7 @@ will be there will be
 
 148
 00:09:08,310 --> 00:09:12,750
-consequences. But honestly, CLC
+consequences. But honestly, CoC
 is setting tone for your
 
 149
