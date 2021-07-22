@@ -30,7 +30,7 @@ need the proper tools to do it,
 
 7
 00:00:19,650 --> 00:00:24,210
-right? Malik already introduced
+right? Malvika already introduced
 me, but Hello from my side. So
 
 8
@@ -162,7 +162,7 @@ because although we really like
 00:01:55,380 --> 00:01:57,630
 to romanticize things about
 science in the end, we
-,
+
 34
 00:01:57,630 --> 00:02:04,080
 still need to pay for things.
@@ -645,7 +645,7 @@ with batteries. Because I know
 130
 00:07:47,910 --> 00:07:51,180
 how it works, I can easily
-say:xd okay, if I change this power
+say okay, if I change this power
 
 131
 00:07:51,180 --> 00:07:54,000
@@ -759,7 +759,7 @@ there is somebody holding a
 153
 00:09:12,360 --> 00:09:15,900
 little whiteboard, this is
-actually an EKG machine. And
+actually an ECG machine. And
 
 154
 00:09:15,900 --> 00:09:18,180
