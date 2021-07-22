@@ -156,7 +156,7 @@ actually access it by yourself,
 32
 00:02:15,840 --> 00:02:21,120
 you would have to go through the
-author. And a study by vines and
+author. And a study by Vines and
 
 33
 00:02:21,120 --> 00:02:25,560
@@ -206,7 +206,7 @@ That's why we have data
 42
 00:03:01,050 --> 00:03:09,090
 repositories. What is also not
-open data is fair data. So this
+open data is FAIR data. So this
 
 43
 00:03:09,090 --> 00:03:12,690
@@ -270,7 +270,7 @@ actually what's accessible in
 
 55
 00:04:02,430 --> 00:04:05,910
-the word fair is about
+the word FAIR is about
 accessible means that there's a
 
 56
@@ -351,7 +351,7 @@ mentioned for software. But the
 71
 00:05:13,350 --> 00:05:17,970
 same goes for data, you can set
-up a readme file, and I put put
+up a README file, and I put put
 
 72
 00:05:17,970 --> 00:05:23,190
@@ -375,7 +375,7 @@ elaborate in comparison to the
 
 76
 00:05:35,250 --> 00:05:38,670
-readme file. But it's also very
+README file. But it's also very
 good practice to document your
 
 77
@@ -480,7 +480,7 @@ have that license. I'm getting
 
 97
 00:07:10,740 --> 00:07:15,000
-distracted by I'm not looking at
+distracted by the chat, I'm not looking at
 that right now. Sorry, we'll get
 
 98
@@ -681,7 +681,7 @@ And if you want to learn more
 137
 00:10:08,400 --> 00:10:13,080
 about that, there's the data
-equity framework by we'll count.
+equity framework by We All Count.
 
 138
 00:10:13,830 --> 00:10:18,810
@@ -691,11 +691,11 @@ justice talk story, which I
 139
 00:10:18,810 --> 00:10:24,480
 recommend and a book on data
-feminism by Catherine de Ignacio
+feminism by Catherine D'Ignacio
 
 140
 00:10:24,510 --> 00:10:28,590
-and Lau and clay. So they go a
+and Lauren Klein. So they go a
 little bit more into the topic
 
 141
@@ -706,11 +706,11 @@ everyone can participate. And
 142
 00:10:34,500 --> 00:10:38,310
 then I also listed some
-additional resources. bola
+additional resources. Paula
 
 143
 00:10:38,310 --> 00:10:41,640
-Anthony Martinez gave a similar
+Andrea Martinez gave a similar
 presentation to this one last
 
 144
@@ -756,7 +756,7 @@ really practical stuff, as well
 152
 00:11:15,840 --> 00:11:20,460
 in terms of data sharing, of
-course, during way, already been
+course, The Turing Way, already been
 
 153
 00:11:20,460 --> 00:11:23,880
@@ -791,7 +791,7 @@ things, I listed two blocks 10
 159
 00:11:43,980 --> 00:11:47,670
 arguments against open science
-that you can win by morphicon.
+that you can win by Malvika.
 
 160
 00:11:48,240 --> 00:11:52,410
