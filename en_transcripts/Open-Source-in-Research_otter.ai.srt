@@ -11,11 +11,11 @@ now I'm currently employed by
 3
 00:00:05,130 --> 00:00:07,620
 the hospice Medical Center and
-the advanced folks who can
+the Avans Hogeschool in
 
 4
 00:00:07,620 --> 00:00:10,890
-greater. And I'm here to tell
+Breda. And I'm here to tell
 you a little bit about open
 
 5
@@ -40,7 +40,7 @@ So you can many of us remember
 
 9
 00:00:26,490 --> 00:00:29,550
-free were on the internet from
+freeware on the internet from
 when we were younger. This is
 
 10
@@ -81,12 +81,12 @@ these two is often known as free
 17
 00:00:52,110 --> 00:00:55,680
 and open source software, or
-floss free slash library, open
+FOSS Free and open-source software
 
 18
 00:00:55,680 --> 00:00:58,800
-source software. And this just
-refers to off software there's
+And this just
+refers to software that's
 
 19
 00:00:58,800 --> 00:01:03,750
@@ -285,18 +285,18 @@ up on their own system. Things
 
 58
 00:03:17,880 --> 00:03:21,240
-like Aleksey so I'm of course
+like Galaxy so I'm of course
 very biased here, and we'll talk
 
 59
 00:03:21,240 --> 00:03:25,980
-a lot about galaxy. But in the
-galaxy community, we can give a
+a lot about Galaxy. But in the
+Galaxy community, we can give a
 
 60
 00:03:26,010 --> 00:03:29,910
 huge platform of you know,
-unused galaxy, you 30,000 users
+unused Galaxy, you 30,000 users
 
 61
 00:03:29,910 --> 00:03:33,570
@@ -380,7 +380,7 @@ think everyone here is familiar
 
 77
 00:04:27,270 --> 00:04:31,260
-with, thanks to LS is a little
+with, thanks to OLS is a little
 license icon on the right hand
 
 78
@@ -615,7 +615,7 @@ GitHub, likewise, is one of the
 
 124
 00:07:10,559 --> 00:07:15,389
-most common good hosts. But
+most common git hosts. But
 there are others depends on what
 
 125
@@ -716,12 +716,12 @@ source, it needs a license file.
 144
 00:08:21,239 --> 00:08:24,599
 So it takes two minutes
-satellite essence with GitHub,
+to add a license to GitHub,
 
 145
 00:08:24,599 --> 00:08:29,009
 it's really easy just doing same
-thing tributing guide, GitHub
+thing with the contributing guide, GitHub
 
 146
 00:08:29,009 --> 00:08:31,829
@@ -775,7 +775,7 @@ A Code of Conduct assumptions
 
 156
 00:09:04,049 --> 00:09:07,169
-you've learned from MLS is very
+you've learned from OLS is very
 important thing. Contact and
 
 157
@@ -786,11 +786,11 @@ well. If you have a GitHub
 158
 00:09:09,809 --> 00:09:14,069
 repository, you can easily get
-those from Sunoco and figshare.
+those from Zenodo and Figshare.
 
 159
 00:09:14,609 --> 00:09:17,429
-If you need to do I, there's a
+If you need a DOI, there's a
 nice website for how to choose a
 
 160
