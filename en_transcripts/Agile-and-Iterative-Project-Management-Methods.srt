@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:03,900
-Carlos Martinez: Hi, everyone. So first
+Renato Alves: Hi, everyone. So first
 of all, let me just open this by
 
 2
@@ -25,7 +25,7 @@ So first of all, what is
 
 6
 00:00:21,780 --> 00:00:25,950
-ajl? So AJ was a bit of a
+agile? So agile was a bit of a
 principle or a framework to to
 
 7
@@ -104,7 +104,7 @@ client. And so as you can kind
 22
 00:01:23,730 --> 00:01:27,960
 of, you can kind of see from
-from just the ajl software
+from just the agile software
 
 23
 00:01:28,170 --> 00:01:30,720
@@ -123,7 +123,7 @@ striking point, and the reason
 
 26
 00:01:39,330 --> 00:01:44,310
-why it's called a jail is is in
+why it's called agile is is in
 part because of this. Want, I
 
 27
@@ -168,7 +168,7 @@ name to, to the movement or to
 
 36
 00:02:13,020 --> 00:02:18,750
-the framework, and a trial in
+the framework, and agile in
 the sense of being very fast and
 
 37
@@ -311,7 +311,7 @@ to accomplish. In the case of
 
 65
 00:04:05,730 --> 00:04:09,540
-your or less project, it can be
+your OLS project, it can be
 a milestone, for instance, you
 
 66
@@ -389,7 +389,7 @@ So I mentioned breaking down
 
 81
 00:05:08,190 --> 00:05:12,660
-things into tasks and smart and
+things into tasks and
 milestones and so on. And I
 
 82
