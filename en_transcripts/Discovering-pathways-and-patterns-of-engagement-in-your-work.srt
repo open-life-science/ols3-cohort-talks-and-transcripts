@@ -6,7 +6,7 @@ engagement, this technique is
 2
 00:00:02,520 --> 00:00:07,140
 introduced to me by our very own
-malvika. And I've since used it
+Malvika. And I've since used it
 
 3
 00:00:07,140 --> 00:00:10,350
@@ -20,7 +20,7 @@ community engagement and
 
 5
 00:00:13,440 --> 00:00:20,550
-pathways that an elder also
+pathways that Anelda also
 mentioned already. So I hope and
 
 6
@@ -230,7 +230,7 @@ please approach any of us
 
 47
 00:02:50,040 --> 00:02:53,550
-malvika, yo, Bernice and myself,
+Malvika, Yo, Bernice and myself,
 and probably others in the
 
 48
@@ -241,7 +241,7 @@ familiar with this technique.
 49
 00:02:57,930 --> 00:03:03,270
 Some sense. So I'm handing over
-to Vera. Nice to talk about
+to Bernice to talk about
 
 50
 00:03:03,300 --> 00:03:05,700
@@ -250,8 +250,8 @@ projects.
 
 51
 00:03:06,299 --> 00:03:11,579
-Okay, thanks. So I will be also
-short tried to be short. So
+Bernice: Okay, thanks. So I will 
+be also try to be short. So
 
 52
 00:03:11,579 --> 00:03:15,089
@@ -270,7 +270,7 @@ then we're going to discuss
 
 55
 00:03:26,159 --> 00:03:32,219
-about so got the pathway here is
+about the pathway here is
 more on the mentorship side. So
 
 56
@@ -280,7 +280,7 @@ contributors to build the
 
 57
 00:03:36,269 --> 00:03:40,049
-pathways through their pores
+pathways through their roles
 through your project, from the
 
 58
@@ -301,11 +301,11 @@ you need to document your
 61
 00:03:55,169 --> 00:03:59,189
 project to learn about README,
-contributing. Five, the Code of
+CONTRIBUTING.md, CODE_OF_CONDUCT.md
 
 62
 00:03:59,189 --> 00:04:02,789
-Conduct license one map are
+LICENSE.md and roadmap are
 really good to have particular
 
 63
@@ -330,22 +330,22 @@ repository, share with GitHub or
 
 67
 00:04:16,319 --> 00:04:21,989
-Git lab repository or any other
-to say which which issue shoe
+GitLab repository or any other
+to say which which issue 
 
 68
 00:04:21,989 --> 00:04:25,949
-could be easily certified by new
+could be easily solved by new
 contributors. So you can like
 
 69
 00:04:25,979 --> 00:04:30,419
 label them newcomer friendly, I
-pointed first time only first
+pointed first timer only
 
 70
 00:04:30,419 --> 00:04:37,079
-timer only to be sure that this
+to be sure that this
 issue are done by people that
 
 71
@@ -360,7 +360,7 @@ organize collaboration events,
 
 73
 00:04:44,669 --> 00:04:48,359
-so or co fest where other people
+so or co-fest where other people
 can come and learn how to
 
 74
@@ -376,7 +376,7 @@ good also is to when you have
 76
 00:04:57,959 --> 00:05:01,169
 new contributions is monitoring
-your code tribution. So when
+your contributers. So when
 
 77
 00:05:01,169 --> 00:05:05,129
@@ -421,7 +421,7 @@ manually for each of the
 85
 00:05:31,499 --> 00:05:34,679
 contribution, but you have also
-some waken votes that you can
+some welcome-bots that you can
 
 86
 00:05:35,759 --> 00:05:39,269
@@ -450,8 +450,8 @@ And once they're contributed or
 
 91
 00:05:57,599 --> 00:06:01,499
-submitting pull requests, or
-GitHub or on GitHub, thank them
+submitting pull requests, in
+GitHub, thank them
 
 92
 00:06:01,499 --> 00:06:04,949
@@ -485,7 +485,7 @@ what they have done guide them,
 
 98
 00:06:26,159 --> 00:06:30,869
-I like to work on your project.
+Highlight their work on your project.
 So put them on GitHub or social
 
 99
@@ -506,7 +506,7 @@ more I mean, small mistakes or
 102
 00:06:43,019 --> 00:06:49,439
 small out to say, yeah, small
-things, buying them to a good
+things, point them to a good
 
 103
 00:06:49,469 --> 00:06:54,389
@@ -531,12 +531,12 @@ more and more your contributors.
 107
 00:07:07,619 --> 00:07:11,159
 So being available, what are the
-time that what are much time
+time they
 
 108
 00:07:11,159 --> 00:07:15,269
-they have an hour they want to
-you can you need to learn from
+want to use to contribute, 
+you need to learn from
 
 109
 00:07:15,269 --> 00:07:19,109
@@ -624,13 +624,13 @@ provides structure through the
 
 126
 00:08:16,470 --> 00:08:20,490
-review process and grage
-constantly them and prove and
+review process and encourage them
+and provide or 
 
 127
 00:08:20,490 --> 00:08:25,710
 give them some more and more
-leadership's then and model best
+leadership's roles and model best
 
 128
 00:08:25,710 --> 00:08:30,210
@@ -639,7 +639,7 @@ questions. So either an issue
 
 129
 00:08:30,210 --> 00:08:33,690
-you can start modeling today.
+you can start monitoring today.
 And do you need to set up a chat
 
 130
@@ -674,21 +674,21 @@ and get more people there.
 
 136
 00:08:58,860 --> 00:09:00,960
-Thanks. I mean,
+Thanks.Emmy,
 
 137
 00:09:02,070 --> 00:09:08,760
-yeah. Thank you very much. Very
-nice. Yeah, sorry, flew through
+yeah. Thank you very much. Bernice
+Yeah, sorry, 
 
 138
 00:09:08,760 --> 00:09:12,540
-that folks. Lots to digest. And
+folks. Lots to digest. And
 I'm also we're also one minute
 
 139
 00:09:12,540 --> 00:09:16,170
-over the hour ready. So if you
+over the hour already. So if you
 need to log off, please do now.
 
 140
@@ -698,7 +698,7 @@ for you one of them mentioned
 
 141
 00:09:21,300 --> 00:09:27,060
-already by a nelda. There are
+already by Anelda. There are
 you know, if you can complete
 
 142
@@ -749,7 +749,7 @@ details. If anything is on
 151
 00:10:00,000 --> 00:10:04,080
 Clear, just give us a shout on
-slack Lowe's to read from this
+lots to read from this
 
 152
 00:10:04,080 --> 00:10:07,080

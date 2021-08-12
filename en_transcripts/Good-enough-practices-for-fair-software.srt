@@ -25,12 +25,12 @@ the research data Alliance and
 
 6
 00:00:17,850 --> 00:00:21,480
-the force 11 groups, they're
+the FORCE11 groups, they're
 going to be talking a little bit
 
 7
 00:00:21,540 --> 00:00:26,640
-about what fair means in the
+about what FAIR means in the
 context of software, and then
 
 8
@@ -40,7 +40,7 @@ to follow on how you can make
 
 9
 00:00:30,480 --> 00:00:35,700
-your software fair. One of the
+your software FAIR. One of the
 things we've noticed in this
 
 10
@@ -65,7 +65,7 @@ creator of a piece of software
 
 14
 00:00:53,250 --> 00:00:58,860
-called pi mole, because it's way
+called PyMOL, because it's way
 back in the early 2000s. He was
 
 15
@@ -90,7 +90,7 @@ which are the principles of
 
 19
 00:01:17,040 --> 00:01:22,110
-fair. One thing is that
+FAIR. One thing is that
 increasingly, the research
 
 20
@@ -181,12 +181,12 @@ way as other types of research
 37
 00:02:29,940 --> 00:02:33,930
 output. And that's, that's
-interesting, because the fair
+interesting, because the FAIR
 
 38
 00:02:33,930 --> 00:02:36,840
 principles are not just for data
-in the original fair guiding
+in the original FAIR guiding
 
 39
 00:02:36,840 --> 00:02:40,680
@@ -201,11 +201,11 @@ data and analytic pipelines, to
 41
 00:02:45,900 --> 00:02:49,950
 benefit from the application of
-the fair principles. So what
+the FAIR principles. So what
 
 42
 00:02:49,950 --> 00:02:55,620
-they're saying is that fair is
+they're saying is that FAIR is
 is important because you need to
 
 43
@@ -256,7 +256,7 @@ data and software are not
 52
 00:03:34,710 --> 00:03:39,330
 commonly cited. You can assign
-identifiers like DUIs to both of
+identifiers like DOI to both of
 
 53
 00:03:39,330 --> 00:03:43,140
@@ -359,7 +359,7 @@ differences. They are important
 
 73
 00:05:00,810 --> 00:05:05,160
-when we consider fair for
+when we consider FAIR for
 software. And the key ones are
 
 74
@@ -445,7 +445,7 @@ be connected via workflows. And
 90
 00:06:15,540 --> 00:06:21,450
 there we have challenges for
-fair, because the third data
+FAIR, because the FAIR data
 
 91
 00:06:21,450 --> 00:06:25,290
@@ -492,7 +492,7 @@ exploring what it means to make
 
 100
 00:06:51,930 --> 00:06:54,960
-software fair. So we've had a
+software FAIR. So we've had a
 number of different workshops
 
 101
@@ -503,7 +503,7 @@ including some of the people who
 102
 00:06:58,080 --> 00:07:02,430
 are attending this call, looking
-at how fare might be applied to
+at how FAIR might be applied to
 
 103
 00:07:02,430 --> 00:07:06,510
@@ -522,12 +522,12 @@ was putting down its thoughts
 
 106
 00:07:14,010 --> 00:07:19,170
-about how fear should be applied
+about how FAIR should be applied
 to software, including a paper
 
 107
 00:07:19,170 --> 00:07:23,490
-called towards fair principles
+called towards FAIR principles
 for research software, but also
 
 108
@@ -537,18 +537,18 @@ referenced later on about how
 
 109
 00:07:28,080 --> 00:07:32,940
-you might see how fair your
+you might see how FAIR your
 software is. And understanding
 
 110
 00:07:33,060 --> 00:07:38,970
-this, the way that fair is used
+this, the way that FAIR is used
 in practice for software. And so
 
 111
 00:07:38,970 --> 00:07:40,800
 this has led to the
-establishment of the fair for
+establishment of the FAIR for
 
 112
 00:07:40,800 --> 00:07:44,490
@@ -563,7 +563,7 @@ the second last of our drafting
 114
 00:07:47,100 --> 00:07:53,520
 meetings tonight, we are looking
-at drafting a new set of fair
+at drafting a new set of FAIR
 
 115
 00:07:53,520 --> 00:07:56,400
@@ -592,7 +592,7 @@ things that happen once you have
 
 120
 00:08:11,970 --> 00:08:16,110
-the third principles. So how
+the FAIR principles. So how
 does that feed into things like
 
 121
@@ -633,7 +633,7 @@ finish off with one slide on
 128
 00:08:43,860 --> 00:08:47,520
 what I think is good enough
-practices for fair software
+practices for FAIR software
 
 129
 00:08:47,520 --> 00:08:53,610
@@ -642,8 +642,8 @@ finish off the principles. So,
 
 130
 00:08:54,060 --> 00:08:58,560
-to make your software, find
-double, make sure it's easy to
+to make your software, findable,
+make sure it's easy to
 
 131
 00:08:58,560 --> 00:09:02,460
@@ -712,8 +712,8 @@ repository, or into something
 
 144
 00:09:48,060 --> 00:09:53,730
-like a node or fixture to get a
-DUI. Make it interoperable by
+like Zenodo or Figshare to get a
+DOI. Make it interoperable by
 
 145
 00:09:53,730 --> 00:09:56,220
@@ -813,7 +813,7 @@ software. And I think the key
 164
 00:11:00,840 --> 00:11:05,940
 thing here is I I'm a pragmatic
-implementer of fair principles.
+implementer of FAIR principles.
 
 165
 00:11:05,970 --> 00:11:08,610
@@ -832,12 +832,12 @@ then you're on the road towards
 
 168
 00:11:16,350 --> 00:11:20,220
-fair software. And if you're
+FAIR software. And if you're
 interested in getting involved
 
 169
 00:11:20,220 --> 00:11:22,650
-in third research software, I
+in FAIR research software, I
 put some information in the
 
 170

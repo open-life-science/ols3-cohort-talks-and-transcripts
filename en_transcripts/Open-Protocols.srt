@@ -56,7 +56,7 @@ replicate it and building it.
 12
 00:00:48,030 --> 00:00:53,340
 And this is really the mission
-of protocols that I owe is to
+of protocols.io is to
 
 13
 00:00:53,490 --> 00:00:57,240
@@ -105,8 +105,8 @@ sharing easier and more rigorous
 
 22
 00:01:30,510 --> 00:01:35,760
-protocols that IO is open access
-CC by license for everything
+protocols.io is open access
+CC-BY license for everything
 
 23
 00:01:35,760 --> 00:01:39,330
@@ -126,7 +126,7 @@ never publishing, that's paid,
 26
 00:01:46,410 --> 00:01:50,100
 if you're sharing publicly, just
-as bio archive is free to read,
+as bioRxiv is free to read,
 
 27
 00:01:50,160 --> 00:01:54,210
@@ -266,7 +266,7 @@ create a new version, that
 54
 00:03:44,730 --> 00:03:48,870
 conversation is still there. But
-this gets its own dry, you can
+this gets its DOI, you can
 
 55
 00:03:48,870 --> 00:03:54,270
@@ -350,7 +350,7 @@ edit it as I use it with my
 
 71
 00:04:54,540 --> 00:04:58,380
-equipment with my strainer
+equipment with my strain or
 species. And then when I'm
 
 72
@@ -400,7 +400,7 @@ concurrent editing, but really
 
 81
 00:05:34,650 --> 00:05:38,790
-meant for methods with regions,
+meant for methods with reagents,
 which which data set did you
 
 82
@@ -535,7 +535,7 @@ Birmingham. This was the first
 108
 00:07:16,470 --> 00:07:21,120
 protocol on Coronavirus that we
-got on protocols that I owe
+got on protocols.io
 
 109
 00:07:21,120 --> 00:07:28,230
@@ -570,7 +570,7 @@ share the same 100 plus methods.
 115
 00:07:50,130 --> 00:07:54,390
 This is funded by Wellcome Trust
-and UK, ri. Their work they
+and UKRI. Their work they
 
 116
 00:07:54,390 --> 00:07:59,370
@@ -579,7 +579,7 @@ September. And as soon as they
 
 117
 00:07:59,370 --> 00:08:04,020
-got the SARS, cov to sequencing
+got the SARS-COV2 to sequencing
 going in January, with a click
 
 118
@@ -734,7 +734,7 @@ putting things in the right
 148
 00:10:25,890 --> 00:10:30,780
 repository, same way that we put
-protein sequences and PDB. And
+protein sequences in PDB. And
 
 149
 00:10:30,780 --> 00:10:35,010
@@ -748,7 +748,7 @@ discoverable. And I showed the
 
 151
 00:10:39,690 --> 00:10:43,680
-live demo so I Gibbs skip those
+live demo so I skipped those
 slides. And I love this example
 
 152
@@ -854,17 +854,17 @@ there, there are a lot of
 172
 00:12:02,520 --> 00:12:05,430
 funders that are now
-recommending protocols that I
+recommending protocols.io
 
 173
 00:12:05,430 --> 00:12:09,930
-owe over 500 journals. When you
+over 500 journals. When you
 submit a paper, I encourage you
 
 174
 00:12:09,930 --> 00:12:14,550
-to put a protocol protocols that
-are yo and link to it. So take a
+to put a protocol in protocols.io
+and link to it. So take a
 
 175
 00:12:14,550 --> 00:12:18,150

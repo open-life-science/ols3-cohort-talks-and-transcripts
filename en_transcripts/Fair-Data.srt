@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:07,380
-Emma Anne Harris: I'm Dr. I'm Ron Harris.
+Emma Anne Harris: I'm Dr Emma Anne Harris.
 And I've worked in research
 
 2
@@ -16,7 +16,7 @@ years. And I used to give
 4
 00:00:17,730 --> 00:00:24,450
 training workshops on on Open
-Science, including data for for
+Science, including data for
 
 5
 00:00:24,480 --> 00:00:28,110
@@ -55,7 +55,7 @@ very quickly going to start with
 
 12
 00:00:51,750 --> 00:00:55,980
-a fair data analogy that I use
+a FAIR data analogy that I use
 in training, this helps I think,
 
 13
@@ -70,7 +70,7 @@ also, if you are thinking of
 
 15
 00:01:03,840 --> 00:01:08,190
-doing any trading yourselves,
+doing any training yourselves,
 it's a nice, nice thing to use.
 
 16
@@ -106,7 +106,7 @@ challenges and successes. And
 22
 00:01:27,090 --> 00:01:31,470
 then looking maybe at a little
-bit of fair guidelines of what
+bit of FAIR guidelines of what
 
 23
 00:01:31,470 --> 00:01:36,810
@@ -115,7 +115,7 @@ some some ways we could could
 
 24
 00:01:36,900 --> 00:01:42,810
-manage fair data could be. So
+manage FAIR data could be. So
 just straight on with the I
 
 25
@@ -125,7 +125,7 @@ last image, let's move this
 
 26
 00:01:44,820 --> 00:01:52,500
-down. So the fair data analogy.
+down. So the FAIR data analogy.
 So there's a YouTube link in the
 
 27
@@ -145,7 +145,7 @@ online courses, it's completely
 
 30
 00:02:02,610 --> 00:02:08,520
-fishy by um, but the way it
+CC-BY , but the way it
 works is I, when explaining it,
 
 31
@@ -226,11 +226,11 @@ thinking maybe you know, a
 46
 00:03:02,220 --> 00:03:07,350
 slightly more dynamic way about
-what fair actually means what
+what FAIR actually means what
 
 47
 00:03:07,350 --> 00:03:13,530
-the individual parts of the fair
+the individual parts of the FAIR
 acronym actually stand for. And
 
 48
@@ -306,17 +306,17 @@ immediately you've got to think
 62
 00:04:19,500 --> 00:04:22,110
 about not just, when you're
-thinking about fair data, you're
+thinking about FAIR data, you're
 
 63
 00:04:22,110 --> 00:04:25,170
-not just thinking about the fair
+not just thinking about the FAIR
 principles, you're also the data
 
 64
 00:04:25,170 --> 00:04:30,810
-part of that fair data. And in
-order to make data fair, there
+part of that FAIR data. And in
+order to make data FAIR, there
 
 65
 00:04:30,810 --> 00:04:38,850
@@ -365,8 +365,8 @@ putting personal medical data
 
 74
 00:05:11,670 --> 00:05:17,910
-in, you know, there's no doubt.
-So balancing fair and Ethical
+in, Zenodo, there's no doubt.
+So balancing FAIR and Ethical
 
 75
 00:05:17,910 --> 00:05:21,000
@@ -385,12 +385,12 @@ about when we're talking about
 
 78
 00:05:27,990 --> 00:05:33,150
-fair data. So moving moving on,
+FAIR data. So moving moving on,
 discipline, differences in
 
 79
 00:05:33,150 --> 00:05:38,100
-output and, and terms impacting
+output in terms of impacting
 interrupt ability. So
 
 80
@@ -420,7 +420,7 @@ persistent identifiers. so
 
 85
 00:05:59,520 --> 00:06:05,100
-awkward, I had my org ID up at
+ORCID, I had my ORCID ID up at
 the start, but that's
 
 86
@@ -435,7 +435,7 @@ have these these gaps, if you
 
 88
 00:06:14,220 --> 00:06:21,180
-like, in terms of find ability.
+like, in terms of findability.
 And, yeah, different levels of
 
 89
@@ -460,13 +460,13 @@ it's probably the hardest of the
 
 93
 00:06:36,390 --> 00:06:40,410
-fair data principles to get
-right. finable is often the
+FAIR data principles to get
+right. Findable is often the
 
 94
 00:06:40,410 --> 00:06:45,750
 most, the easiest, and it's the
-one people start Rev. But, you
+one people start with. But, you
 
 95
 00:06:45,750 --> 00:06:49,950
@@ -520,12 +520,12 @@ projects. And that is impacting
 
 105
 00:07:32,610 --> 00:07:37,020
-the ability of fair data to just
+the ability of FAIR data to just
 become data. And that's the goal
 
 106
 00:07:37,020 --> 00:07:41,550
-right? At the end, we want fair
+right? At the end, we want FAIR
 data to just be data. And then
 
 107
@@ -536,11 +536,11 @@ legal or licensing knowledge.
 108
 00:07:44,670 --> 00:07:50,310
 And this obviously relates to
-the art of fair, we usable. And
+the art of fair, usable. And
 
 109
 00:07:50,370 --> 00:07:53,550
-the link, if the hyperlink I've
+the link, the hyperlink I've
 got in the slides leads to
 
 110
@@ -565,8 +565,8 @@ sharing, often hold researchers
 
 114
 00:08:15,240 --> 00:08:19,710
-back from making their data fair
-from making it viable and
+back from making their data FAIR
+from making it findable and
 
 115
 00:08:19,710 --> 00:08:24,030
@@ -626,7 +626,7 @@ normalized. So support from
 126
 00:09:10,560 --> 00:09:15,720
 repositories. So you've got the
-core trust seal, and I'm not
+"Core Trust Seal", and I'm not
 
 127
 00:09:15,720 --> 00:09:17,310
@@ -650,13 +650,13 @@ seal requirements map quite
 
 131
 00:09:28,200 --> 00:09:32,880
-closely on to the fair data
+closely on to the FAIR data
 principles. And so in, in in, in
 
 132
 00:09:32,880 --> 00:09:36,120
 getting the quarter seal, they
-are actually meeting fair
+are actually meeting FAIR
 
 133
 00:09:36,210 --> 00:09:40,080
@@ -700,13 +700,13 @@ obviously is is massively
 
 141
 00:10:05,670 --> 00:10:10,800
-helpful towards their data
+helpful towards FAIR data
 because it's all the data is
 
 142
 00:10:10,800 --> 00:10:14,010
 being worked on together,
-sometimes inter disciplinary.
+sometimes interdisciplinary.
 
 143
 00:10:14,520 --> 00:10:18,300
@@ -745,7 +745,7 @@ involves some aspects of the
 
 150
 00:10:43,410 --> 00:10:46,650
-fabric tables, though not
+FAIR principles, though not
 enough, are becoming very
 
 151
@@ -760,8 +760,8 @@ training and open data ideas.
 
 153
 00:10:59,130 --> 00:11:02,160
-So what could be fairer? What
-could be more fair, I've
+So what could be FAIRer? What
+could be more FAIR, I've
 
 154
 00:11:02,160 --> 00:11:05,940
@@ -785,17 +785,17 @@ in terms of openness, generally,
 
 158
 00:11:18,420 --> 00:11:22,680
-there are in consistencies in
+there are inconsistencies in
 terms of, of software being fair
 
 159
 00:11:23,610 --> 00:11:30,720
-services. So this is twofold.
+services. So this is two fold.
 First of all, you have could
 
 160
 00:11:30,720 --> 00:11:34,080
-services incorporate fam Also,
+services incorporate FAIR more,
 if you imagine, say a library
 
 161
@@ -805,8 +805,8 @@ those services talk more about
 
 162
 00:11:38,010 --> 00:11:42,000
-fairness? And, and helping
-researchers understand the fair
+FAIRness? And, and helping
+researchers understand the FAIR
 
 163
 00:11:42,000 --> 00:11:46,860
@@ -815,7 +815,7 @@ service themselves? Are they
 
 164
 00:11:46,860 --> 00:11:51,420
-fair? So is the training
+FAIR? So is the training
 recorded? Is it find about is it
 
 165
@@ -840,7 +840,7 @@ disability. And I noticed, you
 
 169
 00:12:09,000 --> 00:12:14,040
-know, you're using the otter.ai
+know, you're using the Otter.ai
 transcript. So that this this,
 
 170
@@ -890,7 +890,7 @@ project, if you click on the
 
 179
 00:12:47,280 --> 00:12:50,850
-link that is looking at fair
+link that is looking at FAIR
 assessment, and how services and
 
 180
@@ -900,17 +900,17 @@ self assessment on whether
 
 181
 00:12:54,180 --> 00:12:58,500
-things are fair. And then
+things are FAIR. And then
 finally, just workflows, they
 
 182
 00:12:58,500 --> 00:13:01,260
-could be more fair, some things
+could be more FAIR, some things
 towards that, as you know,
 
 183
 00:13:01,260 --> 00:13:04,890
-obviously, Mike, my experiment,
+obviously, my experiment,
 where you can kind of it's a bit
 
 184
@@ -931,7 +931,7 @@ quickly. And I'm running low on
 187
 00:13:18,300 --> 00:13:24,630
 time. The other side of this
-making things fairer compliance.
+making things FAIRer compliance.
 
 188
 00:13:24,630 --> 00:13:30,120
@@ -940,7 +940,7 @@ know, as to whether things have
 
 189
 00:13:30,120 --> 00:13:33,210
-been fair, and this is really
+been FAIR, and this is really
 useful in just in terms of, you
 
 190
@@ -950,7 +950,7 @@ projects, looking at whether
 
 191
 00:13:37,080 --> 00:13:40,620
-you've, you've made things fair,
+you've, you've made things FAIR,
 so if you're doing any training,
 
 192
@@ -996,7 +996,7 @@ very wary of metrics given where
 200
 00:14:12,270 --> 00:14:16,170
 that's landed us in the
-publishing industry. But fair
+publishing industry. But FAIR
 
 201
 00:14:16,170 --> 00:14:19,410

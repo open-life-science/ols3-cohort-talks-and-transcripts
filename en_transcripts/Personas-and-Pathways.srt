@@ -85,7 +85,7 @@ might be thinking, well,
 
 18
 00:01:13,290 --> 00:01:16,350
-personas and polyphase aren't
+personas and pathways aren't
 really relevant to my project.
 
 19
@@ -116,11 +116,11 @@ if you want users and all
 24
 00:01:38,700 --> 00:01:42,450
 contributors. And for all the
-projects that is in the URL
+projects that is in the OLS
 
 25
 00:01:42,450 --> 00:01:47,880
-ESCO. Definitely, this is what
+Definitely, this is what
 we want, right. Just very
 
 26
@@ -321,7 +321,7 @@ and there's no expectation of a
 65
 00:04:43,890 --> 00:04:49,050
 leadership progression. Why are
-scientists and pathways
+personas and pathways
 
 66
 00:04:49,050 --> 00:04:53,040
@@ -494,8 +494,8 @@ that we've used in one of our
 
 100
 00:07:07,920 --> 00:07:12,510
-projects that every map or
-project to think about who our
+Afrimap project is
+to think about who our
 
 101
 00:07:12,540 --> 00:07:19,230
@@ -887,7 +887,7 @@ changes, just for us to be
 
 179
 00:12:46,020 --> 00:12:49,230
-realistic. I mean, the analytics
+realistic. I mean, the OLS
 projects are only three months.
 
 180
@@ -983,7 +983,7 @@ like Google Docs or some of the
 198
 00:14:08,310 --> 00:14:12,750
 other tools like that your
-resume or other tools. Which
+Zoom or other tools. Which
 
 199
 00:14:12,750 --> 00:14:15,120
@@ -1007,7 +1007,7 @@ necessarily mentorship in the
 
 203
 00:14:30,180 --> 00:14:34,800
-way that you see here in LA is
+way that you see here in OLS is
 to address very specific needs.
 
 204
@@ -1227,13 +1227,13 @@ online, there are many ways to
 
 247
 00:17:51,690 --> 00:17:54,480
-develop the centers and
+develop the personas and
 pathways. And I do give a link
 
 248
 00:17:54,480 --> 00:17:57,660
 just in the next slide to
-resources that's provided by URL
+resources that's provided by OLS
 
 249
 00:17:57,660 --> 00:18:01,350
@@ -1272,7 +1272,7 @@ your inclusivity will grow as
 
 256
 00:18:28,830 --> 00:18:33,450
-your project diversity cries.
+your project diversity grows.
 And those just the last quote
 
 257
@@ -1292,8 +1292,8 @@ by a Facebook developer
 
 260
 00:18:46,410 --> 00:18:52,530
-frederico Franchione. So now,
-what Malbec and them have asked
+frederico Franchioni. So now,
+what Malvika have asked
 
 261
 00:18:52,560 --> 00:18:58,410

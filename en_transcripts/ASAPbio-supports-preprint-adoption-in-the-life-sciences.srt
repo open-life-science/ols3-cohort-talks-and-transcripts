@@ -1,11 +1,11 @@
 1
 00:00:00,000 --> 00:00:03,480
-Iratxe Puebla: That's a portal
+Iratxe Puebla: My name is Iratxe Puebla and I'm an
 Associate Director for as a
 
 2
 00:00:03,480 --> 00:00:07,830
-buyer, which is a non for profit
+ASAPBio, which is a non for profit
 organization with a mission to
 
 3
@@ -76,7 +76,7 @@ stakeholder in life in life
 16
 00:00:58,830 --> 00:01:01,920
 sciences communication. And we
-also run the ace of bio
+also run the ASAPBio
 
 17
 00:01:01,920 --> 00:01:06,120
@@ -95,12 +95,12 @@ awareness and adoption of
 
 20
 00:01:13,560 --> 00:01:17,910
-preference. So we're here to
+preprints. So we're here to
 talk preprints, what's
 
 21
 00:01:17,910 --> 00:01:21,720
-appropriate, one of the
+preprints, one of the
 perennial common set of
 
 22
@@ -120,8 +120,8 @@ of you may already be familiar
 
 25
 00:01:31,980 --> 00:01:36,180
-anyway with water, preprint, and
-conferences. But a preprint is
+anyway with what preprint may 
+encompass. But a preprint is
 
 26
 00:01:36,180 --> 00:01:39,390
@@ -130,13 +130,13 @@ manuscript that is posted by the
 
 27
 00:01:39,390 --> 00:01:43,590
-authors to a representative
+authors to a 
 repository or platform to
 
 28
 00:01:43,590 --> 00:01:47,550
 facilitate the open and broad
-terrain of the early work
+sharing of the early work
 
 29
 00:01:47,580 --> 00:01:52,770
@@ -150,18 +150,18 @@ reuse is one that was mentioned
 
 31
 00:01:56,880 --> 00:02:00,300
-by young English with who is the
-co founder of the preprint
+by John Inglis with who is the
+co-founder of the preprint
 
 32
 00:02:00,300 --> 00:02:03,780
-servers by archive on mid
-archive, who has to refer to
+servers by bioRxiv on medRxiv, 
+who has to refer to
 
 33
 00:02:03,780 --> 00:02:06,990
-previous as the director's cut
-of a manuscript essentially
+preprint as the "director's cut"
+of a manuscript which essentially
 
 34
 00:02:06,990 --> 00:02:10,260
@@ -230,8 +230,8 @@ replicate it, to appraise it to
 
 47
 00:02:52,680 --> 00:02:58,440
-provide comments etc. preference
-are generally assigned a DUI,
+provide comments etc. preprints
+are generally assigned a DOI,
 
 48
 00:02:58,470 --> 00:03:01,350
@@ -246,7 +246,7 @@ identifier system. But again,
 50
 00:03:04,770 --> 00:03:07,740
 the majority in the majority of
-cases, they receive a DUI so
+cases, they receive a DOI so
 
 51
 00:03:07,740 --> 00:03:12,390
@@ -261,7 +261,7 @@ work, you can add a reference on
 53
 00:03:15,810 --> 00:03:19,830
 again, find that through the
-DUI. However, there are also
+DOI. However, there are also
 
 54
 00:03:19,830 --> 00:03:24,000
@@ -281,7 +281,7 @@ that you submit, generally, they
 57
 00:03:31,590 --> 00:03:34,920
 do some basic screening just to
-take that instantaneous results
+take that instant results
 
 58
 00:03:34,920 --> 00:03:38,190
@@ -295,7 +295,7 @@ review. And a few other
 
 60
 00:03:43,290 --> 00:03:45,660
-differences that I saw there was
+differences that I thought was
 worth mentioning is that
 
 61
@@ -345,12 +345,12 @@ and fluidity to use in
 
 70
 00:04:16,170 --> 00:04:21,210
-preference. So why are results
-of using choosing to use
+preprint. So why are the results
+of using or choosing to use
 
 71
 00:04:21,210 --> 00:04:27,120
-preference. The first important
+preptint. The first important
 benefit of preference is the
 
 72
@@ -394,8 +394,8 @@ sometimes you may get rejected
 
 80
 00:04:50,340 --> 00:04:52,770
-and you have this myth or no
-urinal and restart the clock
+and you have to submit to another
+journal and restart the clock
 
 81
 00:04:52,770 --> 00:04:59,070
@@ -404,7 +404,7 @@ your paper to a preprint server,
 
 82
 00:04:59,130 --> 00:05:03,060
-it will be available In a matter
+it will be available in a matter
 of days, generally, again,
 
 83
@@ -429,8 +429,8 @@ parallel to also submit into
 
 87
 00:05:15,000 --> 00:05:19,860
-your notes. Another important
-benefit of preferences is that
+a journal. Another important
+benefit of preprints is that
 
 88
 00:05:19,860 --> 00:05:23,070
@@ -460,7 +460,7 @@ audience. A number of indexing
 93
 00:05:41,850 --> 00:05:45,840
 services such as Google Scholar
-and European seer, actually
+and EuropeanPMC, actually
 
 94
 00:05:45,840 --> 00:05:49,770
@@ -474,13 +474,13 @@ pilot related to COVID-19
 
 96
 00:05:53,490 --> 00:05:57,420
-preference. So you can reach a
+preprints. So you can reach a
 wide audience, which is which
 
 97
 00:05:57,420 --> 00:06:01,080
 can also be useful in terms of
-your work and garnering
+your work and gathering
 
 98
 00:06:01,080 --> 00:06:05,010
@@ -495,7 +495,7 @@ of studies that have looked at
 100
 00:06:08,040 --> 00:06:11,250
 the relationship between the
-present of presence of a
+presence of a
 
 101
 00:06:11,250 --> 00:06:14,940
@@ -505,7 +505,7 @@ the dental journal publication
 102
 00:06:14,940 --> 00:06:19,110
 for the same work and they
-consistently so that one there
+consistently saw that one there
 
 103
 00:06:19,110 --> 00:06:23,100
@@ -515,12 +515,12 @@ For the for that work. The
 104
 00:06:23,100 --> 00:06:26,370
 actual journal publication
-attacks more citation. So say
+attracts more citation. So say
 
 105
 00:06:26,370 --> 00:06:28,950
-you've given a header style to
-other results has to build on
+you've given a head start to
+other people to build on
 
 106
 00:06:28,950 --> 00:06:33,150
@@ -530,11 +530,11 @@ that I wanted to mention that we
 107
 00:06:33,270 --> 00:06:35,820
 are very passionate about in
-terms of preferences, this
+terms of preprint, this
 
 108
 00:06:35,820 --> 00:06:39,390
-element of allowing a non
+element of allowing a
 community feedback, you can get
 
 109
@@ -579,7 +579,7 @@ that has happened recently is
 
 117
 00:07:06,540 --> 00:07:10,290
-that your notes have also taken
+that journals have also taken
 an interest in this. And some of
 
 118
@@ -625,7 +625,7 @@ that I would recommend thinking
 126
 00:07:37,770 --> 00:07:42,450
 about. The first one is to have
-a little bit of a thing as to
+a little bit of a thinking as to
 
 127
 00:07:42,450 --> 00:07:47,760
@@ -635,11 +635,11 @@ like to post your paper to the
 128
 00:07:47,760 --> 00:07:51,060
 preprint server ecosystem is
-different from yours and celadon
+different from journals, and there is
 
 129
 00:07:51,060 --> 00:07:55,530
-not 1000s and 1000s of pages of
+no 1000s of
 servers necessarily, but there's
 
 130
@@ -659,12 +659,12 @@ around 50 servers available. So
 
 133
 00:08:07,290 --> 00:08:10,800
-as is the one that I have is
-that you take the ace of bio
+as I have said, I recommand
+you take a look at the ASAPbio
 
 134
 00:08:10,800 --> 00:08:13,740
-preprint server directory will
+preprint server directory which
 have a list of the different
 
 135
@@ -675,27 +675,27 @@ that you can check and compare
 136
 00:08:17,280 --> 00:08:22,860
 to fit your needs. There are a
-few you know porpoise
+few you know general-purpose
 
 137
 00:08:22,860 --> 00:08:26,460
-repositories that also take
-apart from the fact that there
+repositories that also take or lets say
+apart from the fact that they
 
 138
 00:08:26,460 --> 00:08:30,540
-was set up to take for mostly
-data sets and all the outputs,
+were set up to take mostly
+datasets and their outputs,
 
 139
 00:08:30,540 --> 00:08:34,140
 they will also take a full
-paper. So for example, center
+paper. So for example, Zenodo
 
 140
 00:08:34,140 --> 00:08:36,960
-lawn fixture and they will
-assign the eyes as I say
+and Figshare and they will
+assign you a DOI as I said or
 
 141
 00:08:36,960 --> 00:08:40,860
@@ -704,23 +704,23 @@ consider, as you're thinking
 
 142
 00:08:40,860 --> 00:08:44,280
-well to both obviously this is
-your your choice. But if you
+where to post, obviously this is
+your your choice. But one 
 
 143
 00:08:44,280 --> 00:08:47,820
-think that can be useful is to
+thing that can be useful is to
 try to think about what elements
 
 144
 00:08:47,820 --> 00:08:51,540
-are important for you in what
+are important for you in and what
 you want to get out of, again,
 
 145
 00:08:51,540 --> 00:08:54,570
 sharing your work as
-appropriate. One possible
+preprint. One possible
 
 146
 00:08:54,570 --> 00:08:58,830
@@ -779,21 +779,21 @@ to submit You should also think
 157
 00:09:34,980 --> 00:09:38,730
 if you are eventually thinking
-of also submitting to a urinal
+of also submitting to a journal
 
 158
 00:09:38,730 --> 00:09:43,290
-check the urinal policy on
-preference. The majority of the
+check the journal policy on
+preprint. The majority of the
 
 159
 00:09:43,290 --> 00:09:46,440
-urinals in the life sciences
+journal in the life sciences
 accept work that has been posted
 
 160
 00:09:46,650 --> 00:09:49,440
-as preference but they may have
+as preprint but they may have
 different policies in terms of
 
 161
@@ -808,7 +808,7 @@ posted as a preprint compared to
 
 163
 00:09:55,830 --> 00:09:59,970
-the urinal submission. So that's
+the journal submission. So that's
 something useful to check out.
 
 164
@@ -828,13 +828,13 @@ available, I list the resource
 
 167
 00:10:10,020 --> 00:10:12,930
-that we have on as a buyer
+that we have on as a ASAPbio
 related to the Creative Commons
 
 168
 00:10:12,960 --> 00:10:18,240
 licenses. One thing to remember
-is that certain preference areas
+is that certain preprint areas
 
 169
 00:10:18,240 --> 00:10:21,810
@@ -848,7 +848,7 @@ licenses. And actually, some all
 
 171
 00:10:26,430 --> 00:10:30,240
-will only post on the city by so
+will only post on the CC-BY so
 something that you should check
 
 172
@@ -868,18 +868,18 @@ will be one submit into a
 
 175
 00:10:41,160 --> 00:10:45,690
-urinal, perhaps even more. But
+journal, perhaps even more. But
 one important element is of
 
 176
 00:10:45,690 --> 00:10:48,780
 course, it and this is the same
-as when you submit to a urinal,
+as when you submit to a journal,
 
 177
 00:10:48,780 --> 00:10:51,570
 they usually have all of the all
-sorts on board with pre printed
+authors on board with pre printed
 
 178
 00:10:51,570 --> 00:10:54,360
@@ -893,13 +893,13 @@ number of resources on the ace
 
 180
 00:10:57,030 --> 00:11:00,630
-of buyer website that can help
+of ASAPbio website that can help
 with some of those conversations
 
 181
 00:11:00,630 --> 00:11:05,790
 or some questions that people
-may have about pre printing. And
+may have about preprint. And
 
 182
 00:11:05,790 --> 00:11:08,400
@@ -919,7 +919,7 @@ discussing in the earlier
 185
 00:11:14,550 --> 00:11:17,340
 exercise you can add links to
-that to your preference so that
+that to your preprint so that
 
 186
 00:11:17,340 --> 00:11:20,940
@@ -938,7 +938,7 @@ done all of that, obviously go
 
 189
 00:11:29,820 --> 00:11:33,600
-ahead and post the preference
+ahead and post the preprint
 will be available again either
 
 190
@@ -984,7 +984,7 @@ also included here the link the
 198
 00:12:01,830 --> 00:12:04,800
 link to for the a survey
-communities Would you be
+communities. Would you be
 
 199
 00:12:04,800 --> 00:12:08,490
@@ -993,7 +993,7 @@ some resources and we exchange
 
 200
 00:12:08,490 --> 00:12:11,610
-ideas or preference they also
+ideas about preprints they also
 You're very welcome to join us.
 
 201
