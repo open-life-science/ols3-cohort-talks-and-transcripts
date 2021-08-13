@@ -35,8 +35,8 @@
 
 8
 00:00:33,840 --> 00:00:37,920
-anyone and everyone. So what
-does that mean? It means that
+أي شخص وكل شخص. إذاً ماذا يعني هذا
+؟ إنه يعني أن:
 
 9
 00:00:37,980 --> 00:00:40,680
@@ -85,8 +85,8 @@ does that mean? It means that
 
 18
 00:01:16,770 --> 00:01:20,580
-of restrictions. And we'll get
-back to that later. And open
+من القيود. وسوف نعود
+إلى ذلك لاحقاً. وفتح
 
 19
 00:01:20,580 --> 00:01:23,940
@@ -176,7 +176,6 @@ back to that later. And open
 36
 00:02:35,130 --> 00:02:38,430
 في كثير من الوقت، سيكون من الصعب الاتصال بـ
-
 
 37
 00:02:38,430 --> 00:02:43,680
@@ -305,13 +304,13 @@ X, ولكن هناك
 
 62
 00:04:31,860 --> 00:04:36,600
-you use open formats, so formats
-that anyone can use such as PDF.
+تستخدم التنسيقات المفتوحة ، لذا التنسيقات
+التي يمكن لأي شخص استخدامها مثل PDF.
 
 63
 00:04:37,230 --> 00:04:41,100
-Instead of Word documents, for
-example, not everyone has a word
+بدلاً من مستندات Word ، على
+، ليس كل شخص لديه كلمة
 
 64
 00:04:41,100 --> 00:04:47,250
@@ -410,8 +409,8 @@ example, not everyone has a word
 
 83
 00:06:07,920 --> 00:06:10,920
-different. So I would not
-recommend using the Creative
+مختلف. لذلك لا
+باستخدام Creative
 
 84
 00:06:10,920 --> 00:06:14,910
