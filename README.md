@@ -3,6 +3,10 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 [![DOI](https://zenodo.org/badge/373475021.svg)](https://zenodo.org/badge/latestdoi/373475021)
 [![Crowdin](https://badges.crowdin.net/ols3/localized.svg)](https://crowdin.com/project/ols3)
+![ar translation](https://img.shields.io/badge/dynamic/json?color=blue&label=ar&style=flat&query=%24.progress.0.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-14842460-465748.json)
+![ar proofreading](https://img.shields.io/badge/dynamic/json?color=green&label=ar&style=flat&query=%24.progress.0.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-14842460-465748.json)
+![de translation](https://img.shields.io/badge/dynamic/json?color=blue&label=de&style=flat&query=%24.progress.1.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-14842460-465748.json)
+![de proofreading](https://img.shields.io/badge/dynamic/json?color=green&label=de&style=flat&query=%24.progress.1.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-14842460-465748.json)
 
 This repository aims to make the Open Life Science (OLS-3) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) to facilitate learning of Open science practices to novice learners. 
 
@@ -18,6 +22,7 @@ You don't need to know git to start contributing, we use [Crowdin localisation](
 
 Maintainers will do their best to help you if you have any
 questions, concerns, or experience any difficulties along the way.
+
 
 ### The table below show the list of the talks and their speakers:
 
