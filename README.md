@@ -80,7 +80,7 @@ This work is licensed under a
 <table style="width: 100%;"><tr>
               <td style="text-align:center; vertical-align: top;">
                   <a href="https://crowdin.com/profile/Batool664">
-                    <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                    <img style="width: 58px" src="https://crowdin-static.downloads.crowdin.com/avatar/14842460/large/fdf8c3e64dc29e131afb8a432672756b.jpeg"/>
                    </a>
                   <br />
                   <sub>
