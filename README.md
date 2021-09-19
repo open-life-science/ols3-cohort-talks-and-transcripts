@@ -77,6 +77,71 @@ This work is licensed under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 <!-- CROWDIN-TRANSLATORS-START -->
-
+<table style="width: 100%;"><tr>
+              <td style="text-align:center; vertical-align: top;">
+                  <a href="https://crowdin.com/profile/Batool664">
+                    <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                   </a>
+                  <br />
+                  <sub>
+                      <b>Batool Almarzouq (Batool664)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>44987 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <a href="https://crowdin.com/profile/ASmaa1512">
+                    <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                   </a>
+                  <br />
+                  <sub>
+                      <b>ASmaa Nofal (ASmaa1512)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>71143 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <a href="https://crowdin.com/profile/ali32ali22aliff">
+                    <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                   </a>
+                  <br />
+                  <sub>
+                      <b>Ali Hadi (ali32ali22aliff)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>9722 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <a href="https://crowdin.com/profile/Im_ad_0">
+                    <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                   </a>
+                  <br />
+                  <sub>
+                      <b>Im_ad_0</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <a href="https://crowdin.com/profile/aneldavdw">
+                    <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                   </a>
+                  <br />
+                  <sub>
+                      <b>Anelda Van der Walt (aneldavdw)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td></tr></table>
 <!-- CROWDIN-TRANSLATORS-END -->
 
