@@ -1,0 +1,787 @@
+1
+00:00:00,000 --> 00:00:04,620
+Hao Ye: Hallo. So hallo, ek is hier
+om baie kort met jou te praat
+
+2
+00:00:04,650 --> 00:00:10,860
+oor oop lisensies. Die skyfies
+waarmee ek deel, word gedeel
+
+3
+00:00:10,860 --> 00:00:15,690
+'n kreatiewe gemeenskaplike BY-lisensie,
+ontwikkel deur oop lewenswetenskap
+
+4
+00:00:15,690 --> 00:00:20,370
+en dan deur my gewysig, ek is nie 'n
+nie, ek het net een gespeel
+
+5
+00:00:20,400 --> 00:00:26,850
+op bordspeletjies. Goed,
+so 'n bietjie oor my, ek is
+
+6
+00:00:26,850 --> 00:00:29,940
+die reproduceerbaarheidsbibliotekaris by
+die Gesondheidswetenskapsentrum
+
+7
+00:00:29,940 --> 00:00:33,690
+biblioteke aan die Universiteit van
+Florida. My voornaamwoorde is hy/sy
+
+8
+00:00:33,690 --> 00:00:37,830
+en my Twitter-handvatsel is 
+@how_and_Y, voel vry
+
+9
+00:00:37,830 --> 00:00:40,920
+kontak my as jy
+vrae oor navorsing het,
+
+10
+00:00:40,920 --> 00:00:47,640
+reproduceerbaarheid of ander verwante
+onderwerpe. Dus die doel en praat
+
+11
+00:00:47,640 --> 00:00:53,100
+oor lisensiëring in die konteks
+van oop lewenswetenskap is 'n oop
+
+12
+00:00:53,100 --> 00:00:59,790
+projekte is ons wil graag hê dat ander
+mense kan gebruik, remix,
+
+13
+00:01:00,000 --> 00:01:04,320
+en deel ons die werk wat
+ons doen in ons oopte
+
+14
+00:01:04,320 --> 00:01:09,930
+projekte. En ons bereik dit deur
+seker te maak dat ons in ons
+
+15
+00:01:09,930 --> 00:01:14,010
+oop projekte, eksplisiete
+dokumentasie oor hoe ander
+
+16
+00:01:14,010 --> 00:01:17,640
+mense kan gebruik en hermeng en
+dit deel. En so gaan ons
+
+17
+00:01:17,640 --> 00:01:24,180
+gaan deur hierdie skyfies. En
+hopelik, as daar tyd is, jy
+
+18
+00:01:24,180 --> 00:01:27,930
+weet, het die vermoë om
+kort bespreking te hê of enige te beantwoord
+
+19
+00:01:27,930 --> 00:01:31,890
+vinnige vrae hieroor, met
+die doel is dat jy sal
+
+20
+00:01:31,890 --> 00:01:37,590
+uiteindelik weet en verstaan
+die belangrikheid, en presies hoe
+
+21
+00:01:37,590 --> 00:01:44,250
+om die taak te doen om 'n oop
+-lisensie by jou werk te voeg. Goed. En
+
+22
+00:01:44,280 --> 00:01:49,140
+so gaan terug na soort van die
+bedoeling agter al hierdie, die
+
+23
+00:01:49,140 --> 00:01:52,680
+oop leierskapraamwerk wat
+praat oor oop leiers, as ontwerp
+
+24
+00:01:52,680 --> 00:01:56,370
+en bouprojekte wat
+ander bemagtig, reg, dink ons
+
+25
+00:01:56,370 --> 00:02:00,240
+omtrent, besig was met hierdie
+projekte, want gewoonlik,
+
+26
+00:02:00,240 --> 00:02:03,960
+want ons gee om om werk te
+wat, jy weet, ander help
+
+27
+00:02:03,960 --> 00:02:06,480
+mense, of dit nou mense
+in ons gemeenskappe of buite is
+
+28
+00:02:06,480 --> 00:02:11,550
+ons gemeenskappe. En so dit is
+soort waar ons aan een dink
+
+29
+00:02:11,550 --> 00:02:18,240
+manier waarop, jy weet, ons doen
+dat interaksie is deur te hê
+
+30
+00:02:18,270 --> 00:02:21,450
+ons werk gedeel word op 'n manier dat
+ander mense dit kan, kan gebruik.
+
+31
+00:02:21,720 --> 00:02:26,190
+En so dit val in hierdie boks van
+die oop leierskap raamwerk van
+
+32
+00:02:26,190 --> 00:02:30,180
+gebou vir deel en maak
+seker dat ons uitdruklik in
+
+33
+00:02:30,180 --> 00:02:35,280
+die bou van ons projek, 'n
+manier waarop ons die werk deel.
+
+34
+00:02:36,930 --> 00:02:39,930
+Goed, so 'n paar
+wanopvattings wat ek dink ek
+
+35
+00:02:39,930 --> 00:02:44,490
+wil aanspreek wanneer
+gepraat word oor lisensiëring. Omdat dit 'n
+
+36
+00:02:44,520 --> 00:02:50,430
+dit is 'n komplekse onderwerp, en dit hou
+verband met dinge soos
+
+37
+00:02:50,460 --> 00:02:56,040
+kopiereg en akademiese krediet.
+Maar lisensiëring is nie dieselfde nie
+
+38
+00:02:56,040 --> 00:03:00,570
+ding. En so 'n kort soort van
+punte om baie vinnig te maak,
+
+39
+00:03:01,110 --> 00:03:04,740
+net omdat jy iets deel
+op die internet, of GitHub of
+
+40
+00:03:04,740 --> 00:03:07,350
+iemand anders deel iets op
+die internet, of GitHub nie
+
+41
+00:03:07,380 --> 00:03:12,480
+laat outomaties ander mense
+toe om dit te gebruik. As jy deel
+
+42
+00:03:12,480 --> 00:03:16,800
+werk met 'n lisensie, dit nie
+by verstek, gee weg jou
+
+43
+00:03:16,800 --> 00:03:21,360
+kopiereg. So jy kan werk
+deel met 'n gratis lisensie en 'n oop
+
+44
+00:03:21,360 --> 00:03:25,920
+lisensie soos Creative Commons,
+wat jou nie verhinder om
+
+45
+00:03:25,950 --> 00:03:29,880
+jou werk te
+of jou werk te verkoop of op ander maniere
+
+46
+00:03:29,880 --> 00:03:35,100
+om jou werk te verdien. En
+uiteindelik, 'n werk wat was
+
+47
+00:03:35,100 --> 00:03:38,700
+gedeel met 'n oop, kan jy dit gebruik en ander mense kan
+
+48
+00:03:38,700 --> 00:03:44,190
+gebruik dit, hulle hoef nie noodwendig
+jy aan te haal nie. So dit kan wees
+
+49
+00:03:44,190 --> 00:03:47,670
+wettig om die werk te gebruik sonder om jou aan te. Maar in 'n akademikus
+
+50
+00:03:47,670 --> 00:03:51,090
+instelling, as jy 'n
+akademiese navorsing doen, is dit steeds
+
+51
+00:03:51,090 --> 00:03:55,050
+beskou as 'n skending van
+akademiese etiek. En dit is
+
+52
+00:03:55,050 --> 00:03:59,460
+iets wat jy sal nastreef
+as dit 'n probleem is om akademies te gebruik
+
+53
+00:03:59,460 --> 00:04:10,350
+beteken. Want dit kan
+plagiaat wees. Goed, so 'n paar
+
+54
+00:04:10,350 --> 00:04:13,350
+soort gemeenskaplike elemente. Wanneer ons oor
+praat, is daar
+
+55
+00:04:13,350 --> 00:04:18,540
+natuurlik, baie verskillende maniere
+jy kan, kan jy ander gee
+
+56
+00:04:18,540 --> 00:04:22,980
+mense toestemmings op soveel
+verskillende voorbeeld lisensies. En
+
+57
+00:04:22,980 --> 00:04:26,790
+die soort dinge waaroor ons
+dink in terme van
+
+58
+00:04:26,790 --> 00:04:31,320
+insluitend in die oop lisensie
+is hoe mense jou kan gebruik
+
+59
+00:04:31,320 --> 00:04:35,460
+werk, hoe mense jou
+-werk kan verander en hoe hulle kan deel
+
+60
+00:04:35,460 --> 00:04:38,460
+jou werk en herverdeel
+óf die oorspronklike óf die
+
+61
+00:04:38,460 --> 00:04:43,530
+werk aan ander mense gewysig.
+En so, ja,
+
+62
+00:04:45,450 --> 00:04:50,670
+sommige van hierdie elemente sluit ook
+in. So baie
+
+63
+00:04:50,670 --> 00:04:56,250
+die oop lisensies wat in
+gebruik is, vereis gewoonlik dat indien die
+
+64
+00:04:56,250 --> 00:05:00,300
+werk word herdeel deur iemand
+anders, dat die werk Original
+
+65
+00:05:00,300 --> 00:05:04,740
+skrywers gekrediteer word. So
+voorbeelde hiervan is die
+
+66
+00:05:04,740 --> 00:05:08,730
+Creative Commons volgens lisensie,
+wat 'n hierdie erkenning het
+
+67
+00:05:08,730 --> 00:05:12,420
+klousule, en byna al die ander
+lisensies wat genoem sal word
+
+68
+00:05:12,420 --> 00:05:17,130
+vandag. En een uitsondering op hierdie
+een belangrike uitsondering hierop
+
+69
+00:05:17,160 --> 00:05:21,450
+is die Creative Commons nul
+lisensie, wat effektief is
+
+70
+00:05:21,450 --> 00:05:26,040
+iets in die
+publieke domein plaas en afstand doen van jou
+
+71
+00:05:26,040 --> 00:05:30,870
+kopiereg op, wat dit ook al is
+wat jy deel met behulp van die
+
+72
+00:05:30,870 --> 00:05:38,640
+CC nul lisensie. So 'n paar
+soort vooraf gevorderde
+
+73
+00:05:39,480 --> 00:05:45,510
+komplikasies binne hierdie onderwerp
+van oop lisensie. So ek het gesit
+
+74
+00:05:45,510 --> 00:05:49,650
+dit soos ek dit as
+plooie lys, want dit is
+
+75
+00:05:49,650 --> 00:05:55,170
+relevant om te oorweeg,
+maar dink miskien nie te veel nie
+
+76
+00:05:55,170 --> 00:05:58,440
+om seker te maak jy verstaan
+al die besonderhede daarvan. Maak oop
+
+77
+00:05:58,440 --> 00:06:02,670
+lisensies het hierdie onderskeid
+tussen wat ons copyleft noem
+
+78
+00:06:02,670 --> 00:06:07,380
+en nie copyleft. lisensies,
+wat basies te doen het met
+
+79
+00:06:07,470 --> 00:06:13,200
+of wysigings van 'n werk
+onder dieselfde gedeel moet word
+
+80
+00:06:13,200 --> 00:06:19,800
+beginsels. Die idee met die
+copyleft-lisensies. So iets
+
+81
+00:06:19,800 --> 00:06:25,290
+soos die GNU Public License, is die
+GPL dat as iemand 'n
+
+82
+00:06:25,290 --> 00:06:28,350
+stuk sagteware en deel dit
+met daardie lisensie, 'n maatskappy
+
+83
+00:06:28,350 --> 00:06:33,180
+kan nie net bou af van daardie
+sagteware, en dan verkoop hulle
+
+84
+00:06:33,180 --> 00:06:37,380
+wysigings, moet hulle ook hul
+versprei
+
+85
+00:06:37,500 --> 00:06:40,740
+in dieselfde lisensie. En daardie
+manier, as daar 'n manier is van
+
+86
+00:06:40,740 --> 00:06:44,820
+verseker dat die soort van, as jy
+gaan om iets te gebruik in die
+
+87
+00:06:44,820 --> 00:06:50,130
+copyleft wêreld, dat jy ook
+bydra tot daardie wêreld. En
+
+88
+00:06:50,130 --> 00:06:55,230
+dit is nie waar vir lisensies
+wat permissief is nie, maar nie in nie
+
+89
+00:06:55,770 --> 00:07:00,450
+die copyleft-skema. En ons
+oor die algemeen verkies diegene in die
+
+90
+00:07:00,450 --> 00:07:04,980
+soort oop lisensie-wêreld.
+En ek dink vir, jy weet, oop
+
+91
+00:07:04,980 --> 00:07:08,460
+lewenswetenskap, ons wil nie
+oordrewe wees nie
+
+92
+00:07:08,460 --> 00:07:13,170
+beperkend met hoe mense ons werk kan. Maar dit is as
+
+93
+00:07:13,170 --> 00:07:15,990
+dit is iets wat vir jou
+belangrik is, dit wil sê
+
+94
+00:07:15,990 --> 00:07:23,370
+iets om te oorweeg. Die volgende
+ding is dat patente ook is
+
+95
+00:07:23,370 --> 00:07:27,480
+nie verwant aan kopiereg nie, wat
+nie is nie, is nie dieselfde ding nie
+
+96
+00:07:27,480 --> 00:07:31,380
+as lisensiëring. So kopiereg
+regte sluit in die vermoë om
+
+97
+00:07:31,380 --> 00:07:35,520
+kopieer, wysig en herverdeel
+werk. En patentregte sluit in
+
+98
+00:07:35,520 --> 00:07:39,780
+die vermoë om maak en verkoop
+werk te gebruik. En so dit in die algemeen
+
+99
+00:07:39,780 --> 00:07:43,920
+is geneig om na vore te kom wanneer jy
+praat oor sagteware, in daardie
+
+100
+00:07:44,100 --> 00:07:48,240
+oopbronlisensies vir
+sagteware mag of mag nie
+
+101
+00:07:48,270 --> 00:07:53,940
+sluit uitdruklik iets
+in wat patentregte verleen. En
+
+102
+00:07:53,940 --> 00:07:57,810
+dit is 'n hele groot blikkie
+wurms. So ek sal maar sê as jy
+
+103
+00:07:57,810 --> 00:08:01,890
+skryf sagteware, en jy
+het 'n plan om die patant
+
+104
+00:08:01,890 --> 00:08:06,930
+sagteware op enige manier, beslis
+praat met 'n prokureur voordat jy dink
+
+105
+00:08:06,960 --> 00:08:10,320
+voor jy net 'n oop
+lisensie klap en verwag dat jou
+
+106
+00:08:10,320 --> 00:08:18,510
+patentregte sal behoue bly.
+Goed, dit was baie. So kom ons
+
+107
+00:08:18,510 --> 00:08:23,160
+gaan in op die soort besonderhede
+van hoe jy te werk gaan om die toe te pas
+
+108
+00:08:23,160 --> 00:08:28,920
+lisensie. So 'n lisensie lêer is
+gewoonlik genoem lisensie in almal
+
+109
+00:08:28,920 --> 00:08:35,310
+caps, en dit gaan in die wortel
+gids of die boonste meeste gids
+
+110
+00:08:35,310 --> 00:08:39,240
+van jou projek. En jy kan
+beslis veelvuldige insluit
+
+111
+00:08:39,240 --> 00:08:42,690
+lisensies. En dit is belangrik, want jy kan anders hê
+
+112
+00:08:42,690 --> 00:08:46,440
+komponente van jou projek wat
+jy anders wil toepas
+
+113
+00:08:46,440 --> 00:08:50,130
+lisensies aan. En dit is soort van
+belangrik, want lisensies wat
+
+114
+00:08:50,130 --> 00:08:56,130
+is die beste vir sagteware is nie
+ideaal vir inhoud, soos beelde
+
+115
+00:08:56,130 --> 00:09:00,420
+of skryf, en omgekeerd ook. En so is daar maniere
+
+116
+00:09:00,420 --> 00:09:03,690
+wat jy in die
+-lisensie-afdeling van jou README kan spesifiseer,
+
+117
+00:09:03,930 --> 00:09:08,460
+of die lisensielêer presies
+watter dele van jou projek is
+
+118
+00:09:08,460 --> 00:09:16,530
+geassosieer met watter lisensie.
+So weer, data en kode en
+
+119
+00:09:16,530 --> 00:09:19,980
+kreatiewe werke is nie dieselfde
+nie. En so kan jy vereis
+
+120
+00:09:19,980 --> 00:09:23,460
+verskillende lisensies op hier is 'n
+interessante tweet wat ek vroeër gesien het
+
+121
+00:09:23,460 --> 00:09:29,820
+hierdie week oor hierdie onderwerp wat
+relevant is. En so maniere dat
+
+122
+00:09:29,820 --> 00:09:33,990
+jy kan 'n lisensie by jou
+-projek in GitHub voeg, as jy is
+
+123
+00:09:33,990 --> 00:09:38,040
+skep 'n nuwe bewaarplek en
+GitHub, daar is 'n afdeling by die
+
+124
+00:09:38,040 --> 00:09:42,360
+onder waar jy die bewaarplek kan
+deur daarop te klik
+
+125
+00:09:42,360 --> 00:09:42,960
+merkblokkie.
+
+126
+00:09:42,990 --> 00:09:47,040
+En dan kan jy 'n
+-lisensie kies uit 'n aantal
+
+127
+00:09:47,040 --> 00:09:50,880
+ingeboude verstekke na GitHub. So
+dit is 'n manier waarop jy net kan begin
+
+128
+00:09:50,880 --> 00:09:55,140
+'n projek met 'n lisensie uit.
+Maar as jy reeds 'n
+
+129
+00:09:55,140 --> 00:09:58,590
+projek op GitHub, daar is
+'n ander manier waarop jy een van kan byvoeg
+
+130
+00:09:58,590 --> 00:10:02,850
+hierdie lisensie sjablone. Watter
+is wanneer jy die kenmerk gebruik om
+
+131
+00:10:02,850 --> 00:10:06,840
+voeg 'n nuwe lêer by. As jy die lêernaam begin, lisensieer in
+
+132
+00:10:06,840 --> 00:10:10,500
+alle hoofletters, 'n knoppie verskyn,
+waarmee jy 'n gelisensieerde kan kies
+
+133
+00:10:10,500 --> 00:10:13,680
+sjabloon. En dit is ook regtig
+handig om daarin te hê, weer,
+
+134
+00:10:13,680 --> 00:10:18,480
+jy hoef nie te gaan soek vir
+die volledige teks van 'n lisensie en
+
+135
+00:10:18,480 --> 00:10:22,620
+kry die lêer. As jy net
+werk in GitHub. Daardie is
+
+136
+00:10:22,620 --> 00:10:31,740
+ingeboude verstekwaardes. 'n Paar nuttige
+gereedskap om die
+
+137
+00:10:31,740 --> 00:10:35,700
+verskillende moontlike lisensies wat jy
+wil gebruik. kreatief
+
+138
+00:10:35,700 --> 00:10:39,690
+kommentaar het 'n webwerf wat gaan
+deur soort van die verskillende
+
+139
+00:10:39,840 --> 00:10:43,740
+creative commons lisensie sê
+insluitend die CC zero publiek
+
+140
+00:10:43,740 --> 00:10:49,020
+domein lisensie en die variante
+van die BK deur wat insluit
+
+141
+00:10:49,020 --> 00:10:54,600
+vereistes, byvoorbeeld vir
+toeskrywing, of nie verhuur nie
+
+142
+00:10:54,600 --> 00:10:59,190
+mense skep afgeleides van die
+werk. Sagteware, weer is
+
+143
+00:10:59,190 --> 00:11:02,280
+anders, daar is verskillende
+lisensies vir sagteware. Dus
+
+144
+00:11:02,670 --> 00:11:06,900
+hopelik, hierdie tabel gee jou
+'n kort gids tot 'n paar van hierdie
+
+145
+00:11:06,900 --> 00:11:10,440
+moontlike lisensies. En dan het die
+webwerwe self meer
+
+146
+00:11:10,440 --> 00:11:17,220
+gedetailleerde inligting wat
+nuttig vir jou is. Weereens, meer
+
+147
+00:11:17,220 --> 00:11:22,590
+hulpbronne, as jy graag meer
+wil leer
+
+148
+00:11:22,590 --> 00:11:29,910
+komplekse regsonderwerp in
+detail. Maar ek sal net opsom
+
+149
+00:11:30,720 --> 00:11:35,550
+hierdie inhoud in dat jy as
+jy 'n oop projek bou,
+
+150
+00:11:35,610 --> 00:11:39,090
+en jy wil hê dat ander
+van jou werk moet bou en dit gebruik, jy
+
+151
+00:11:39,090 --> 00:11:43,440
+benodig 'n lisensie. En daardie lisensie
+gaan hierdie topvlak wees
+
+152
+00:11:43,440 --> 00:11:49,770
+lêer waarvan die naam lisensie is. As
+het jy kode en data in
+
+153
+00:11:49,770 --> 00:11:52,980
+verskillende inhoud in jou
+-projek, sal jy 'n wil gebruik
+
+154
+00:11:52,980 --> 00:11:59,040
+verskillende lisensies vir daardie
+verskillende tipes inhoud. En
+
+155
+00:11:59,040 --> 00:12:02,940
+dan 'n paar goeie permissiewe
+verstek, as jy werk met
+
+156
+00:12:02,940 --> 00:12:07,440
+kode is om 'n kode te deel deur
+die MIT-lisensie te gebruik. As jy
+
+157
+00:12:07,440 --> 00:12:12,930
+skrif of dokumente of
+beelde deel, die BK per lisensie of vir
+
+158
+00:12:12,930 --> 00:12:16,650
+data wat jy die CC nul
+lisensie gebruik, wat effektief plaas
+
+159
+00:12:16,650 --> 00:12:17,850
+dit in die publieke domein
+
