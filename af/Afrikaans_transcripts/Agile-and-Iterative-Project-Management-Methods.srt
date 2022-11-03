@@ -1,0 +1,746 @@
+1
+00:00:00,000 --> 00:00:03,900
+Renato Alves: Hallo almal. So eerstens
+van almal, laat ek dit net oopmaak deur
+
+2
+00:00:03,900 --> 00:00:08,280
+sê dat ek nie 'n ratse
+-kenner is nie. Hierdie is net 'n paar
+
+3
+00:00:08,280 --> 00:00:12,750
+tegnieke wat ek wat ek geneig is om
+te gebruik, dikwels op my dag tot dag.
+
+4
+00:00:13,769 --> 00:00:17,249
+En, en ons sal 'n
+verduidelik wat dit is en hoe
+
+5
+00:00:17,249 --> 00:00:20,729
+jy kan baat by die gebruik hiervan.
+So eerstens, wat is
+
+6
+00:00:21,780 --> 00:00:25,950
+behendig? So rats was 'n bietjie van 'n
+beginsel of 'n raamwerk om te
+
+7
+00:00:25,950 --> 00:00:30,300
+organiseer en struktureer projekte,
+dit is, kom ons laat ons, kom ons noem dit
+
+8
+00:00:30,300 --> 00:00:34,860
+'n projekbestuurder, of projek
+-projekbestuurstegniek.
+
+9
+00:00:36,780 --> 00:00:39,930
+As jy een van hierdie mense is
+wat geneig is om baie poste te hê
+
+10
+00:00:39,930 --> 00:00:42,990
+rond met take om te doen, en so
+aan, jy is waarskynlik reeds gelyk
+
+11
+00:00:42,990 --> 00:00:45,870
+sommige van die tegnieke te gebruik
+dat die Agile-beweging
+
+12
+00:00:45,870 --> 00:00:46,530
+inspireer.
+
+13
+00:00:47,730 --> 00:00:52,290
+Maar om dit dalk 'n bietjie te hou
+meer gefokus op die punt. Dus
+
+14
+00:00:52,500 --> 00:00:55,980
+rats is iets wat begin het
+in die industrie,
+
+15
+00:00:57,090 --> 00:01:01,050
+dit is meestal gedryf deur 'n
+voorneme om 'n goeie te lewer
+
+16
+00:01:01,050 --> 00:01:02,070
+produk aan,
+
+17
+00:01:03,600 --> 00:01:07,110
+aan die kliënte, maar
+om dit te lewer
+
+18
+00:01:07,110 --> 00:01:11,220
+produk so vinnig as moontlik,
+selfs al is dit in 'n prototipe toestand.
+
+19
+00:01:12,120 --> 00:01:14,010
+Maar terselfdertyd, toelaat
+aan,
+
+20
+00:01:15,450 --> 00:01:20,190
+weer so vinnig as moontlik,
+die produk aan te pas en aan te pas
+
+21
+00:01:20,190 --> 00:01:23,730
+beter pas by die behoeftes van die
+kliënt. En so as jy kan soort
+
+22
+00:01:23,730 --> 00:01:27,960
+van, jy kan soort van sien vanaf
+van net die ratse sagteware
+
+23
+00:01:28,170 --> 00:01:30,720
+development manifest. And this
+was, as I said, was something
+
+24
+00:01:30,720 --> 00:01:33,630
+wat in die bedryf begin het,
+maar spesifiek in die sagteware
+
+25
+00:01:33,630 --> 00:01:39,330
+wêreld. En, en die soort van soos
+treffende punt, en die rede
+
+26
+00:01:39,330 --> 00:01:44,310
+hoekom dit rats genoem word, is in
+deel as gevolg hiervan. Wil, ek
+
+27
+00:01:44,310 --> 00:01:46,980
+weet nie of jy my
+muiswyser malvika kan sien nie? Kan jy
+
+28
+00:01:46,980 --> 00:01:48,630
+gee my dalk 'n duim vas? Geen.
+Goed.
+
+29
+00:01:49,710 --> 00:01:51,510
+Kom ons kyk dan of ek kan doen
+
+30
+00:01:54,720 --> 00:01:55,530
+hierdie.
+
+31
+00:01:57,420 --> 00:01:58,140
+Kan jy dit nou sien?
+
+32
+00:01:59,610 --> 00:02:00,000
+Ja.
+
+33
+00:02:01,440 --> 00:02:05,220
+So so waarna ek gewys het is
+reageer op verandering, dit was
+
+34
+00:02:05,220 --> 00:02:06,840
+een van die aspekte wat
+
+35
+00:02:07,890 --> 00:02:13,020
+soort van gemotiveerd om dit te gee
+naam aan, na die beweging of aan
+
+36
+00:02:13,020 --> 00:02:18,750
+die raamwerk, en rats in
+die sin van baie vinnig en
+
+37
+00:02:18,750 --> 00:02:23,490
+soort van reageer op, op
+versoeke en veranderinge. En so jy
+
+38
+00:02:23,490 --> 00:02:26,250
+dalk, as jy as jy kyk 'n
+bietjie in wat hierdie, hierdie
+
+39
+00:02:26,250 --> 00:02:30,420
+raamwerk bestaan uit, of as jy dit
+vergelyk met ander soort
+
+40
+00:02:30,420 --> 00:02:32,460
+benaderings wat mense in gebruik
+die veld,
+
+41
+00:02:33,480 --> 00:02:38,190
+jy kan hierdie hierdie teëkom
+woorde, waterval. En jy mag dalk
+
+42
+00:02:38,190 --> 00:02:39,060
+vind ook
+
+43
+00:02:41,220 --> 00:02:45,420
+ander name vir hierdie soort
+iteratiewe proses. Daar is baie,
+
+44
+00:02:45,420 --> 00:02:48,240
+baie verskillende maniere waarop jy dit kan.
+
+45
+00:02:49,860 --> 00:02:53,820
+En ek sal 'n paar verduidelik in 'n
+tweede. Maar as jy net kyk na
+
+46
+00:02:53,820 --> 00:02:57,240
+die waterval soort konsep,
+jy kan, jy kan sien dat dit
+
+47
+00:02:57,240 --> 00:03:01,500
+val van een stadium na die volgende. Die belangrikste punt hier is dat
+
+48
+00:03:01,770 --> 00:03:06,060
+al die projekplan is soort
+of gedefinieer van die begin af.
+
+49
+00:03:06,270 --> 00:03:09,180
+En jy volg net op 'n
+-skerm op 'n opeenvolgende manier.
+
+50
+00:03:09,390 --> 00:03:12,390
+So jy kan jou voorstel dat, indien op
+enige punt tydens ontwerp, of by
+
+51
+00:03:12,390 --> 00:03:14,460
+enige punt tydens die
+implementering, of een van die
+
+52
+00:03:14,460 --> 00:03:17,070
+later stadiums, daar is iets
+waaraan jy moet verander
+
+53
+00:03:17,070 --> 00:03:20,640
+die plan. Hierdie proses is nogal
+rigied en laat nie regtig toe nie
+
+54
+00:03:20,640 --> 00:03:24,960
+hierdie. En dus is die iteratiewe
+-proses 'n bietjie meer generies of
+
+55
+00:03:24,960 --> 00:03:26,640
+'n bietjie meer reageer,
+
+56
+00:03:27,720 --> 00:03:32,310
+dit begin gewoonlik deur te breek
+'n groter probleem in kleiner
+
+57
+00:03:32,340 --> 00:03:36,420
+stukke, sodat hulle meer
+word. Presies wat klein
+
+58
+00:03:36,420 --> 00:03:40,890
+beteken. Dit is wat baie verskil tussen verskillende,
+
+59
+00:03:40,890 --> 00:03:43,680
+maar dit kan iets wees wat
+'n dag hou, dit kan iets wees
+
+60
+00:03:43,680 --> 00:03:48,240
+wat 'n paar uur duur. En dan
+jy doen jy hierdie soort van
+
+61
+00:03:48,240 --> 00:03:54,750
+naellope, of jy versamel hierdie
+take in mylpale. En, en
+
+62
+00:03:54,750 --> 00:03:57,840
+sodra elke mylpaal
+voltooi is, dan bereik jy a
+
+63
+00:03:57,840 --> 00:04:02,310
+stadium waar waar jy wil hê
+'n eerste vrystelling of 'n prototipe
+
+64
+00:04:02,340 --> 00:04:05,730
+van die ding wat jy probeer
+te bereik. In die geval van
+
+65
+00:04:05,730 --> 00:04:09,540
+jou OLS-projek, kan dit
+'n mylpaal wees, byvoorbeeld jy
+
+66
+00:04:09,540 --> 00:04:13,800
+het 'n webwerf om te bou. En jy
+nie dink hoe om dit te breek nie
+
+67
+00:04:13,980 --> 00:04:18,480
+groot taak in kleiner stukke.
+En dit kan die eerste wees
+
+68
+00:04:18,480 --> 00:04:22,110
+artikel wat jy skryf kan
+die 'n voorbeeld van 'n eerste wees
+
+69
+00:04:22,110 --> 00:04:22,680
+aflewerbaar.
+
+70
+00:04:26,730 --> 00:04:31,560
+En so om dit op te som, dit is 'n
+-tegniek hoofsaaklik vir sagteware
+
+71
+00:04:31,560 --> 00:04:34,170
+ontwikkeling, maar ons kan dit
+elders gebruik. En ons kan gaan a
+
+72
+00:04:34,170 --> 00:04:38,190
+bietjie meer in detail van
+hoe om dit werklik te doen. Dit is
+
+73
+00:04:38,190 --> 00:04:42,360
+dit is wonderlik vir produkprojek
+-bestuur, dit help jou
+
+74
+00:04:42,420 --> 00:04:46,110
+visualiseer die werk wat jy
+moet doen, en ook om
+
+75
+00:04:48,240 --> 00:04:51,420
+nooi ander om ook by die
+-projek aan te sluit, want
+
+76
+00:04:51,420 --> 00:04:54,300
+alles is baie sigbaar in
+terme van wat gedoen moet word
+
+77
+00:04:54,300 --> 00:04:58,680
+en wat gedoen is. En dan
+is daar baie wat daar baie is
+
+78
+00:04:58,680 --> 00:04:59,970
+van variasies in terme van hoe
+
+79
+00:05:00,000 --> 00:05:04,290
+Dit is gestruktureer, en ook in
+terme van voordele bo die
+
+80
+00:05:04,290 --> 00:05:08,190
+tradisionele waterval metode. So
+So ek het genoem afbreek
+
+81
+00:05:08,190 --> 00:05:12,660
+dinge in take en
+mylpale en so aan. En ek
+
+82
+00:05:12,660 --> 00:05:17,190
+het ook genoem dat jy
+kan mik vir skywe van een tot twee
+
+83
+00:05:17,190 --> 00:05:21,660
+ure, ideaal gesproke, nie meer as 'n
+dag of twee nie. Die rede hiervoor
+
+84
+00:05:21,660 --> 00:05:25,110
+fragmentasie is omdat jy 'n goeie en goeie
+wil hê
+
+85
+00:05:25,110 --> 00:05:28,920
+van, van vordering, is dit baie dikwels
+die geval dat jy 'n skat
+
+86
+00:05:28,920 --> 00:05:31,710
+taak om een of twee uur te wees. En
+dan blyk dit om wel 'n te spandeer
+
+87
+00:05:31,710 --> 00:05:34,860
+hele middag of iets
+want ons word afgelei,
+
+88
+00:05:34,860 --> 00:05:37,830
+want daar is ander dinge
+wat ons nie regtig gedink het nie. En
+
+89
+00:05:38,100 --> 00:05:41,760
+die idee hier is dat die Agile
+-beweging jou sal help om te struktureer
+
+90
+00:05:42,060 --> 00:05:45,510
+daardie dinge wat
+die take is wat jy doen. En
+
+91
+00:05:45,510 --> 00:05:48,420
+hulle word net weer take,
+wat later opgetel sal word,
+
+92
+00:05:48,660 --> 00:05:52,650
+en beweeg na 'n mylpaal wat jy op 'n later
+sal voltooi.
+
+93
+00:05:54,420 --> 00:05:56,970
+En so om jou 'n meer
+voorbeeld te gee, of 'n werklike lewe
+
+94
+00:05:56,970 --> 00:05:57,570
+voorbeeld,
+
+95
+00:05:58,590 --> 00:06:01,830
+as jy reeds
+'n bietjie van GitHub verken het, en as
+
+96
+00:06:01,830 --> 00:06:05,640
+jy het dalk deur 'n paar van
+die bestaande projekte daar blaai, jy
+
+97
+00:06:05,640 --> 00:06:10,920
+dalk sien projek soos inter
+myne, waar in hierdie in hierdie
+
+98
+00:06:10,920 --> 00:06:14,640
+diagram, elk van hierdie grys
+bokse is
+
+99
+00:06:15,750 --> 00:06:19,410
+jammer, vir die agtergrond geraas.
+Elkeen van hierdie terug elk van hierdie
+
+100
+00:06:19,530 --> 00:06:22,260
+grys bokse is 'n weergawe vrystelling.
+
+101
+00:06:23,670 --> 00:06:29,610
+En die take self is
+binne elk van hierdie grys bokse.
+
+102
+00:06:30,390 --> 00:06:35,220
+En in hierdie geval, mylpale,
+daar is verskeie hulle, jy kan
+
+103
+00:06:35,220 --> 00:06:38,940
+sien reeds 'n raming van
+wanneer dit bereik sal word.
+
+104
+00:06:39,690 --> 00:06:44,430
+En, en, en ook 'n baie
+kleurvolle koppelvlak vir vir hoe
+
+105
+00:06:44,430 --> 00:06:49,020
+die hoe om dinge te benoem en hoe
+om te struktureer nie net in terme nie
+
+106
+00:06:49,020 --> 00:06:51,900
+van mylpale, maar ook in terme
+van wat hierdie take is, is almal
+
+107
+00:06:51,900 --> 00:06:52,350
+oor.
+
+108
+00:06:53,940 --> 00:06:56,400
+Op 'n effens ander manier
+of 'n meer
+
+109
+00:06:58,230 --> 00:07:01,860
+soort van so een van die nadele, een
+van die paradigmas in 'n werk of a
+
+110
+00:07:01,860 --> 00:07:03,960
+meer gewilde een, as jy dit gebruik het
+
+111
+00:07:05,820 --> 00:07:09,570
+die Kanban-stylbord waar
+in plaas daarvan om te hê
+
+112
+00:07:10,740 --> 00:07:12,960
+die weergawes hou van of die
+mylpale, soos ons genoem het
+
+113
+00:07:12,960 --> 00:07:16,920
+voorheen het jy net die idee
+van wat wat gedoen moet word, wat
+
+114
+00:07:16,920 --> 00:07:20,130
+is aan die gang en wat
+is reeds voltooi. So dit is
+
+115
+00:07:20,130 --> 00:07:23,940
+soos 'n vereenvoudigde weergawe is nie
+so gefokus op een sagteware of
+
+116
+00:07:23,940 --> 00:07:30,270
+weergawes of spesifieke mylpale
+of doelwitte. Maar dit is meer om
+
+117
+00:07:30,270 --> 00:07:34,350
+vang vas wat eintlik
+aktief aan gewerk word. En en jy
+
+118
+00:07:34,350 --> 00:07:37,920
+kan hierdie proses binne 'n
+-mylpaal doen. Dus al die take
+
+119
+00:07:37,920 --> 00:07:41,010
+wat jy nou op die skerm sien
+kan binne een mylpaal wees
+
+120
+00:07:41,340 --> 00:07:46,620
+alleen. Dit verander dit, ook na
+sê dat vir GitHub, daar is
+
+121
+00:07:46,950 --> 00:07:50,970
+'n paar vereenvoudigings en 'n paar
+outomatisering wat jy kan doen. En
+
+122
+00:07:51,480 --> 00:07:55,080
+jy ons kan ons kan later oor
+praat as jy belangstel.
+
+123
+00:07:55,710 --> 00:08:01,650
+En so net om 'n paar
+voorbeelde saam te vat, kan jy 'n taak hê
+
+124
+00:08:01,650 --> 00:08:04,830
+dit is net om te verkry soos in
+die webwerf konteks wat ek
+
+125
+00:08:04,830 --> 00:08:08,640
+voorheen genoem, kan een, een groot
+taak wees om 'n
+
+126
+00:08:08,640 --> 00:08:11,490
+domein vir daardie webwerf. En
+dan kan jy 'n voorbeeld van sien
+
+127
+00:08:11,490 --> 00:08:15,840
+hoe om daardie taak af te breek in
+kleiner take. Of as jy 'n
+
+128
+00:08:15,840 --> 00:08:19,290
+spesifieke afdeling van die webwerf
+wat jy wil skep. En
+
+129
+00:08:19,290 --> 00:08:22,530
+dan kan jy sien dat vir daardie
+is daar dalk meer take wat
+
+130
+00:08:22,530 --> 00:08:25,140
+voltooi moet word. En dus
+ideaal, jy sal dit afbreek
+
+131
+00:08:25,140 --> 00:08:28,320
+weer, in daarna
+kleiner stappe.
+
+132
+00:08:32,340 --> 00:08:38,160
+Ek sal dit oorslaan vir die
+ter wille van die tyd. En ek het nie so gegaan nie
+
+133
+00:08:38,160 --> 00:08:40,890
+baie in die jargon wat
+betrokke is, ek het dit genoem
+
+134
+00:08:40,890 --> 00:08:44,340
+daar is verskillende sub
+-raamwerke, Scrum, Kanban. En
+
+135
+00:08:44,340 --> 00:08:48,420
+Ekstreme programmering is sowat
+voorbeelde hiervan. Hulle almal
+
+136
+00:08:48,420 --> 00:08:52,140
+volg die die Agile-beginsels,
+wat veranderinge tussen hulle is
+
+137
+00:08:52,140 --> 00:08:55,530
+soms hoe groot hierdie take
+is, hoe groot die mylpale is,
+
+138
+00:08:55,830 --> 00:08:59,790
+hoe gereeld jy jy soort van doen die
+die groter lus of die kleiner
+
+139
+00:08:59,790 --> 00:09:03,930
+lus vir hoe lank jy hierdie
+dinge doen wat naellope genoem word, wat is
+
+140
+00:09:03,960 --> 00:09:06,570
+soort van 'n manier om die
+hele groep aan die werk te kry
+
+141
+00:09:06,570 --> 00:09:11,430
+gesamentlik in 'n stel take.
+En, en dan net hoe jy
+
+142
+00:09:11,430 --> 00:09:15,240
+struktuur maar so sonder om
+te veel in detail daaroor te gaan
+
+143
+00:09:15,240 --> 00:09:18,990
+net verskillende maniere om die
+te hanteer en om te prioritiseer
+
+144
+00:09:18,990 --> 00:09:25,200
+die take wat jy moet doen.
+En, en dan om te finaliseer, selfs
+
+145
+00:09:25,200 --> 00:09:28,080
+al het ek probeer om hier ook baie
+oppervlakkig te wees, om
+
+146
+00:09:28,080 --> 00:09:31,530
+gee soort van 'n hoë vlak
+inleiding hieraan
+
+147
+00:09:31,530 --> 00:09:35,610
+onderwerp. As jy is as jy
+sagteware-ontwikkeling doen, sal jy
+
+148
+00:09:35,610 --> 00:09:39,480
+vind dat al hierdie waarskynlik
+baie meer weergawes vertaal,
+
+149
+00:09:39,480 --> 00:09:45,780
+mylpale en so meer. Hierdie soort
+maak sin. Maar ek gebruik dit
+
+150
+00:09:45,780 --> 00:09:49,290
+persoonlik daarvoor vir my eie dag
+tot dag net om take te bestuur wat
+
+151
+00:09:49,290 --> 00:09:53,400
+Ek moet dinge doen soos
+verslagdoening of vergaderings beplan
+
+152
+00:09:53,400 --> 00:09:57,810
+of enigiets, enigiets van hierdie
+soort en en ek vind dat dit
+
+153
+00:09:57,810 --> 00:09:58,890
+werk nogal goed.
+
